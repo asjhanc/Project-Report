@@ -164,6 +164,8 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 **Alonso Fernando Robles Astuñaupa (u202112662)**
 
+![Imgur](https://i.imgur.com/GHaRGNq.png)
+
 **Erick gabriel Urbizagástegui Alvarez (u20201e465)**
 
 ![Imgur](https://i.imgur.com/NtO8rFx.png)
