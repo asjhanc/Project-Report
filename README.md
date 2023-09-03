@@ -169,6 +169,7 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 ![Imgur](https://i.imgur.com/NtO8rFx.png)
 
 **Johan Raúl Moreno Vergara (u20201c105)**
+[![Plantilla-Perfil-del-integrante.png](https://i.postimg.cc/L6rPJJbG/Plantilla-Perfil-del-integrante.png)](https://postimg.cc/Yhz0VCkx)
 
 **Luis Fernando Isla Quispe (u202124146)**
 
