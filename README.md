@@ -172,7 +172,7 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 [![Plantilla-Perfil-del-integrante.png](https://i.postimg.cc/L6rPJJbG/Plantilla-Perfil-del-integrante.png)](https://postimg.cc/Yhz0VCkx) <br>
 
-[Plantilla-Perfil-del-integrante.png](https://postimg.cc/Yhz0VCkx)
+<img src="https://i.postimg.cc/L6rPJJbG/Plantilla-Perfil-del-integrante.png" style="width: 100%;">
 
 **Luis Fernando Isla Quispe (u202124146)**
 
