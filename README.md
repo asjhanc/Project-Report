@@ -170,9 +170,7 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 ![Imgur](https://i.imgur.com/NtO8rFx.png)
 
-**Johan Raúl Moreno Vergara (u20201c105)** <br>
-
-[![Plantilla-Perfil-del-integrante.png](https://i.postimg.cc/L6rPJJbG/Plantilla-Perfil-del-integrante.png)](https://postimg.cc/Yhz0VCkx) <br>
+**Johan Raúl Moreno Vergara (u20201c105)** 
 
 <img src="https://i.postimg.cc/L6rPJJbG/Plantilla-Perfil-del-integrante.png" style="width: 100%;">
 
@@ -441,6 +439,10 @@ Se han identificado dos segmentos objetivos.
 
 ### Análisis de entrevistas
 
+**Análisis de los usuarios que usan el servicio de alquiler**
+
+En primer lugar, es posible confirmar que cada uno de los entrevistados ha manejado por lo menos una vez en su vida, en las cuales han manejarón un vehículo alquilado donde su forma de contacto para el préstamo del servicio fue virtual y/o presencial. Por otro lado, consideran que toda información (transparente) sobre el auto es de gran relevancia, ya que eso puede influir en sus decisiones. Asimismo, el hecho de la atención, la practicidad y la variedad que posea el servicio es de gran importancia, puesto que eso define toda la experiencia del usuario. De la misma manera, creen que la facturación del alquiler debe ser estrechamente proporcional al uso que le den; sin embargo, creen que lo más óptimo es calcular envase a horas. Tienen como método principal de pago la forma presencial y virtual (primordial). Por último, consideran que una aplicación web los ayudaría en gran medida a facilitar la información y comunicación entre ambas partes, evitando así el contacto físico en caso lo considere innecesario. Siguiendo la idea, conocen acerca de varias empresas que brinden el mismo servicio; sin embargo, preferirían algo novedoso.
+
 ## Needfinding
 
 ### User Personas
@@ -455,7 +457,7 @@ Se han identificado dos segmentos objetivos.
 
 # Capítulo III: Requirements Specification
 
-## To-Be Scenario Mapping
+### To-Be Scenario Mapping
 
 ### User Stories
 
