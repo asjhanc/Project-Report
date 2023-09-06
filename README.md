@@ -150,7 +150,7 @@ INSERTAR IMÁGENES CON FECHA
 
 ### Descripción de la Startup
 
-TechVerse es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
+AutoYa! es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
 
 **Misión**
 
@@ -308,17 +308,17 @@ Se han identificado dos segmentos objetivos.
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
       <td style="text-align:center;">AutoYa!</td>
-      <td style="text-align:center;">Competidor 1</td>
-      <td style="text-align:center;">Competidor 2</td>
-      <td style="text-align:center;">Competidor 3</td>
+      <td style="text-align:center;">KAYAK</td>
+      <td style="text-align:center;">RENTO</td>
+      <td style="text-align:center;">BUDGET</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil</td>
       <td style="text-align:center;">Overview</td>
-      <td style="text-align:center;">Fila 4, Columna 3</td>
-      <td style="text-align:center;">Fila 4, Columna 4</td>
-      <td style="text-align:center;">Fila 4, Columna 5</td>
-      <td style="text-align:center;">Fila 4, Columna 6</td>
+      <td style="text-align:center;">Starup que busca faciltar el aqluiler de autos mediante su nueva propuesta tecnológica.</td>
+      <td style="text-align:center;">Opción popular para el alquiler de autos y enfocado en el tema de viajes y vuelos para viajeros.</td>
+      <td style="text-align:center;">Plataforma de alquiler de autos con presencia en 15 países de América Latina.</td>
+      <td style="text-align:center;">Compañía de alquiler de autos con presencia en 140 países.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
