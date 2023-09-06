@@ -316,7 +316,7 @@ Se han identificado dos segmentos objetivos.
       <td rowspan="2" style="text-align:center;">Perfil</td>
       <td style="text-align:center;">Overview</td>
       <td style="text-align:center;">Starup que busca faciltar el aqluiler de autos mediante su nueva propuesta tecnológica.</td>
-      <td style="text-align:center;">Opción popular para el alquiler de autos y enfocado en el tema de viajes y vuelos para viajeros.</td>
+      <td style="text-align:center;">Opción popular para el alquiler de autos principalmente enfocado en el tema de viajes y vuelos para viajeros.</td>
       <td style="text-align:center;">Plataforma de alquiler de autos con presencia en 15 países de América Latina.</td>
       <td style="text-align:center;">Compañía de alquiler de autos con presencia en 140 países.</td>
     </tr>
