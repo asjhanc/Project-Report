@@ -322,47 +322,47 @@ Se han identificado dos segmentos objetivos.
     </tr>
     <tr>
       <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
-      <td style="text-align:center;">Fila 5, Columna 3</td>
-      <td style="text-align:center;">Fila 5, Columna 4</td>
-      <td style="text-align:center;">Fila 5, Columna 5</td>
-      <td style="text-align:center;">Fila 5, Columna 6</td>
+      <td style="text-align:center;">Nuevos métodos de protección ante fraudes y sistema de monitoreo de los autos.</td>
+      <td style="text-align:center;">Comparación de precios, amplia cobertura, ofertas y descuentos.</td>
+      <td style="text-align:center;">Precios competitivos, cobertura regional, servicio personalizado.</td>
+      <td style="text-align:center;">Precios competitivos, variedad de autos, servicio global.</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
       <td style="text-align:center;">Mercado objetivo</td>
-      <td style="text-align:center;">Fila 6, Columna 3</td>
-      <td style="text-align:center;">Fila 6, Columna 4</td>
-      <td style="text-align:center;">Fila 6, Columna 5</td>
-      <td style="text-align:center;">Fila 6, Columna 6</td>
+      <td style="text-align:center;">Personas que deseen alquilar su auto de manera segura y aquellas que requieran rentar un auto por un tiempo.</td>
+      <td style="text-align:center;">Personas que buscan viajar, ya sea por negocios o placer.</td>
+      <td style="text-align:center;">Personas que buscan alquilar autos para viajes, vacaciones o negocios en América Latina.</td>
+      <td style="text-align:center;">Personas que buscan alquilar autos para viajes, vacaciones o negocios en todo el mundo.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Estrategias de marketing</td>
-      <td style="text-align:center;">Fila 7, Columna 3</td>
-      <td style="text-align:center;">Fila 7, Columna 4</td>
-      <td style="text-align:center;">Fila 7, Columna 5</td>
-      <td style="text-align:center;">Fila 7, Columna 6</td>
+      <td style="text-align:center;">Publicidad online, redes sociales.</td>
+      <td style="text-align:center;">Publicidad online, redes sociales, alianzas con empresas de viajes.</td>
+      <td style="text-align:center;">Publicidad online, redes sociales, alianzas con empresas de viajes.</td>
+      <td style="text-align:center;">Publicidad online, redes sociales, alianzas con empresas de viajes.</td>
     </tr>
     <tr>
       <td rowspan="3" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Productos & Servicios</td>
-      <td style="text-align:center;">Fila 8, Columna 3</td>
-      <td style="text-align:center;">Fila 8, Columna 4</td>
-      <td style="text-align:center;">Fila 8, Columna 5</td>
-      <td style="text-align:center;">Fila 8, Columna 6</td>
+      <td style="text-align:center;">Renta de autos, monitoreo de seguridad, facilidad de trámites.</td>
+      <td style="text-align:center;">Comparación de precios de vuelos, hoteles y alquileres de autos. Ofertas y descuentos exclusivos.</td>
+      <td style="text-align:center;">Autos de diferentes marcas y modelos, seguros, asistencia en carretera.</td>
+      <td style="text-align:center;">Autos de diferentes marcas y modelos, seguros, asistencia en carretera.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Precios & Costos</td>
-      <td style="text-align:center;">Fila 9, Columna 3</td>
-      <td style="text-align:center;">Fila 9, Columna 4</td>
-      <td style="text-align:center;">Fila 9, Columna 5</td>
-      <td style="text-align:center;">Fila 9, Columna 6</td>
+      <td style="text-align:center;">Precios competitivos al mercado.</td>
+      <td style="text-align:center;">Precios competitivos al mercado.</td>
+      <td style="text-align:center;">Precios competitivos al mercado.</td>
+      <td style="text-align:center;">Precios competitivos al mercado.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Canales de distribución<br>(Web y/o Móvil)</td>
-      <td style="text-align:center;">Fila 10, Columna 3</td>
-      <td style="text-align:center;">Fila 10, Columna 4</td>
-      <td style="text-align:center;">Fila 10, Columna 5</td>
-      <td style="text-align:center;">Fila 10, Columna 6</td>
+      <td style="text-align:center;">Web</td>
+      <td style="text-align:center;">Web y móvil.</td>
+      <td style="text-align:center;">Web y móvil.</td>
+      <td style="text-align:center;">Web y móvil.</td>
     </tr>
     <tr>
       <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
