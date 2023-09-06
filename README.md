@@ -150,7 +150,7 @@ INSERTAR IMÁGENES CON FECHA
 
 ### Descripción de la Startup
 
-AutoYa! es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
+AutoYa! es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Nuestras características, como la retención del pago, el seguimiento por GPS, una amplia selección de autos y un servicio al cliente de calidad, ayudan a los clientes a sentirse seguros, protegidos, cómodos y ahorradores. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
 
 **Misión**
 
@@ -367,21 +367,21 @@ Se han identificado dos segmentos objetivos.
     <tr>
       <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Fortalezas</td>
-      <td style="text-align:center;">Fila 11, Columna 3</td>
+      <td style="text-align:center;">Método anti fraude, facildad de trámites, sistema de seguimiento del auto para seguridad.</td>
       <td style="text-align:center;">Experiencia en el mercado, presencia global.</td>
       <td style="text-align:center;">Experiencia en el mercado regional.</td>
       <td style="text-align:center;">Experiencia en el mercado global.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Debilidades</td>
-      <td style="text-align:center;">Fila 12, Columna 3</td>
+      <td style="text-align:center;">Falta de experiencia en el mercado, falta de promoción de nuestra startup.</td>
       <td style="text-align:center;">Dependencia de terceros proveedores de servicios.</td>
       <td style="text-align:center;">Falta de flexibilidad de reservación.</td>
       <td style="text-align:center;">Falta de flexibilidad de reservación.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Oportunidades</td>
-      <td style="text-align:center;">Fila 13, Columna 3</td>
+      <td style="text-align:center;">Necesidad de las personas por rentar un auto de manera rápida y segura.</td>
       <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
       <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
       <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
