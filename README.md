@@ -368,30 +368,30 @@ Se han identificado dos segmentos objetivos.
       <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Fortalezas</td>
       <td style="text-align:center;">Fila 11, Columna 3</td>
-      <td style="text-align:center;">Fila 11, Columna 4</td>
-      <td style="text-align:center;">Fila 11, Columna 5</td>
-      <td style="text-align:center;">Fila 11, Columna 6</td>
+      <td style="text-align:center;">Experiencia en el mercado, presencia global.</td>
+      <td style="text-align:center;">Experiencia en el mercado regional.</td>
+      <td style="text-align:center;">Experiencia en el mercado global.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Debilidades</td>
       <td style="text-align:center;">Fila 12, Columna 3</td>
-      <td style="text-align:center;">Fila 12, Columna 4</td>
-      <td style="text-align:center;">Fila 12, Columna 5</td>
-      <td style="text-align:center;">Fila 12, Columna 6</td>
+      <td style="text-align:center;">Dependencia de terceros proveedores de servicios.</td>
+      <td style="text-align:center;">Falta de flexibilidad de reservación.</td>
+      <td style="text-align:center;">Falta de flexibilidad de reservación.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Oportunidades</td>
       <td style="text-align:center;">Fila 13, Columna 3</td>
-      <td style="text-align:center;">Fila 13, Columna 4</td>
-      <td style="text-align:center;">Fila 13, Columna 5</td>
-      <td style="text-align:center;">Fila 13, Columna 6</td>
+      <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
+      <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
+      <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
     </tr>
     <tr>
       <td style="text-align:center;">Amenazas</td>
-      <td style="text-align:center;">Fila 14, Columna 3</td>
-      <td style="text-align:center;">Fila 14, Columna 4</td>
-      <td style="text-align:center;">Fila 14, Columna 5</td>
-      <td style="text-align:center;">Fila 14, Columna 6</td>
+      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
+      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
+      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
+      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
     </tr>
   </tbody>
 </table>
