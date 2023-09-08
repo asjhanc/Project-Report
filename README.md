@@ -467,23 +467,27 @@ Timing: 4:10; 3:09 min
 
 Piero Ruiz es un estudiante universitario de 21 años. Reside en San Martín de Porres, Lima. Piero sí ha manejado autos anteriormente, pero no ha alquilado uno antes, aunque menciona que le gustaría hacerlo. Lo que él priorizaría al alquilar un auto sería que el vehículo tenga buenas características y esté en buen estado, además considera importante que el vehículo pueda recorrer largas distancias y que no gaste mucho combustible. Asimismo, piensa que un servicio de alquiler de autos debe tener un proceso sencillo y seguro, junto con un sistema de comunicación efectivo con el propietario del vehículo. Piero piensa que se debería cobrar por día de uso del auto, ya que de otra forma sería muy tedioso y costoso. También, cree que se debería cobrar alrededor de 100 soles por día de uso del auto y que se debería poder pagar tanto en efectivo como por internet y sí estaría interesado en alquilar un auto por medio de una aplicación web. Finalmente, el entrevistado manifestó que no conoce ningún servicio para alquilar autos por internet.
 
+**Entrevista 3**
+![Imgur](https://i.imgur.com/FBAA869.png)
+Víctor Ramírez es un estudiante universitario de 18 años. Reside en Surco, Lima. tiene experiencia conduciendo, sin embargo, no ha tenido la oportunidad previamente de alquilar un auto aunque menciona haber tenido la intención. Víctor menciona que al alquilar un auto no prioriza con exactitud sus especificaciones ya que estas varían en funci´´on de lo que esté buscando para la ocación. En cambio, prefiere asegurarse de que la empresa de la cual alquilaría se confiable, tenga buena documentación y buenas referencias. Por otro lado, nos menciona que considera importante que el carro esté en perfectas condiciones, verificado por un especialista que avale su buen funcionamiento y tener conocimiento exacto de las tarifas que se aplicarían. Considera que el servicio debería contar con un servicio de grúa o seguro en caso de algún desperfecto o accidente, así como estar totalmente limpio. Así mismo considera que se debería cobrar por día con una cuota inicial previo al servicio y el resultante al finalizarlo y respetar el presupuesto hecho sin cargos extra fuera de cotización. Considera que se debe cobrar en función del tipo de auto, nos brinda como ejemplo un sedán de motor 1600 cuyo valor no debería superar los 200 soles diarios. Cree que se debería pagar por medios digitales para proteger al arrendador y manifiesta que la idea de arrendar un carro por una aplicacion web le parece "espectacular". Finalmente, menciona que no conoce de ningún medio que lo haga en la actualidad.
+
 **Arrendadores**
 
-**Entrevista 3**
+**Entrevista 4**
 ![Imgur](https://i.imgur.com/TiE9WhC.png)
 
 Timing: 7:25; 3:54 min
 
 Valeria Nevado es una estudiante universitaria de 20 años. Reside en Cercado de Lima, Lima. Valeria sí ha puesto su auto en alquiler anteriormente, y lo hizo por WhatsApp, Facebook y de forma presencial. Ella priorizaría sobre todo saber a quién le está alquilando su auto y cree que es importante tener información de la persona a quien se lo da. Asimismo, cree que las personas que quieran registrarse para alquilar un auto deben pasar por un filtro que valide que es una persona que usará el auto de forma correcta; y cree que debe. También cree que se debería cobrar 100 soles mínimo por día de uso del auto. La entrevistada manifestó que se debería cobrar por medio de tarjetas de crédito y débito, ya que en efectivo se han visto varios casos de robo. Finalmente, sí estaría interesada en poner en alquiler su auto por medio de una aplicación web porque le parece más seguro que por otros medios; y sabe que existen sitios web para alquilar autos, pero nunca los ha usado.
 
-**Entrevista 4**
+**Entrevista 5**
 ![Imgur](https://i.imgur.com/BACVdYv.png)
 
 Timing: 11:19; 3:25 min
 
 Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito de San Miguel, Lima. Manuel dice que nunca ha puesto en alquiler su auto, pero sí estaría interesado en hacerlo. También menciona que lo que más priorizaría al alquilar su auto sería la seguridad y el compromiso que tenga el arrendatario, no puede ser alguien con denuncias o que no tenga la solvencia económica necesaria. Asimismo, piensa que sí sería buena idea poder ver la información de la persona a la que le alquilará su auto y que un servicio de alquiler de autos debería contar obligatoriamente con un seguro, además del soat. Adicionalmente, cree que se debería cobrar por hora del uso del auto, y el precio dependería del auto, de su modelo, antigüedad, condición, etc. El entrevistado manifestó que los pagos se deberían realizar por tarjeta y sí estaría dispuesto en poner su auto en alquiler por medio de una aplicación web, debido a que sería más rápido encontrar arrendatarios. Finalmente, Manuel mencionó que no conoce ningún sitio web para alquilar autos por internet.
 
-**Entrevista 5**
+**Entrevista 6**
 
 [![Captura-de-pantalla-2023-09-08-051842.png](https://i.postimg.cc/ZY9706fz/Captura-de-pantalla-2023-09-08-051842.png)](https://postimg.cc/NLc7z2qd)
 
