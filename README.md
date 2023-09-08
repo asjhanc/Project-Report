@@ -79,6 +79,8 @@ INSERTAR IMÁGENES CON FECHA
     - [As-is Scenario Mapping](#as-is-scenario-mapping)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [To-Be Scenario Mapping](#to-be-scenario-mapping)
+      - [**Usuario: Propietario**](#usuario-propietario)
+      - [**Usuario: Arrendatario**](#usuario-arrendatario)
     - [User Stories](#user-stories)
     - [Impact Mapping](#impact-mapping)
     - [Product Backlog](#product-backlog)
@@ -101,6 +103,7 @@ INSERTAR IMÁGENES CON FECHA
     - [Web Applications Mock-ups](#web-applications-mock-ups)
     - [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)
   - [Web Applications Prototyping](#web-applications-prototyping)
+    - [Desktop Prototyping](#desktop-prototyping)
   - [Domain-Driven Software Architecture](#domain-driven-software-architecture)
     - [Software Architecture Context Diagram](#software-architecture-context-diagram)
     - [Software Architecture Container Diagrams](#software-architecture-container-diagrams)
@@ -108,7 +111,7 @@ INSERTAR IMÁGENES CON FECHA
   - [Software Object-Oriented Design](#software-object-oriented-design)
     - [Class Diagrams](#class-diagrams)
     - [Class Dictionary](#class-dictionary)
-  - [Databse Design](#databse-design)
+  - [Database Design](#database-design)
     - [Database Diagram](#database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [Software Configuration Management](#software-configuration-management)
@@ -175,6 +178,8 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 <img src="https://i.postimg.cc/L6rPJJbG/Plantilla-Perfil-del-integrante.png" style="width: 100%;">
 
 **Luis Fernando Isla Quispe (u202124146)**
+
+![Imgur](https://i.imgur.com/4OIvzsz.png)
 
 **Nicolás Zagal Vallejo (u20201c429)**
 
@@ -448,7 +453,7 @@ Somos consciente de que tener demasiada publicidad en una pantalla resulta moles
 13. ¿Conoce algun medio que permita alquilar autos por internet?
 
 ### Registro de entrevistas
-URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Arrendatarios**
 
@@ -1964,3 +1969,5 @@ Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhp
 - El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
 
 # Anexos
+
+- Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
