@@ -1412,244 +1412,236 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 
 **PERFIL DE USUARIO:** El usuario puede visualizar sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Alquilados . El usuario podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
 
-![impur](./imagenes/img_wireframe/arrendatario/perfi1.png)
-![impur](./imagenes/img_wireframe/arrendatario/perfi2.png)
-![impur](./imagenes/img_wireframe/arrendatario/perfi3.png)
-![impur](./imagenes/img_wireframe/arrendatario/perfi4.png)
-![impur](./imagenes/img_wireframe/arrendatario/perfi5.png)
+![Imgur](https://i.imgur.com/WNjzZlu.png)
+![Imgur](https://i.imgur.com/ANZ7UwM.png)
+![Imgur](https://i.imgur.com/6tUq8uT.png)
+![Imgur](https://i.imgur.com/HIDEaTG.png)
+![Imgur](https://i.imgur.com/C4INMwh.png)
 
 La opcion mas importante en esta sección es el botón de **Subir documentos de Antecendente Penales**. Podra subir desde su ordenador los documentos necesarios para validar sus datos. Luego el boton cambiará a **Actualizar documentos de Antecendente Penales**.
 
-![impur](./imagenes/img_wireframe/arrendatario/perfi1.png)
-![impur](./imagenes/img_wireframe/arrendatario/perfi6.png)
-![impur](./imagenes/img_wireframe/arrendatario/perfi7.png)
-![impur](./imagenes/img_wireframe/arrendatario/perfi8.png)
+![Imgur](https://i.imgur.com/3hISSGk.png)
+![Imgur](https://i.imgur.com/W1ipYVi.png)
+![Imgur](https://i.imgur.com/c4toYOp.png)
+![Imgur](https://i.imgur.com/lMnbkE6.png)
 
 
 **LOGIN:** El usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
-![impur](./imagenes/img_wireframe/arrendatario/prologin-1.png)
-![impur](./imagenes/img_wireframe/arrendatario/prologin-2.png)
-![impur](./imagenes/img_wireframe/arrendatario/prologin-3.png)
-![impur](./imagenes/img_wireframe/arrendatario/prologin-4.png)
-![impur](./imagenes/img_wireframe/arrendatario/prologin-5.png)
-![impur](./imagenes/img_wireframe/arrendatario/prologin-6.png)
-![impur](./imagenes/img_wireframe/arrendatario/prologin.png)
+![Imgur](https://i.imgur.com/i0xLx8l.png)
+![Imgur](https://i.imgur.com/T8wpnV1.png)
+![Imgur](https://i.imgur.com/yBtKk5S.png)
+![Imgur](https://i.imgur.com/hL9oFpO.png)
+![Imgur](https://i.imgur.com/RrVGy7o.png)
+![Imgur](https://i.imgur.com/DqYKE7B.png)
+![Imgur](https://i.imgur.com/A90hhE5.png)
 
 **REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
 
-![impur](./imagenes/img_wireframe/arrendatario/proregistro.png)
+![Imgur](https://i.imgur.com/F3vpT5t.png)
 
 **INICIO:** El usuario  encontrara toda las opciones de la plataforma . Dentro de esta ventana estará la opcion de **Buscar coche** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Buscar Auto** , **Mantenimiento** , **Alquilar**.
 
-![impur](./imagenes/img_wireframe/arrendatario/inicio.png)
+![Imgur](https://i.imgur.com/o2dP53A.png)
 
 **BUSCAR AUTOS:** El usuario podra filtrar segun sus deseos que tipo de auto desea alquilar.Los datos a ingresar son ubicacion, precio , tiempo de alquiler,marca, modelo, clase y transmisión. El usuario debera presionar el botón **Buscar** para iniciar con la búsqueda, luego aparecerá el resultado de la búsqueda  como datos del vehiculo  , datos del propietario del vehículo y el estatus de la publicacion ya sea Disponible o No Disponible. Dentro de la busqueda estará el botón de **Ver contrato de alquiler**.
 
-![impur](./imagenes/img_wireframe/arrendatario/buscar1.png)
+![Imgur](https://i.imgur.com/71XseEj.png)
 
 EL usuario debe verificar el contrato de Alquiler  que el propietario del vehículo ha publicado.Luego de verificarlo , si desea proceder con el alquiler deberá generar una firma digital presionando el botón **Generar firma digital** y luego presionar el botón **Solicitar Alquiler** para que se envie una solicitud al propietario del vehículo .
 
-![impur](./imagenes/img_wireframe/arrendatario/buscar2.png)
-![impur](./imagenes/img_wireframe/arrendatario/buscar3.png)
-![impur](./imagenes/img_wireframe/arrendatario/buscar4.png)
+![Imgur](https://i.imgur.com/u5vcX0A.png)
+![Imgur](https://i.imgur.com/KjZ4Mni.png)
+![Imgur](https://i.imgur.com/nWvvaJV.png)
 
 
 **MANTENIMIENTO:** El el usuario podra enviar un mensaje directamente al correo electrónico del propietario del vehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debera ingresar los datos necesarios y presionar el botón **Enviar**.
 
-![impur](./imagenes/img_wireframe/arrendatario/mante1.png)
-![impur](./imagenes/img_wireframe/arrendatario/mante2.png)
-![impur](./imagenes/img_wireframe/arrendatario/mante3.png)
-![impur](./imagenes/img_wireframe/arrendatario/mante4.png)
-![impur](./imagenes/img_wireframe/arrendatario/mante5.png)
+![Imgur](https://i.imgur.com/wOrTzjL.png)
+![Imgur](https://i.imgur.com/ESobBTN.png)
+![Imgur](https://i.imgur.com/3V78mYw.png)
+![Imgur](https://i.imgur.com/hrIv1Cx.png)
+![Imgur](https://i.imgur.com/ypDQZGe.png)
 
 **SOLICITUDES:** El usuario podra ver si la solicitud de alquiler esta en espero o si han sido aceptadas o rechazadas por el propietario del vehículo.Si la solicitud ha sido aceptada puedes presionar el botón de **Pagar**.
 
-![impur](./imagenes/img_wireframe/arrendatario/soli1.png)
-![impur](./imagenes/img_wireframe/arrendatario/soli2.png)
+![Imgur](https://i.imgur.com/cAjh9o8.png)
+![Imgur](https://i.imgur.com/oWzEFOe.png)
 
 **ALQUILER:** El usuario podra ver  toda la información de los procesos de alquiler que se hayan realizado. Dentro se podra ver cada vehículo que se haya solicitado y si fue aceptada podrá presionar el botón de **Pagar**.También se puede agregar otro vehículo presionando el botón **Agregar otro vehículo**.
 
-![impur](./imagenes/img_wireframe/arrendatario/alqui1.png)
-![impur](./imagenes/img_wireframe/arrendatario/alqui2.png)
-![impur](./imagenes/img_wireframe/arrendatario/alqui3.png)
+![Imgur](https://i.imgur.com/osBFcYY.png)
+![Imgur](https://i.imgur.com/QoTZUnL.png)
+![Imgur](https://i.imgur.com/KwGYHVW.png)
 
 Al presionar el botón **Pagar** se abrira otra ventana para realizar el pago , se encontrara 2 opciones de pago : EFECTIVO y ONLINE. Dentro de esta ventana estaran los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
 
-![impur](./imagenes/img_wireframe/arrendatario/pago1.png)
+![Imgur](https://i.imgur.com/kDtoxPj.png)
 
 Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana para realizar un pago de confirmacion , que es de 5 soles, por uso de la aplicacion. Luego de pagar saldra una ventana de  confirmacion de hora y fecha de alquiler
 
-![impur](./imagenes/img_wireframe/arrendatario/pagoefe1.png)
-![impur](./imagenes/img_wireframe/arrendatario/pagoon1-1.png)
-![impur](./imagenes/img_wireframe/arrendatario/pagoefe2.png)
-
-
-![impur](./imagenes/img_wireframe/arrendatario/pagoon1.png)
-![impur](./imagenes/img_wireframe/arrendatario/pagoon2.png)
+![Imgur](https://i.imgur.com/1Bd1cbk.png)
+![Imgur](https://i.imgur.com/8UmL4DB.png)
+![Imgur](https://i.imgur.com/9y8E97R.png)
+![Imgur](https://i.imgur.com/jAjgzTy.png)
+![Imgur](https://i.imgur.com/Fb8MCo8.png)
 
 ---------------------------------------------------------
 **PROPIETARIO (Persona que comparte su auto para alquiler):**
 
 **PERFIL DE USUARIO:** El usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario  podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra actualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
 
-![impur](./imagenes/img_wireframe/propietario/properfi1.png)
-![impur](./imagenes/img_wireframe/propietario/properfi2.png)
-![impur](./imagenes/img_wireframe/propietario/properfi3.png)
-![impur](./imagenes/img_wireframe/propietario/properfi4.png)
-![impur](./imagenes/img_wireframe/propietario/properfi5.png)
+![Imgur](https://i.imgur.com/RpimPPW.png)
+![Imgur](https://i.imgur.com/3HIHggx.png)
+![Imgur](https://i.imgur.com/N9XJQg7.png)
+![Imgur](https://i.imgur.com/S1ucSgc.png)
+![Imgur](https://i.imgur.com/giHqx7V.png)
 
 
 **LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
 
-![impur](./imagenes/img_wireframe/propietario/prologin.png)
-![impur](./imagenes/img_wireframe/propietario/prologin-1.png)
-![impur](./imagenes/img_wireframe/propietario/prologin-2.png)
-![impur](./imagenes/img_wireframe/propietario/prologin-3.png)
-![impur](./imagenes/img_wireframe/propietario/prologin-4.png)
-![impur](./imagenes/img_wireframe/propietario/prologin-5.png)
-![impur](./imagenes/img_wireframe/propietario/prologin-6.png)
-![impur](./imagenes/img_wireframe/propietario/prologin-7.png)
+![Imgur](https://i.imgur.com/VzbB9rT.png)
+![Imgur](https://i.imgur.com/hr2975P.png)
+![Imgur](https://i.imgur.com/brBWUsF.png)
+![Imgur](https://i.imgur.com/hPuk7OB.png)
+![Imgur](https://i.imgur.com/NOFRsCc.png)
+![Imgur](https://i.imgur.com/i2R6Mts.png)
+![Imgur](https://i.imgur.com/XTVNrvb.png)
+![Imgur](https://i.imgur.com/YBpS8XA.png)
 
 **REGISTRO:** El usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse**.
 
-![impur](./imagenes/img_wireframe/propietario/proregistro.png)
+![Imgur](https://i.imgur.com/kXeCYtb.png)
 
 **INICIO:** El usuario  encontrara toda las opciones posibles de la plataforma , tambien podra visualizar notificaciones recientes. Dentro de esta ventana estará la opcion de **Compartir tu auto** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Registro vehicular* , **Notificaciones** , **Alquiler**.
 
-![impur](./imagenes/img_wireframe/propietario/proinicio.png)
+![Imgur](https://i.imgur.com/0gu7BrI.png)
 
 **REGISTRO DE VEHÍCULO :** El usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.
 
-![impur](./imagenes/img_wireframe/propietario/proregistrovehi1.png)
-![impur](./imagenes/img_wireframe/propietario/proregistrovehi2.png)
+![Imgur](https://i.imgur.com/hw4oXFc.png)
+![Imgur](https://i.imgur.com/YjVgGru.png)
 
 Al presionar el botón **Crear contrato de alquiler** aparecerá otra ventana en la cual el usuario podrá presionar el botón **Generar contrato predeterminado** y **Subir contrato manual en PDF**.
 Al presionar  **Generar contrato predeterminado** se generara automáticamente un contrato preestablecido con condiciones generales .Luego de generarlo se presionara el botón **Subir contrato**.
 
-![impur](./imagenes/img_wireframe/propietario/provehi3.png)
-![impur](./imagenes/img_wireframe/propietario/provehi4.png)
-![impur](./imagenes/img_wireframe/propietario/provehi5.png)
+![Imgur](https://i.imgur.com/WCJ8hXV.png)
+![Imgur](https://i.imgur.com/aoDLVU2.png)
+![Imgur](https://i.imgur.com/QtRWVsT.png)
 
 
 Al presionar **Subir contrato manual en PDF** aparecera una ventana para subir los documentos en PDF , luego de seleccionarlo se subira automáticamente un contrato.Luego de generado deberá presionar el botón **Subir contrato**.
 
-![impur](./imagenes/img_wireframe/propietario/subircontrato1.png)
-![impur](./imagenes/img_wireframe/propietario/subircontrato2.png)
-![impur](./imagenes/img_wireframe/propietario/provehi5.png)
+![Imgur](https://i.imgur.com/QbJfRFd.png)
+![Imgur](https://i.imgur.com/Mr898EU.png)
+![Imgur](https://i.imgur.com/YEgAQAl.png)
 
 
 Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro de ella aparecerá un botón de **Regresar al registo** , que sirve como redireccionamiento para la ventana principal del REGISTO DEL VEHÍCULO.
 
-![impur](./imagenes/img_wireframe/propietario/provehi6.png)
+![Imgur](https://i.imgur.com/yiV0YW2.png)
 
 
 
 **NOTIFICACIONES:** El usuario podra ver las notificaciones de solicitudes que los arrendatarias hayan generado.En la notificación predeterminada aparecerá los datos de la solicitud.
 
-![impur](./imagenes/img_wireframe/propietario/pronotifi.png)
+![Imgur](https://i.imgur.com/K3gc7GX.png)
 
 **ALQUILER:** En esta ventana estarán todos los autos que se hayan compartido para alquiler,también se podrá ver el estatus del alquiler. Dentro de esta ventana  estará disponible  el botón de **Afiliar cuenta Banco con MODO** , con esta opción el usuario podrá tener una cuenta afiliada y la forma de verificación de pago será más sencilla.
 
-![impur](./imagenes/img_wireframe/propietario/proalqui1.png)
-![impur](./imagenes/img_wireframe/propietario/proalqui2.png)
-![impur](./imagenes/img_wireframe/propietario/proalqui3.png)
+![Imgur](https://i.imgur.com/Up3sBlt.png)
+![Imgur](https://i.imgur.com/f9MOnmt.png)
 
 Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para es auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud  aparecerá los datos de la persona que quiere alquilar el auto .Dentro de esta ventana el usuario que es el propietario del vehículo podrá ver los antecedente penales del arrendatario presionando el botón **Verificar Antecedente penales**, al ser verificado aparecerá al costado del botón si el documento fue Aceptado o Rechazado.
 
-![impur](./imagenes/img_wireframe/propietario/proalqui4.png)
-![impur](./imagenes/img_wireframe/propietario/proalqui5.png)
-![impur](./imagenes/img_wireframe/propietario/proalqui6.png)
+![Imgur](https://i.imgur.com/00dfSrT.png)
+![Imgur](https://i.imgur.com/zBfTyil.png)
+![Imgur](https://i.imgur.com/Fw0AhL6.png)
 
 En esta ventana también estará disponible los boton de **Aceptar Alquiler** y **Rechazar Alquiler**, en donde el usuario podra seleccionar de acuerdo a la verificación hecha si desea o no alquilar el vehículo a esa persona.Si el alquiler es aceptado ,al presionas el botón **Aceptar Alquiler** aparecerá el mensaje de Estado de Pago pendiente, esto quiere decir que el arrendatario aun no ha realizado el pagado, pero si aparece como Estado de Pago Pagado quiere decir que el arrendatario ya ha realizado el pago el alquiler.
 
-![impur](./imagenes/img_wireframe/propietario/proalqui6.png)
-![impur](./imagenes/img_wireframe/propietario/proalqui7.png)
-![impur](./imagenes/img_wireframe/propietario/proalqui8.png)
+![Imgur](https://i.imgur.com/IPuk5Sr.png)
+![Imgur](https://i.imgur.com/Ic5dFSX.png)
+![Imgur](https://i.imgur.com/WiOTv9c.png)
 
 
 ### Web Applications Wireflow Diagrams
 
 Link de Wireflow Diagrams en Figma para una mejor observación:
 
-[Clic al link](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)
+[[Clic al link](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)
 
 Link de Prototipo Interactivo en Figma:
 
-[Clic al link](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)
-
-![impur](./imagenes/img_wireflow/wireflow2.svg)
-
+[[Clic al link](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)
 
 ### Web Applications Mock-ups
 
 **Mock-up de interfaz de usuario arrendatario**
 
 **LOGIN**
-![impur](./imagenes/img_mockup/arrendatario/login1.png)
-![impur](./imagenes/img_mockup/arrendatario/login2.png)
-![impur](./imagenes/img_mockup/arrendatario/login3.png)
-![impur](./imagenes/img_mockup/arrendatario/login4.png)
-![impur](./imagenes/img_mockup/arrendatario/login5.png)
-![impur](./imagenes/img_mockup/arrendatario/login6.png)
-
-
+![Imgur](https://i.imgur.com/m2DwuOZ.png)
+![Imgur](https://i.imgur.com/tgoQabh.png)
+![Imgur](https://i.imgur.com/nDxkNsX.png)
+![Imgur](https://i.imgur.com/s1BLwbQ.png)
+![Imgur](https://i.imgur.com/yuILUj0.png)
+![Imgur](https://i.imgur.com/5ZrpWYy.png)
 
 **REGISTRO**
 
-![impur](./imagenes/img_mockup/arrendatario/registro1.png)
-![impur](./imagenes/img_mockup/arrendatario/registro2.png)
+![Imgur](https://i.imgur.com/rAaDWM1.png)
+![Imgur](https://i.imgur.com/BwCEm19.png)
 
 **INICIO**
 
-![impur](./imagenes/img_mockup/arrendatario/inicio.png)
+![Imgur](https://i.imgur.com/YFj7O2V.png)
 
 **BUSCAR AUTOS**
 
-![impur](./imagenes/img_mockup/arrendatario/buscar1.png)
-![impur](./imagenes/img_mockup/arrendatario/buscar2.png)
-![impur](./imagenes/img_mockup/arrendatario/buscar3.png)
-![impur](./imagenes/img_mockup/arrendatario/buscar4.png)
-![impur](./imagenes/img_mockup/arrendatario/buscar5.png)
-![impur](./imagenes/img_mockup/arrendatario/buscar6.png)
+![Imgur](https://i.imgur.com/3bREzrV.png)
+![Imgur](https://i.imgur.com/d5n7CNy.png)
+![Imgur](https://i.imgur.com/ezmsGlW.png)
+![Imgur](https://i.imgur.com/jN56fSs.png)
+![Imgur](https://i.imgur.com/ujSjX38.png)
+![Imgur](https://i.imgur.com/ehg5kn2.png)
 
 **ALQUILER**
 
-![impur](./imagenes/img_mockup/arrendatario/alqui1.png)
+![Imgur](https://i.imgur.com/gikOxbR.png)
 
-![impur](./imagenes/img_mockup/arrendatario/alqui2.png)
+![Imgur](https://i.imgur.com/58r0u8Q.png)
 
 
-![impur](./imagenes/img_mockup/arrendatario/pago_efectivo.png)
-![impur](./imagenes/img_mockup/arrendatario/pago_online-1.png)
-![impur](./imagenes/img_mockup/arrendatario/pago_efectivo2.png)
-![impur](./imagenes/img_mockup/arrendatario/pago_online.png)
-![impur](./imagenes/img_mockup/arrendatario/pago_online2.png)
+![Imgur](https://i.imgur.com/HIGs2Lt.png)
+![Imgur](https://i.imgur.com/xkJeUG8.png)
+![Imgur](https://i.imgur.com/LAAMoqg.png)
+![Imgur](https://i.imgur.com/NQPiMGE.png)
+![Imgur](https://i.imgur.com/ooCAGvb.png)
 
 
 **SOLICITUDES**
 
-![impur](./imagenes/img_mockup/arrendatario/soli1.png)
-![impur](./imagenes/img_mockup/arrendatario/soli2.png)
+![Imgur](https://i.imgur.com/sMe1YOr.png)
+![Imgur](https://i.imgur.com/Y8aIAOs.png)
 
 **MANTENIMIENTO**
 
-![impur](./imagenes/img_mockup/arrendatario/mante1.png)
-![impur](./imagenes/img_mockup/arrendatario/mante2.png)
-![impur](./imagenes/img_mockup/arrendatario/mante3.png)
-![impur](./imagenes/img_mockup/arrendatario/mante4.png)
-![impur](./imagenes/img_mockup/arrendatario/mante5.png)
-![impur](./imagenes/img_mockup/arrendatario/mante6.png)
+![Imgur](https://i.imgur.com/QILoqi9.png)
+![Imgur](https://i.imgur.com/qL5aATi.png)
+![Imgur](https://i.imgur.com/m2m6mEF.png)
+![Imgur](https://i.imgur.com/hbEmgIs.png)
+![Imgur](https://i.imgur.com/a4buW5M.png)
+![Imgur](https://i.imgur.com/Vb2X6Xu.png)
 
 **PERFIL DE USUARIO**
 
-![impur](./imagenes/img_mockup/arrendatario/perfi1.png)
-![impur](./imagenes/img_mockup/arrendatario/perfi2.png)
-![impur](./imagenes/img_mockup/arrendatario/perfi3.png)
-![impur](./imagenes/img_mockup/arrendatario/perfi4.png)
-![impur](./imagenes/img_mockup/arrendatario/perfi5.png)
-![impur](./imagenes/img_mockup/arrendatario/perfi6.png)
-![impur](./imagenes/img_mockup/arrendatario/perfi7.png)
-![impur](./imagenes/img_mockup/arrendatario/perfi8.png)
+![Imgur](https://i.imgur.com/iiWR9vJ.png)
+![Imgur](https://i.imgur.com/42czZtf.png)
+![Imgur](https://i.imgur.com/azFGBAQ.png)
+![Imgur](https://i.imgur.com/4Rea1tv.png)
+![Imgur](https://i.imgur.com/wC2HUtI.png)
+![Imgur](https://i.imgur.com/7AcisTI.png)
+![Imgur](https://i.imgur.com/4iM8WVF.png)
+![Imgur](https://i.imgur.com/WnTsIfJ.png)
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -1657,62 +1649,62 @@ Link de Prototipo Interactivo en Figma:
 
 **LOGIN**
 
-![impur](./imagenes/img_mockup/propietario/prologin.png)
+![Imgur](https://i.imgur.com/GyXQHC6.png)
 
 
-![impur](./imagenes/img_mockup/propietario/prologin-1.png)
-![impur](./imagenes/img_mockup/propietario/prologin-2.png)
-![impur](./imagenes/img_mockup/propietario/prologin-3.png)
-![impur](./imagenes/img_mockup/propietario/prologin-4.png)
-![impur](./imagenes/img_mockup/propietario/prologin-5.png)
-![impur](./imagenes/img_mockup/propietario/prologin-6.png)
-![impur](./imagenes/img_mockup/propietario/prologin-7.png)
+![Imgur](https://i.imgur.com/gaj0Axa.png)
+![Imgur](https://i.imgur.com/aYEYzWE.png)
+![Imgur](https://i.imgur.com/uR3lCmv.png)
+![Imgur](https://i.imgur.com/9bqK3KS.png)
+![Imgur](https://i.imgur.com/HbEAXUb.png)
+![Imgur](https://i.imgur.com/ity3Rs2.png)
+![Imgur](https://i.imgur.com/IwvE7b4.png)
 
 **REGISTRO**
 
-![impur](./imagenes/img_mockup/propietario/proregistro.png)
+![Imgur](https://i.imgur.com/aq0K80K.png)
 
 **INICIO**
 
-![impur](./imagenes/img_mockup/propietario/proinicio.png)
+![Imgur](https://i.imgur.com/Crqfvng.png)
 
 **REGISTRO**
 
-![impur](./imagenes/img_mockup/propietario/proregistrovehi1.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi2.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi3.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi4.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi5.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi6.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi7.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi8.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi9.png)
-![impur](./imagenes/img_mockup/propietario/proregistrovehi10.png)
+![Imgur](https://i.imgur.com/0ycgxCb.png)
+![Imgur](https://i.imgur.com/nXmBgVy.png)
+![Imgur](https://i.imgur.com/I0LghCD.png)
+![Imgur](https://i.imgur.com/Ma4QKKJ.png)
+![Imgur](https://i.imgur.com/pNVG6tR.png)
+![Imgur](https://i.imgur.com/DQkDhOy.png)
+![Imgur](https://i.imgur.com/JOaJBAF.png)
+![Imgur](https://i.imgur.com/18Utfrh.png)
+![Imgur](https://i.imgur.com/1PxFCuO.png)
+![Imgur](https://i.imgur.com/ymmkJZL.png)
 
 **ALQUILER**
 
-![impur](./imagenes/img_mockup/propietario/proalqui1.png)
-![impur](./imagenes/img_mockup/propietario/proalqui2.png)
+![Imgur](https://i.imgur.com/iXclOv6.png)
+![Imgur](https://i.imgur.com/UOKXJ9k.png)
 
-![impur](./imagenes/img_mockup/propietario/proalqui4.png)
-![impur](./imagenes/img_mockup/propietario/prologin-2.png)
-![impur](./imagenes/img_mockup/propietario/proalqui5.png)
-![impur](./imagenes/img_mockup/propietario/proalqui6.png)
-![impur](./imagenes/img_mockup/propietario/proalqui7.png)
-![impur](./imagenes/img_mockup/propietario/proalqui8.png)
-![impur](./imagenes/img_mockup/propietario/proalqui9.png)
+![Imgur](https://i.imgur.com/2hqVzyy.png)
+![Imgur](https://i.imgur.com/BIBtQOB.png)
+![Imgur](https://i.imgur.com/dTRQXl8.png)
+![Imgur](https://i.imgur.com/Tm9spYC.png)
+![Imgur](https://i.imgur.com/4MgE3V9.png)
+![Imgur](https://i.imgur.com/UIOPeM3.png)
+![Imgur](https://i.imgur.com/j94gQcA.png)
 
 **NOTIFICACIONES**
 
-![impur](./imagenes/img_mockup/propietario/pronotifi.png)
+![Imgur](https://i.imgur.com/IAcFewp.png)
 
 **PERFIL DE USUARIO**
 
-![impur](./imagenes/img_mockup/propietario/properfi1.png)
-![impur](./imagenes/img_mockup/propietario/properfi2.png)
-![impur](./imagenes/img_mockup/propietario/properfi3.png)
-![impur](./imagenes/img_mockup/propietario/properfi4.png)
-![impur](./imagenes/img_mockup/propietario/properfi5.png)
+![Imgur](https://i.imgur.com/HrzemuE.png)
+![Imgur](https://i.imgur.com/ulkGhVy.png)
+![Imgur](https://i.imgur.com/M817b44.png)
+![Imgur](https://i.imgur.com/lp0xiRr.png)
+![Imgur](https://i.imgur.com/ls039Tx.png)
 
 
 ### Web Applications User Flow Diagrams
@@ -1724,7 +1716,7 @@ Link para mejor visualización
 
 *INICIO DE SESIÓN*
 
-![impur](./imagenes/img_userflow/iniciosesion.jpg)
+![Imgur](https://i.imgur.com/84kKk7W.jpg)
 
 **User goal:** Como arrendatario quiero poder iniciar sesión rapidamente.
 
@@ -1734,7 +1726,7 @@ Link para mejor visualización
 
 *REGISTRO*
 
-![impur](./imagenes/img_userflow/registro.jpg)
+![Imgur](https://i.imgur.com/HAtotkP.jpg)
 
 **User goal:** Como arrendatario quiero poder registrarme y luego acceder a la plataforma.
 
@@ -1744,7 +1736,7 @@ Link para mejor visualización
 
 *INICIO PRINCIPAL*
 
-![impur](./imagenes/img_userflow/inicio_principal.jpg)
+![Imgur](https://i.imgur.com/RSOV75M.jpg)
 
 **User goal:** : Como arrendatario, quiero acceder de forma sencilla a las opciones  disponibles.
 
@@ -1754,7 +1746,7 @@ Link para mejor visualización
 
 *BUSCAR AUTOS*
 
-![impur](./imagenes/img_userflow/buscar_autos.jpg)
+![Imgur](https://i.imgur.com/ZQtvc05.jpg)
 
 **User goal:** : Como arrendatario, quiero poder buscar cualquier auto de mi interés.
 
@@ -1764,7 +1756,7 @@ Link para mejor visualización
 
 *MANTENIMIENTO*
 
-![impur](./imagenes/img_userflow/mantenimiento.jpg)
+![Imgur](https://i.imgur.com/ZoWjzo1.jpg)
 
 **User goal:** : Como arrendatario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
 
@@ -1774,7 +1766,7 @@ Link para mejor visualización
 
 *ALQUILER*
 
-![impur](./imagenes/img_userflow/alquiler.jpg)
+![Imgur](https://i.imgur.com/0tvcUqM.jpg)
 
 **User goal:**  Como arrendatario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
 
@@ -1784,7 +1776,7 @@ Link para mejor visualización
 
 *SOLICITUDES*
 
-![impur](./imagenes/img_userflow/solicitudes.jpg)
+![Imgur](https://i.imgur.com/ou0OrzE.jpg)
 
 **User goal:** : Como arrendatario, quiero ver el estado de las solicitudes que he enviado.
 
@@ -1794,7 +1786,7 @@ Link para mejor visualización
 
 *PERFIL DE arrendatario*
 
-![impur](./imagenes/img_userflow/perfil.jpg)
+![Imgur](https://i.imgur.com/VQZf6c8.jpg)
 
 **User goal:** : Como arrendatario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales.
 
@@ -1807,7 +1799,7 @@ Link para mejor visualización
 **USUARIO (Propietario)**
 
 *INICIO DE SESIÓN*
-![impur](./imagenes/img_userflow/proiniciosesion.jpg)
+![Imgur](https://i.imgur.com/HpEP7wE.jpg)
 
 **User goal:** Como propietario quiero poder iniciar sesión rapida y seguramente.
 
@@ -1817,7 +1809,7 @@ Link para mejor visualización
 
 *REGISTRO*
 
-![impur](./imagenes/img_userflow//proregistro.jpg)
+![Imgur](https://i.imgur.com/ZbsOD9F.jpg)
 
 **User goal:** Como propietario quiero poder registrarme .
 
@@ -1827,7 +1819,7 @@ Link para mejor visualización
 
 *INICIO PRINCIPAL*
 
-![impur](./imagenes/img_userflow/proinicio_principal.jpg)
+![Imgur](https://i.imgur.com/hoJlZe7.jpg)
 
 **User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
 
@@ -1837,7 +1829,7 @@ Link para mejor visualización
 
 *REGISTRAR VEHÍCULOS*
 
-![impur](./imagenes/img_userflow/proregistro_vehi.jpg)
+![Imgur](https://i.imgur.com/9uo9Jjf.jpg)
 
 **User goal:** : Como propietario, quiero poder registrar mi vehículo.
 
@@ -1847,7 +1839,7 @@ Link para mejor visualización
 
 *NOTIFICACIONES*
 
-![impur](./imagenes/img_userflow/pronotifi.jpg)
+![Imgur](https://i.imgur.com/4oQHlqK.jpg)
 
 **User goal:** : Como propietario, quiero ver todas las notificaciones de manera sencilla.
 
@@ -1857,7 +1849,7 @@ Link para mejor visualización
 
 *ALQUILER*
 
-![impur](./imagenes/img_userflow/proalqui.jpg)
+![Imgur](https://i.imgur.com/aDLUxXU.jpg)
 
 **User goal:** : Como propietario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y además poder verificar sus antecedentes penales.
 
@@ -1867,7 +1859,7 @@ Link para mejor visualización
 
 *PERFIL DE propietario*
 
-![impur](./imagenes/img_userflow/properfil.jpg)
+![Imgur](https://i.imgur.com/j1AjgGV.jpg)
 
 **User goal:** : Como propietario, quiero ver mis datos y actualizarlos.
 
@@ -1879,12 +1871,7 @@ Link para mejor visualización
 
 ### Desktop Prototyping
 
-![impur](./imagenes/img_mockup/arrendatario/captura1.png)
-
-Enlace presentación:
-[clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EY4R4It6CeNBllf_s8vn00cBi_BbLV51NymL9Uizn0L5Xw?e=wPwVEh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-
-Enlace explicación: [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EesieeR2IC5AmeSpiIxDjEcBapDsu_fo0OaqGL7pFpqfPg?e=kMLhS1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+![Imgur](https://i.imgur.com/XZjfuLF.png)
 
 Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=0%3A1&mode=design&t=Df2V7wxJv7P3rjx9-1)
 
@@ -1915,7 +1902,7 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Database Diagram
 
-![impur](./imagenes/img_database/database_diagram.png)
+![Imgur](https://i.imgur.com/w5jN3CB.png)
 
 Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
 
