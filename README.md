@@ -178,6 +178,8 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 **Nicolás Zagal Vallejo (u20201c429)**
 
+![Imgur](https://i.imgur.com/0l7v4k3.png)
+
 ## Solution Profile
 
 ### Antecedentes y problemática
@@ -1386,6 +1388,524 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 <p align="center">
   <img src="https://i.imgur.com/AkW3hUg.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
 </p>
+
+## Web Applications UX/UI Design
+
+### Web Applications Wireframes
+
+**NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:**
+
+**ARRENDATARIO (Persona que va a alquilar un auto):**
+
+
+**PERFIL DE USUARIO:** El usuario puede visualizar sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Alquilados . El usuario podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
+
+![impur](./imagenes/img_wireframe/arrendatario/perfi1.png)
+![impur](./imagenes/img_wireframe/arrendatario/perfi2.png)
+![impur](./imagenes/img_wireframe/arrendatario/perfi3.png)
+![impur](./imagenes/img_wireframe/arrendatario/perfi4.png)
+![impur](./imagenes/img_wireframe/arrendatario/perfi5.png)
+
+La opcion mas importante en esta sección es el botón de **Subir documentos de Antecendente Penales**. Podra subir desde su ordenador los documentos necesarios para validar sus datos. Luego el boton cambiará a **Actualizar documentos de Antecendente Penales**.
+
+![impur](./imagenes/img_wireframe/arrendatario/perfi1.png)
+![impur](./imagenes/img_wireframe/arrendatario/perfi6.png)
+![impur](./imagenes/img_wireframe/arrendatario/perfi7.png)
+![impur](./imagenes/img_wireframe/arrendatario/perfi8.png)
+
+
+**LOGIN:** El usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
+![impur](./imagenes/img_wireframe/arrendatario/prologin-1.png)
+![impur](./imagenes/img_wireframe/arrendatario/prologin-2.png)
+![impur](./imagenes/img_wireframe/arrendatario/prologin-3.png)
+![impur](./imagenes/img_wireframe/arrendatario/prologin-4.png)
+![impur](./imagenes/img_wireframe/arrendatario/prologin-5.png)
+![impur](./imagenes/img_wireframe/arrendatario/prologin-6.png)
+![impur](./imagenes/img_wireframe/arrendatario/prologin.png)
+
+**REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
+
+![impur](./imagenes/img_wireframe/arrendatario/proregistro.png)
+
+**INICIO:** El usuario  encontrara toda las opciones de la plataforma . Dentro de esta ventana estará la opcion de **Buscar coche** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Buscar Auto** , **Mantenimiento** , **Alquilar**.
+
+![impur](./imagenes/img_wireframe/arrendatario/inicio.png)
+
+**BUSCAR AUTOS:** El usuario podra filtrar segun sus deseos que tipo de auto desea alquilar.Los datos a ingresar son ubicacion, precio , tiempo de alquiler,marca, modelo, clase y transmisión. El usuario debera presionar el botón **Buscar** para iniciar con la búsqueda, luego aparecerá el resultado de la búsqueda  como datos del vehiculo  , datos del propietario del vehículo y el estatus de la publicacion ya sea Disponible o No Disponible. Dentro de la busqueda estará el botón de **Ver contrato de alquiler**.
+
+![impur](./imagenes/img_wireframe/arrendatario/buscar1.png)
+
+EL usuario debe verificar el contrato de Alquiler  que el propietario del vehículo ha publicado.Luego de verificarlo , si desea proceder con el alquiler deberá generar una firma digital presionando el botón **Generar firma digital** y luego presionar el botón **Solicitar Alquiler** para que se envie una solicitud al propietario del vehículo .
+
+![impur](./imagenes/img_wireframe/arrendatario/buscar2.png)
+![impur](./imagenes/img_wireframe/arrendatario/buscar3.png)
+![impur](./imagenes/img_wireframe/arrendatario/buscar4.png)
+
+
+**MANTENIMIENTO:** El el usuario podra enviar un mensaje directamente al correo electrónico del propietario del vehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debera ingresar los datos necesarios y presionar el botón **Enviar**.
+
+![impur](./imagenes/img_wireframe/arrendatario/mante1.png)
+![impur](./imagenes/img_wireframe/arrendatario/mante2.png)
+![impur](./imagenes/img_wireframe/arrendatario/mante3.png)
+![impur](./imagenes/img_wireframe/arrendatario/mante4.png)
+![impur](./imagenes/img_wireframe/arrendatario/mante5.png)
+
+**SOLICITUDES:** El usuario podra ver si la solicitud de alquiler esta en espero o si han sido aceptadas o rechazadas por el propietario del vehículo.Si la solicitud ha sido aceptada puedes presionar el botón de **Pagar**.
+
+![impur](./imagenes/img_wireframe/arrendatario/soli1.png)
+![impur](./imagenes/img_wireframe/arrendatario/soli2.png)
+
+**ALQUILER:** El usuario podra ver  toda la información de los procesos de alquiler que se hayan realizado. Dentro se podra ver cada vehículo que se haya solicitado y si fue aceptada podrá presionar el botón de **Pagar**.También se puede agregar otro vehículo presionando el botón **Agregar otro vehículo**.
+
+![impur](./imagenes/img_wireframe/arrendatario/alqui1.png)
+![impur](./imagenes/img_wireframe/arrendatario/alqui2.png)
+![impur](./imagenes/img_wireframe/arrendatario/alqui3.png)
+
+Al presionar el botón **Pagar** se abrira otra ventana para realizar el pago , se encontrara 2 opciones de pago : EFECTIVO y ONLINE. Dentro de esta ventana estaran los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
+
+![impur](./imagenes/img_wireframe/arrendatario/pago1.png)
+
+Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana para realizar un pago de confirmacion , que es de 5 soles, por uso de la aplicacion. Luego de pagar saldra una ventana de  confirmacion de hora y fecha de alquiler
+
+![impur](./imagenes/img_wireframe/arrendatario/pagoefe1.png)
+![impur](./imagenes/img_wireframe/arrendatario/pagoon1-1.png)
+![impur](./imagenes/img_wireframe/arrendatario/pagoefe2.png)
+
+
+![impur](./imagenes/img_wireframe/arrendatario/pagoon1.png)
+![impur](./imagenes/img_wireframe/arrendatario/pagoon2.png)
+
+---------------------------------------------------------
+**PROPIETARIO (Persona que comparte su auto para alquiler):**
+
+**PERFIL DE USUARIO:** El usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario  podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra actualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
+
+![impur](./imagenes/img_wireframe/propietario/properfi1.png)
+![impur](./imagenes/img_wireframe/propietario/properfi2.png)
+![impur](./imagenes/img_wireframe/propietario/properfi3.png)
+![impur](./imagenes/img_wireframe/propietario/properfi4.png)
+![impur](./imagenes/img_wireframe/propietario/properfi5.png)
+
+
+**LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
+
+![impur](./imagenes/img_wireframe/propietario/prologin.png)
+![impur](./imagenes/img_wireframe/propietario/prologin-1.png)
+![impur](./imagenes/img_wireframe/propietario/prologin-2.png)
+![impur](./imagenes/img_wireframe/propietario/prologin-3.png)
+![impur](./imagenes/img_wireframe/propietario/prologin-4.png)
+![impur](./imagenes/img_wireframe/propietario/prologin-5.png)
+![impur](./imagenes/img_wireframe/propietario/prologin-6.png)
+![impur](./imagenes/img_wireframe/propietario/prologin-7.png)
+
+**REGISTRO:** El usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse**.
+
+![impur](./imagenes/img_wireframe/propietario/proregistro.png)
+
+**INICIO:** El usuario  encontrara toda las opciones posibles de la plataforma , tambien podra visualizar notificaciones recientes. Dentro de esta ventana estará la opcion de **Compartir tu auto** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Registro vehicular* , **Notificaciones** , **Alquiler**.
+
+![impur](./imagenes/img_wireframe/propietario/proinicio.png)
+
+**REGISTRO DE VEHÍCULO :** El usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.
+
+![impur](./imagenes/img_wireframe/propietario/proregistrovehi1.png)
+![impur](./imagenes/img_wireframe/propietario/proregistrovehi2.png)
+
+Al presionar el botón **Crear contrato de alquiler** aparecerá otra ventana en la cual el usuario podrá presionar el botón **Generar contrato predeterminado** y **Subir contrato manual en PDF**.
+Al presionar  **Generar contrato predeterminado** se generara automáticamente un contrato preestablecido con condiciones generales .Luego de generarlo se presionara el botón **Subir contrato**.
+
+![impur](./imagenes/img_wireframe/propietario/provehi3.png)
+![impur](./imagenes/img_wireframe/propietario/provehi4.png)
+![impur](./imagenes/img_wireframe/propietario/provehi5.png)
+
+
+Al presionar **Subir contrato manual en PDF** aparecera una ventana para subir los documentos en PDF , luego de seleccionarlo se subira automáticamente un contrato.Luego de generado deberá presionar el botón **Subir contrato**.
+
+![impur](./imagenes/img_wireframe/propietario/subircontrato1.png)
+![impur](./imagenes/img_wireframe/propietario/subircontrato2.png)
+![impur](./imagenes/img_wireframe/propietario/provehi5.png)
+
+
+Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro de ella aparecerá un botón de **Regresar al registo** , que sirve como redireccionamiento para la ventana principal del REGISTO DEL VEHÍCULO.
+
+![impur](./imagenes/img_wireframe/propietario/provehi6.png)
+
+
+
+**NOTIFICACIONES:** El usuario podra ver las notificaciones de solicitudes que los arrendatarias hayan generado.En la notificación predeterminada aparecerá los datos de la solicitud.
+
+![impur](./imagenes/img_wireframe/propietario/pronotifi.png)
+
+**ALQUILER:** En esta ventana estarán todos los autos que se hayan compartido para alquiler,también se podrá ver el estatus del alquiler. Dentro de esta ventana  estará disponible  el botón de **Afiliar cuenta Banco con MODO** , con esta opción el usuario podrá tener una cuenta afiliada y la forma de verificación de pago será más sencilla.
+
+![impur](./imagenes/img_wireframe/propietario/proalqui1.png)
+![impur](./imagenes/img_wireframe/propietario/proalqui2.png)
+![impur](./imagenes/img_wireframe/propietario/proalqui3.png)
+
+Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para es auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud  aparecerá los datos de la persona que quiere alquilar el auto .Dentro de esta ventana el usuario que es el propietario del vehículo podrá ver los antecedente penales del arrendatario presionando el botón **Verificar Antecedente penales**, al ser verificado aparecerá al costado del botón si el documento fue Aceptado o Rechazado.
+
+![impur](./imagenes/img_wireframe/propietario/proalqui4.png)
+![impur](./imagenes/img_wireframe/propietario/proalqui5.png)
+![impur](./imagenes/img_wireframe/propietario/proalqui6.png)
+
+En esta ventana también estará disponible los boton de **Aceptar Alquiler** y **Rechazar Alquiler**, en donde el usuario podra seleccionar de acuerdo a la verificación hecha si desea o no alquilar el vehículo a esa persona.Si el alquiler es aceptado ,al presionas el botón **Aceptar Alquiler** aparecerá el mensaje de Estado de Pago pendiente, esto quiere decir que el arrendatario aun no ha realizado el pagado, pero si aparece como Estado de Pago Pagado quiere decir que el arrendatario ya ha realizado el pago el alquiler.
+
+![impur](./imagenes/img_wireframe/propietario/proalqui6.png)
+![impur](./imagenes/img_wireframe/propietario/proalqui7.png)
+![impur](./imagenes/img_wireframe/propietario/proalqui8.png)
+
+
+### Web Applications Wireflow Diagrams
+
+Link de Wireflow Diagrams en Figma para una mejor observación:
+
+[Clic al link](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)
+
+Link de Prototipo Interactivo en Figma:
+
+[Clic al link](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)
+
+![impur](./imagenes/img_wireflow/wireflow2.svg)
+
+
+### Web Applications Mock-ups
+
+**Mock-up de interfaz de usuario arrendatario**
+
+**LOGIN**
+![impur](./imagenes/img_mockup/arrendatario/login1.png)
+![impur](./imagenes/img_mockup/arrendatario/login2.png)
+![impur](./imagenes/img_mockup/arrendatario/login3.png)
+![impur](./imagenes/img_mockup/arrendatario/login4.png)
+![impur](./imagenes/img_mockup/arrendatario/login5.png)
+![impur](./imagenes/img_mockup/arrendatario/login6.png)
+
+
+
+**REGISTRO**
+
+![impur](./imagenes/img_mockup/arrendatario/registro1.png)
+![impur](./imagenes/img_mockup/arrendatario/registro2.png)
+
+**INICIO**
+
+![impur](./imagenes/img_mockup/arrendatario/inicio.png)
+
+**BUSCAR AUTOS**
+
+![impur](./imagenes/img_mockup/arrendatario/buscar1.png)
+![impur](./imagenes/img_mockup/arrendatario/buscar2.png)
+![impur](./imagenes/img_mockup/arrendatario/buscar3.png)
+![impur](./imagenes/img_mockup/arrendatario/buscar4.png)
+![impur](./imagenes/img_mockup/arrendatario/buscar5.png)
+![impur](./imagenes/img_mockup/arrendatario/buscar6.png)
+
+**ALQUILER**
+
+![impur](./imagenes/img_mockup/arrendatario/alqui1.png)
+
+![impur](./imagenes/img_mockup/arrendatario/alqui2.png)
+
+
+![impur](./imagenes/img_mockup/arrendatario/pago_efectivo.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_online-1.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_efectivo2.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_online.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_online2.png)
+
+
+**SOLICITUDES**
+
+![impur](./imagenes/img_mockup/arrendatario/soli1.png)
+![impur](./imagenes/img_mockup/arrendatario/soli2.png)
+
+**MANTENIMIENTO**
+
+![impur](./imagenes/img_mockup/arrendatario/mante1.png)
+![impur](./imagenes/img_mockup/arrendatario/mante2.png)
+![impur](./imagenes/img_mockup/arrendatario/mante3.png)
+![impur](./imagenes/img_mockup/arrendatario/mante4.png)
+![impur](./imagenes/img_mockup/arrendatario/mante5.png)
+![impur](./imagenes/img_mockup/arrendatario/mante6.png)
+
+**PERFIL DE USUARIO**
+
+![impur](./imagenes/img_mockup/arrendatario/perfi1.png)
+![impur](./imagenes/img_mockup/arrendatario/perfi2.png)
+![impur](./imagenes/img_mockup/arrendatario/perfi3.png)
+![impur](./imagenes/img_mockup/arrendatario/perfi4.png)
+![impur](./imagenes/img_mockup/arrendatario/perfi5.png)
+![impur](./imagenes/img_mockup/arrendatario/perfi6.png)
+![impur](./imagenes/img_mockup/arrendatario/perfi7.png)
+![impur](./imagenes/img_mockup/arrendatario/perfi8.png)
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Mock-up de interfaz de usuario propietario**
+
+**LOGIN**
+
+![impur](./imagenes/img_mockup/propietario/prologin.png)
+
+
+![impur](./imagenes/img_mockup/propietario/prologin-1.png)
+![impur](./imagenes/img_mockup/propietario/prologin-2.png)
+![impur](./imagenes/img_mockup/propietario/prologin-3.png)
+![impur](./imagenes/img_mockup/propietario/prologin-4.png)
+![impur](./imagenes/img_mockup/propietario/prologin-5.png)
+![impur](./imagenes/img_mockup/propietario/prologin-6.png)
+![impur](./imagenes/img_mockup/propietario/prologin-7.png)
+
+**REGISTRO**
+
+![impur](./imagenes/img_mockup/propietario/proregistro.png)
+
+**INICIO**
+
+![impur](./imagenes/img_mockup/propietario/proinicio.png)
+
+**REGISTRO**
+
+![impur](./imagenes/img_mockup/propietario/proregistrovehi1.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi2.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi3.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi4.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi5.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi6.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi7.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi8.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi9.png)
+![impur](./imagenes/img_mockup/propietario/proregistrovehi10.png)
+
+**ALQUILER**
+
+![impur](./imagenes/img_mockup/propietario/proalqui1.png)
+![impur](./imagenes/img_mockup/propietario/proalqui2.png)
+
+![impur](./imagenes/img_mockup/propietario/proalqui4.png)
+![impur](./imagenes/img_mockup/propietario/prologin-2.png)
+![impur](./imagenes/img_mockup/propietario/proalqui5.png)
+![impur](./imagenes/img_mockup/propietario/proalqui6.png)
+![impur](./imagenes/img_mockup/propietario/proalqui7.png)
+![impur](./imagenes/img_mockup/propietario/proalqui8.png)
+![impur](./imagenes/img_mockup/propietario/proalqui9.png)
+
+**NOTIFICACIONES**
+
+![impur](./imagenes/img_mockup/propietario/pronotifi.png)
+
+**PERFIL DE USUARIO**
+
+![impur](./imagenes/img_mockup/propietario/properfi1.png)
+![impur](./imagenes/img_mockup/propietario/properfi2.png)
+![impur](./imagenes/img_mockup/propietario/properfi3.png)
+![impur](./imagenes/img_mockup/propietario/properfi4.png)
+![impur](./imagenes/img_mockup/propietario/properfi5.png)
+
+
+### Web Applications User Flow Diagrams
+
+Link para mejor visualización
+[Clic al link](https://miro.com/welcomeonboard/YVVOeGJXcThodEhNaFppYjFGTGJpNXVOV3hHckM0R21IUnZoSmtSNWF6U1d4Rzg0UUVqN1UzSU1PSEJJMFlFWXwzNDU4NzY0NTM4Mzk4OTYxMTY0fDI=?share_link_id=319948662953)
+
+**USUARIO (Arrendatario)**
+
+*INICIO DE SESIÓN*
+
+![impur](./imagenes/img_userflow/iniciosesion.jpg)
+
+**User goal:** Como arrendatario quiero poder iniciar sesión rapidamente.
+
+**Happy paths:** El arrendatario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El arrendatario quiere iniciar sesión y no  completa todos los campos requeridos.
+
+*REGISTRO*
+
+![impur](./imagenes/img_userflow/registro.jpg)
+
+**User goal:** Como arrendatario quiero poder registrarme y luego acceder a la plataforma.
+
+**Happy paths:** El arrendatario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El arrendatario quiere registrarse y no  completa todos los campos requeridos.
+
+*INICIO PRINCIPAL*
+
+![impur](./imagenes/img_userflow/inicio_principal.jpg)
+
+**User goal:** : Como arrendatario, quiero acceder de forma sencilla a las opciones  disponibles.
+
+**Happy paths:** El arrendatario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles.
+
+**Unhappy paths:** El arrendatario presiona alguna herramienta externa de la plataforma.
+
+*BUSCAR AUTOS*
+
+![impur](./imagenes/img_userflow/buscar_autos.jpg)
+
+**User goal:** : Como arrendatario, quiero poder buscar cualquier auto de mi interés.
+
+**Happy paths:** El arrendatario al iniciar puede filtrar su búsqueda para mejores opciones.
+
+**Unhappy paths:** El arrendatario revisa el contrato publicado por el propietario.
+
+*MANTENIMIENTO*
+
+![impur](./imagenes/img_userflow/mantenimiento.jpg)
+
+**User goal:** : Como arrendatario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
+
+**Happy paths:** El arrendatario también puede subir fotos .
+
+**Unhappy paths:** El mensaje del arrendatario  llega al correo del propietario y a la sección de notificaciones del propietario.
+
+*ALQUILER*
+
+![impur](./imagenes/img_userflow/alquiler.jpg)
+
+**User goal:**  Como arrendatario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
+
+**Happy paths:** El arrendatario  puede pagar el alquiler luego de ser aceptado por efectivo o de manera online.
+
+**Unhappy paths:** El arrendatario debe registrar sus datos bancarios  para efectuar el pago correpondiente.
+
+*SOLICITUDES*
+
+![impur](./imagenes/img_userflow/solicitudes.jpg)
+
+**User goal:** : Como arrendatario, quiero ver el estado de las solicitudes que he enviado.
+
+**Happy paths:** El arrendatario  puede ver el estatus de su solicitud , realizar el pago presionando el botón de PAGAR.
+
+**Unhappy paths:** El arrendatario puede volver a la página anterior presionando la flecha superior  izquierda en dirección de la izquierda.
+
+*PERFIL DE arrendatario*
+
+![impur](./imagenes/img_userflow/perfil.jpg)
+
+**User goal:** : Como arrendatario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales.
+
+**Happy paths:** El arrendatario puede actualizar sus datos u cambiar su foto de perfil.
+
+**Unhappy paths:** El arrendatario debe subir sus documentos de antecedente penales.
+
+------------------------------------------
+
+**USUARIO (Propietario)**
+
+*INICIO DE SESIÓN*
+![impur](./imagenes/img_userflow/proiniciosesion.jpg)
+
+**User goal:** Como propietario quiero poder iniciar sesión rapida y seguramente.
+
+**Happy paths:** El propietario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El propietario quiere iniciar sesión sin completar los campos correspondientes.
+
+*REGISTRO*
+
+![impur](./imagenes/img_userflow//proregistro.jpg)
+
+**User goal:** Como propietario quiero poder registrarme .
+
+**Happy paths:** El propietario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El propietario quiere registrarse sin completar los campos correspondientes.
+
+*INICIO PRINCIPAL*
+
+![impur](./imagenes/img_userflow/proinicio_principal.jpg)
+
+**User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
+
+**Happy paths:** El propietario al iniciar la plataforma, observa en la parte superior las  opciones disponibles.
+
+**Unhappy paths:** El propietario presiona alguna herramienta externa de la plataforma.
+
+*REGISTRAR VEHÍCULOS*
+
+![impur](./imagenes/img_userflow/proregistro_vehi.jpg)
+
+**User goal:** : Como propietario, quiero poder registrar mi vehículo.
+
+**Happy paths:** El propietario ingresa todos los datos necesarios para el registro.
+
+**Unhappy paths:** El propietario crea el contrato siguiendo los pasos necesarios.
+
+*NOTIFICACIONES*
+
+![impur](./imagenes/img_userflow/pronotifi.jpg)
+
+**User goal:** : Como propietario, quiero ver todas las notificaciones de manera sencilla.
+
+**Happy paths:** El propietario al presionar Ver solicitud es redireccionado a la ventana de Alquiler para ver todas las solicitudes disponibles.
+
+**Unhappy paths:** El propietario observa que las notificaciones son de contenido corto.
+
+*ALQUILER*
+
+![impur](./imagenes/img_userflow/proalqui.jpg)
+
+**User goal:** : Como propietario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y además poder verificar sus antecedentes penales.
+
+**Happy paths:** El propietario puede verificar los antecedentes penales del arrendatario.
+
+**Unhappy paths:** El propietario acepta o rechaza la solicitud del arrendatario.
+
+*PERFIL DE propietario*
+
+![impur](./imagenes/img_userflow/properfil.jpg)
+
+**User goal:** : Como propietario, quiero ver mis datos y actualizarlos.
+
+**Happy paths:** El propietario puede actualizar sus datos y cambiar su foto de perfil.
+
+**Unhappy paths:** El propietario puede cerrar sesión presionando el botón CERRAR SESIÓN.
+
+## Web Applications Prototyping
+
+### Desktop Prototyping
+
+![impur](./imagenes/img_mockup/arrendatario/captura1.png)
+
+Enlace presentación:
+[clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EY4R4It6CeNBllf_s8vn00cBi_BbLV51NymL9Uizn0L5Xw?e=wPwVEh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Enlace explicación: [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EesieeR2IC5AmeSpiIxDjEcBapDsu_fo0OaqGL7pFpqfPg?e=kMLhS1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=0%3A1&mode=design&t=Df2V7wxJv7P3rjx9-1)
+
+
+## Domain-Driven Software Architecture
+
+### Software Architecture Context Diagram
+
+![Imgur](https://i.imgur.com/0PttzRE.png)
+
+### Software Architecture Container Diagrams
+
+![Imgur](https://i.imgur.com/CwMYSiU.png)
+
+### Software Architecture Components Diagrams
+
+![Imgur](https://i.imgur.com/rHUOdiX.png)
+
+## Software Object-Oriented Design
+
+### Class Diagrams
+
+### Class Dictionary
+
+![Imgur](https://i.imgur.com/PuRP30s.png)
+
+## Database Design
+
+### Database Diagram
+
+![impur](./imagenes/img_database/database_diagram.png)
+
+Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
