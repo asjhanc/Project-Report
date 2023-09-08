@@ -507,62 +507,53 @@ Miguel Ángel Ibañez, un estudiante universitario de 25 años en Lima, está co
 
 **Arrendatarios**
 
-![Imgur](https://i.imgur.com/F5tPRhu.png)
+![Imgur](https://i.imgur.com/VNfnRNd.png)
 
-![Imgur](https://i.imgur.com/prZvGE7.png)
+![Imgur](https://i.imgur.com/V7P9MnF.png)
 
-![Imgur](https://i.imgur.com/E5OmjPn.png)
+![Imgur](https://i.imgur.com/49tHN92.png)
 
-![Imgur](https://i.imgur.com/lVDQuhk.png)
+![Imgur](https://i.imgur.com/O8r1FU5.png)
 
-![Imgur](https://i.imgur.com/vVXz8Mt.png)
+![Imgur](https://i.imgur.com/3GqCISz.png)
 
-![Imgur](https://i.imgur.com/JwAooYB.png)
+![Imgur](https://i.imgur.com/lkbHpjV.png)
 
-![Imgur](https://i.imgur.com/C5WzyPg.png)
+![Imgur](https://i.imgur.com/xCPpACX.png)
 
-![Imgur](https://i.imgur.com/IIgtVkK.png)
+![Imgur](https://i.imgur.com/KoKnhe5.png)
 
-![Imgur](https://i.imgur.com/szswfyC.png)
+![Imgur](https://i.imgur.com/VFrDq3d.png)
 
-![Imgur](https://i.imgur.com/ygyQ2kG.png)
+![Imgur](https://i.imgur.com/40CyBOx.png)
 
-![Imgur](https://i.imgur.com/2AXE7Vm.png)
+![Imgur](https://i.imgur.com/jy6nlso.png)
 
-![Imgur](https://i.imgur.com/H5kRjdO.png)
-
-![Imgur](https://i.imgur.com/zqbIqxW.png)
-
-![Imgur](https://i.imgur.com/dlzHirG.png)
+![Imgur](https://i.imgur.com/xqOoZoO.png)
 
 **Arrendadores**
 
-![Imgur](https://i.imgur.com/QMIn58f.png)
-![Imgur](https://i.imgur.com/hqvLfCj.png)
+![Imgur](https://i.imgur.com/Ypv6LqW.png)
 
-![Imgur](https://i.imgur.com/0dvJ5bm.png)
+![Imgur](https://i.imgur.com/TNdxgHL.png)
 
-![Imgur](https://i.imgur.com/bn623DN.png)
+![Imgur](https://i.imgur.com/JBJjwCE.png)
 
-![Imgur](https://i.imgur.com/1x2FMqr.png)
+![Imgur](https://i.imgur.com/7giPx1g.png)
 
-![Imgur](https://i.imgur.com/dumCcGY.png)
+![Imgur](https://i.imgur.com/WbfDNg7.png)
 
-![Imgur](https://i.imgur.com/AdLFQhN.png)
+![Imgur](https://i.imgur.com/ouXM2GW.png)
 
-![Imgur](https://i.imgur.com/g2xskR2.png)
+![Imgur](https://i.imgur.com/eSHY2cw.png)
 
-![Imgur](https://i.imgur.com/i3AKQgD.png)
+![Imgur](https://i.imgur.com/eSHY2cw.png)
 
-![Imgur](https://i.imgur.com/n0dZCYC.png)
+![Imgur](https://i.imgur.com/SExuZWq.png)
 
-![Imgur](https://i.imgur.com/d8LhZzW.png)
+![Imgur](https://i.imgur.com/PTEW9bf.png)
 
-![Imgur](https://i.imgur.com/ftRgAvx.png)
-
-![Imgur](https://i.imgur.com/e633v1O.png)
-
-![Imgur](https://i.imgur.com/W8kC7BA.png)
+![Imgur](https://i.imgur.com/7pJWRYf.png)
 
 ## Needfinding
 
@@ -1903,8 +1894,6 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 ### Database Diagram
 
 ![Imgur](https://i.imgur.com/w5jN3CB.png)
-
-Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
