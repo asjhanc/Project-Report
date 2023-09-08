@@ -1101,59 +1101,284 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
 
 # Capítulo IV: Product Design
 
+
 ## Style Guidelines
 
 ### General Style Guidelines
 
+**Overview:**
+<div style="text-align: justify;">
+Nuestra misión es cautivar la atención del usuario desde el primer momento, creando un diseño que establezca una conexión inmediata y reconocible con AutoYa!.
+</div>
+
+<br>
+
+**Brand Name:**
+<div style="text-align: justify;">
+Hemos elegido llamar a nuestra solución "AutoYa!" debido a su enfoque en ayudar a los usuarios y su tecnología avanzada.
+</div>
+
+<br>
+
+**Typography:**
+<div style="text-align: justify;">
+Hemos seleccionado cuidadosamente las fuentes "Montserrat" y "Mulish" para transmitir una imagen moderna y legible.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/8ZxwwMY.png" alt="Descripción de la imagen" width="400" />
+</p>
+
+
+<br>
+
+**Colors:**
+<div style="text-align: justify;">
+Los colores principales son el naranja y el blanco. El naranja se ha seleccionado por su asociación con la energía, la creatividad y la emoción. Este color refleja nuestra pasión por brindar un servicio excepcional y experiencias emocionantes a nuestros usuarios. El blanco se utiliza como color principal para el fondo, proporcionando un contraste elegante y una apariencia limpia.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZWTukKZ.png" alt="Descripción de la imagen" width="400" />
+</p>
+<br>
+
+**Spacing:**
+<div style="text-align: justify;">
+Hemos establecido niveles de espacio que van desde 8px hasta 96px para garantizar un diseño equilibrado y una experiencia visual agradable.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/ObHFAYj.png" alt="Descripción de la imagen" width="400" />
+</p>
+
+<br>
+
+**Botton:**
+
+<p align="center">
+  <img src="https://i.imgur.com/DEJfdYw.png" alt="Descripción de la imagen" width="400" />
+</p>
+
+<br>
+<br>
+
 ### Web Style Guidelines
+
+<div style="text-align: justify;">
+AutoYa! se desarrollará tanto para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) que tiene como finalidad mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/5dYo2Df.png" alt="AutoYa! Responsive Design" width="400">
+</p>
+
+<br>
+
+<div style="text-align: justify;">
+Además, como equipo, hemos optado por emplear el patrón de diseño en forma de Z en el sitio web de AutoYa!, ya que esta técnica de diseño web resulta efectiva para mejorar la experiencia del usuario al dirigir su atención hacia los elementos clave y potenciar la eficacia del contenido en la página. Normalmente, se coloca el logotipo de AutoYa! en la esquina superior izquierda para que sea lo primero que capte la atención del usuario. Justo en frente, en la esquina superior derecha, se ubica el menú de navegación, acompañado de un llamado a la acción que se destaca.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/2WiPvic.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
+</p>
+
+<br>
+<br>
 
 ## Information Architecture
 
+<div style="text-align: justify;">
+Esta sección se centra principalmente en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra página web y landing page de AutoYa!. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
+</div>
+
+<br>
+<br>
+
 ### Organization Systems
+
+<div style="text-align: justify;">
+Para los sistemas de organización, hemos decidido considerar la estructuración del contenido con un encabezado (header) donde las secciones a las que el usuario puede acceder se agrupen de manera clara. De esta forma, el usuario sabrá dónde hacer clic para acceder a las secciones correspondientes de AutoYa!.
+</div>
+
+* **Organización Visual del Contenido (Visual Hierarchy):**
+
+<div style="text-align: justify;">
+Utilizaremos la organización visual jerárquica para resaltar la información más relevante y ayudar a los usuarios a navegar de manera eficiente. Esto se aplicará en la presentación de vehículos disponibles, tarifas y reseñas de otros usuarios.
+</div>
+
+* **Organización Secuencial (Step-by-Step to Accomplish):**
+
+<div style="text-align: justify;">
+Implementaremos la organización secuencial para guiar a los usuarios a través de procesos clave, como la reserva de un auto o el registro en la plataforma. Esto garantiza que los usuarios puedan completar tareas de manera intuitiva.
+</div>
+
+* **Organización Matricial (Matrix Organization):**
+
+<div style="text-align: justify;">
+La organización matricial se empleará para mostrar comparaciones entre diferentes opciones, como la disponibilidad de autos en diferentes ubicaciones y fechas. Esto permite a los usuarios tomar decisiones informadas.
+</div>
+
+<br>
+<br>
 
 ### Labeling Systems
 
+<div style="text-align: justify;">
+En el contexto de AutoYa!, los sistemas de etiquetado juegan un papel fundamental en la organización y accesibilidad de la información en nuestra plataforma. Estos nombres se encuentran en enlaces, menús y pie de página, así como en encabezados que indican la jerarquía de la información. Son esenciales para permitir a los usuarios navegar fácilmente por nuestro sitio web y encontrar la información que necesitan. 
+<br>
+
+Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, lo que significa que deben cumplir con los siguientes objetivos:
+</div>
+
+
+* **Nivel de Experiencia de Usuario (UX):** Las etiquetas proporcionarán información y contexto claros para que los usuarios comprendan la función de los elementos etiquetados.
+
+
+* **Nivel SEO:** Utilizaremos el etiquetado interno para enlazar las páginas de AutoYa! de manera que tengan sentido entre sí, mejorando así la optimización de motores de búsqueda.
+
+
+* **Palabras Clave y Etiquetado Adecuado:** Cada página de AutoYa! contendrá palabras clave relevantes y un etiquetado apropiado para distribuir los términos de manera efectiva y evitar la competencia interna entre páginas.
+
+
+* **Impacto de las Etiquetas en Menús y Bloques Estáticos:** Reconocemos que las palabras clave contenidas en los menús y en los bloques estáticos tienen un mayor impacto en la navegación y visibilidad de AutoYa!.
+
+<br>
+
+**Tipos de Etiquetas:**
+
+**Etiquetas Contextuales:** Estas etiquetas describen los enlaces en AutoYa! y son cruciales para conectar diferentes partes de la plataforma. Sin embargo, elegiremos cuidadosamente las palabras para estas etiquetas para evitar ambigüedades y garantizar que los usuarios comprendan el contenido al hacer clic en ellas.
+
+<p align="center">
+  <img src="https://i.imgur.com/gVElAiD.png" alt="AutoYa! Responsive Design" width="200">
+</p>
+
+**Etiquetas de Encabezado:** Las etiquetas de encabezado serán utilizadas para indicar la temática y jerarquía de contenido en AutoYa!. Al igual que en un libro, los encabezados ayudan a diferenciar las secciones del contenido y su importancia relativa.
+
+<p align="center">
+  <img src="https://i.imgur.com/9lZXkd3.png" alt="AutoYa! Responsive Design" width="200">
+</p>
+
+**Etiquetas con Parámetro ALT:** En AutoYa!, las etiquetas con parámetro ALT se emplearán para proporcionar descripciones alternativas a las imágenes en nuestra plataforma. Estas descripciones son esenciales para la accesibilidad web, ya que permiten a usuarios con tecnologías de asistencia, como lectores de pantalla, comprender el contenido de las imágenes cuando estas no se pueden cargar o visualizar.
+
+<p align="center">
+  <img src="https://i.imgur.com/5qtcOxH.png" alt="AutoYa! Responsive Design" width="300">
+</p>
+
+<br>
+<br>
+
 ### SEO Tags and Meta Tags
+
+<div style="text-align: justify;">
+En AutoYa!, comprendemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Web Application para mejorar la visibilidad en los motores de búsqueda y brindar una experiencia de usuario de alta calidad. A continuación, se detallan los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:
+</div>
+
+<br>
+
+**Title (Título):** El título de una página es crucial tanto para los motores de búsqueda como para los usuarios. Utilizaremos títulos descriptivos y atractivos para cada página, que reflejen claramente su contenido y propósito.
+
+<p align="center">
+  <img src="https://i.imgur.com/V19qCBQ.png" alt="AutoYa! Responsive Design" width="300">
+</p>
+
+**Meta Tags de Descripción (Meta Description):** Las meta descripciones son breves resúmenes que aparecen en los resultados de búsqueda. Utilizaremos meta descripciones claras y concisas que inviten a los usuarios a hacer clic en nuestro sitio. La meta descripción es "Descubre una amplia gama de autos disponibles para alquilar en AutoYa! y planifica tu próximo viaje con facilidad."
+
+**Meta Tags de Palabras Clave (Keywords):** Aunque el enfoque en las palabras clave ha evolucionado en el SEO, aún consideraremos palabras clave relevantes para cada página y las incluiremos en los meta tags de keywords cuando sea apropiado. Esto ayudará a los motores de búsqueda a entender mejor el contenido de nuestras páginas.
+
+**Meta Tag de Autor (Author):** Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo que puede ayudar a establecer credibilidad y autoridad en la industria.
+
+
+<br>
+<br>
 
 ### Searching Systems
 
+<div style="text-align: justify;">
+En AutoYa!, hemos desarrollado un sistema de búsqueda integral para ayudar a los usuarios a encontrar de manera eficiente el vehículo de alquiler que mejor se adapte a sus necesidades. A continuación, explicamos cómo hemos diseñado nuestro sistema de búsqueda para evitar que los usuarios se sientan abrumados por la cantidad de información y cómo lucirán los datos después de la búsqueda:
+</div>
+
+<br>
+
+**Opciones de Búsqueda:** 
+
+Ofrecemos a nuestros usuarios una amplia gama de opciones de búsqueda para personalizar su experiencia. Estas opciones incluyen la ubicación de recogida, el precio deseado, la duración del alquiler, la marca del vehículo, el modelo, la clase y la transmisión. Esto permite a los usuarios refinar su búsqueda según sus preferencias específicas.
+
+<p align="center">
+  <img src="https://i.imgur.com/3T5SjK8.png" alt="AutoYa! Responsive Design" width="400">
+</p>
+
+
+<br>
+<br>
+
 ### Navigation Systems
+
+<div style="text-align: justify;">
+En AutoYa!, hemos diseñado un sistema de navegación intuitivo y eficiente que guía a nuestros usuarios a través de nuestro Landing Page y aplicaciones, permitiéndoles alcanzar sus metas y interactuar satisfactoriamente con nuestro producto. A continuación, explicamos cómo los usuarios navegarán por nuestro contenido:
+</div>
+
+<br>
+
+**Barra de Navegación**
+
+Hemos implementado una barra de navegación en la parte superior de nuestra plataforma que ofrece tres opciones principales:
+
+* **Inicio** Esta opción llevará a los usuarios de regreso a la página de inicio, donde podrán comenzar su experiencia en AutoYa! o volver a explorar las opciones disponibles.
+
+
+* **Buscar Autos:** Los usuarios pueden hacer clic en esta opción para acceder a nuestro sistema de búsqueda integral, donde podrán especificar sus preferencias y encontrar el vehículo de alquiler perfecto.
+
+
+* **Mantenimiento:** Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimiento de tareas de mantenimiento.
+
+
+* **Alquiler:** Esta opción permite a los usuarios explorar opciones de alquiler de vehículos, ver detalles y realizar reservas.
+
+
+* **Solicitudes:** En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y realizar un seguimiento de los detalles importantes relacionados con sus reservas.
+
+
+<p align="center">
+  <img src="https://i.imgur.com/347yHxf.png" alt="AutoYa! Responsive Design" width="400">
+</p>
+
+<br>
+
+<div style="text-align: justify;">
+Nuestro sistema de navegación en AutoYa! se ha diseñado pensando en la comodidad y la eficiencia del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea buscar un auto, programar un servicio de mantenimiento, hacer una reserva o realizar un seguimiento de sus solicitudes de alquiler, y nuestro sistema de navegación les brinda las herramientas para hacerlo de manera efectiva.
+</div>
+
+<br>
+<br>
 
 ## Landing Page UI Design
 
 ### Landing Page Wireframe
 
+<div style="text-align: justify;">
+Hemos creado una representación inicial en forma de bosquejo de baja fidelidad para la página de inicio de AutoYa!:
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/oLhVxSQ.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
+</p>
+
+<br>
+<br>
+
 ### Landing Page Mock-up
 
-## Web Applications UX/UI Design
+<div style="text-align: justify;">
+El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
+</div>
 
-### Web Applications Wireframes
+<br>
 
-### Web Applications Wireflow Diagrams
-
-### Web Applications Mock-ups
-
-### Web Applications User Flow Diagrams
-
-## Web Applications Prototyping
-
-## Domain-Driven Software Architecture
-
-### Software Architecture Context Diagram
-
-### Software Architecture Container Diagrams
-
-### Software Architecture Components Diagrams
-
-## Software Object-Oriented Design
-
-### Class Diagrams
-
-### Class Dictionary
-
-## Databse Design
-
-### Database Diagram
+<p align="center">
+  <img src="https://i.imgur.com/AkW3hUg.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
+</p>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
