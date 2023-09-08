@@ -481,6 +481,13 @@ Timing: 11:19; 3:25 min
 
 Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito de San Miguel, Lima. Manuel dice que nunca ha puesto en alquiler su auto, pero sí estaría interesado en hacerlo. También menciona que lo que más priorizaría al alquilar su auto sería la seguridad y el compromiso que tenga el arrendatario, no puede ser alguien con denuncias o que no tenga la solvencia económica necesaria. Asimismo, piensa que sí sería buena idea poder ver la información de la persona a la que le alquilará su auto y que un servicio de alquiler de autos debería contar obligatoriamente con un seguro, además del soat. Adicionalmente, cree que se debería cobrar por hora del uso del auto, y el precio dependería del auto, de su modelo, antigüedad, condición, etc. El entrevistado manifestó que los pagos se deberían realizar por tarjeta y sí estaría dispuesto en poner su auto en alquiler por medio de una aplicación web, debido a que sería más rápido encontrar arrendatarios. Finalmente, Manuel mencionó que no conoce ningún sitio web para alquilar autos por internet.
 
+**Entrevista 5**
+
+[![Captura-de-pantalla-2023-09-08-051842.png](https://i.postimg.cc/ZY9706fz/Captura-de-pantalla-2023-09-08-051842.png)](https://postimg.cc/NLc7z2qd)
+
+Miguel Ángel Ibañez, un estudiante universitario de 25 años en Lima, está considerando alquilar su auto. Él prioriza la seguridad y la confianza al alquilar su auto a un desconcido, evitando personas con denuncias o problemas financieros. Miguel valora tener información relevante sobre la persona a la que confiará su vehículo, lo que indica su deseo de establecer un cierto nivel de confianza en este proceso. Además, destaca la importancia del seguro y el SOAT. Sugiere tarifas por hora y prefiere pagos con tarjeta. Está dispuesto a usar una aplicación web para alquilar. Aunque no conoce plataformas específicas, su interés sugiere que podría beneficiarse de explorar opciones tecnológicas.
+
+Timing: 00:00; 4:16 min
 
 ### Análisis de entrevistas
 
