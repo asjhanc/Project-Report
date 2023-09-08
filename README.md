@@ -30,8 +30,7 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Celda 4      |
-| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo   | Celda 8      |
+| Entrega 1      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
 
 # Project Report Collaboration Insights
 
@@ -144,8 +143,8 @@ INSERTAR IMÁGENES CON FECHA
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |--------------|--------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 2      | Celda 3      |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 5      | Celda 6      |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.      |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.      |
 
 # Capítulo I: Introducción
 
