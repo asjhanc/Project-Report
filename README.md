@@ -450,20 +450,20 @@ URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc
 
 **Arrendatarios**
 
-**Entrevista 1: Franco Chávez**
-![Imgur](https://i.imgur.com/pggmyQs.png)
+**Entrevista 1**
+![Imgur](https://i.imgur.com/qAPVMsX.png)
 
-Timing: 0:00; 4:09 min
+Timing: 0:00; 5:33 min
 
-Franco Chávez es un estudiante universitario de 23 años de edad. Reside en Chorrillos, Lima; tiene experiencia en la conducción y ha alquilado autos a través de agencias tradicionales. Al priorizar la seguridad, la comodidad y el precio al alquilar, considera importante conocer detalles como la tarifa por tiempo, la política de seguro y el estado del vehículo. Franco valora un proceso de alquiler transparente y enfatiza que un servicio de alquiler debe ofrecer vehículos en buen estado y seguro incluido. Prefiere pagar con tarjetas de crédito o débito y está interesado en aplicaciones web para alquilar autos debido a su comodidad y flexibilidad. Franco está familiarizado con medios en línea como ChorriAlquiler. Su perfil indica que sería un usuario adecuado para servicios como AutoYa!.
+Alessandro Condori es un estudiante universitario de 20 años de edad. Reside en San Juan de Lurigancho, Lima; tiene experiencia previa en la conducción y ha alquilado autos mediante el contacto de otras personas ya sea virtual o presencial. En este caso, prioriza toda la información relacionado con el vehículo tal como las especificaciones y observaciones que posea este. Alessandro valora un proceso en el cual el servicio al cliente sea lo más óptimo posible, variados métodos de pagos, facilidad en el contacto con el arrendador y vuelve a recalcar sobre la información del vehículo. Prefiere pagar de forma virtual debido a su comodidad y flexibilidad. Por otro lado, mencionó que no conoce ningún aplicación que ofrezca aquel servicio; por lo que sería un usuario adecuado para servicios como AutoYa!.
 
 
 **Entrevista 2**
-![Imgur](https://i.imgur.com/iQjbHJQ.png)
+![Imgur](https://i.imgur.com/jQEwgcv.png)
 
-Timing: 4:10; 3:09 min
+Timing: 0:00; 5:54 min
 
-Piero Ruiz es un estudiante universitario de 21 años. Reside en San Martín de Porres, Lima. Piero sí ha manejado autos anteriormente, pero no ha alquilado uno antes, aunque menciona que le gustaría hacerlo. Lo que él priorizaría al alquilar un auto sería que el vehículo tenga buenas características y esté en buen estado, además considera importante que el vehículo pueda recorrer largas distancias y que no gaste mucho combustible. Asimismo, piensa que un servicio de alquiler de autos debe tener un proceso sencillo y seguro, junto con un sistema de comunicación efectivo con el propietario del vehículo. Piero piensa que se debería cobrar por día de uso del auto, ya que de otra forma sería muy tedioso y costoso. También, cree que se debería cobrar alrededor de 100 soles por día de uso del auto y que se debería poder pagar tanto en efectivo como por internet y sí estaría interesado en alquilar un auto por medio de una aplicación web. Finalmente, el entrevistado manifestó que no conoce ningún servicio para alquilar autos por internet.
+Cristian Iparraguirre es un estudiante universitario de 19 años. Reside en Lince, Lima. Cristian sí ha manejado autos anteriormente de los cuales tuvo que alquiler vía virtual, donde tuvo que buscar dentro de distintas páginas para acceder aquel servicio. Prioriza esencialmente todo información detallada respecto al vehículo. Asimismo, considera que un servicio que sea de gran utilidad debe de cumplir ciertas caracterísitcas tales como: facilidad de usar, precios relativamente económicos, información precisa y filtros de búsquedas eficientes. Por otro lado, no tiene problemas si el método de pago es de manera virtual o presencial. Alega que ya realizó el alquiler de un auto por medio de una aplicación por lo que seguiría haciendolo. Al final, manifestó que la pagína donde solicitó el auto fue "Kayak".
 
 **Arrendadores**
 
