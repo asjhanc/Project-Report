@@ -297,106 +297,116 @@ Se han identificado dos segmentos objetivos.
 <table border="1">
   <thead>
     <tr>
-      <th colspan="6"><strong>Competitive Analysis Landscape</strong></th>
+      <th colspan="6" style="text-align:center;"><strong>Competitive Analysis Landscape</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="1" style="text-align:center;">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5">¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?</td>
+      <td colspan="5" style="text-align:center;">¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?</td>
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
       <td style="text-align:center;">AutoYa!</td>
-      <td style="text-align:center;">KAYAK</td>
-      <td style="text-align:center;">RENTO</td>
-      <td style="text-align:center;">BUDGET</td>
+      <td style="text-align:center;">Budget Car Rental</td>
+      <td style="text-align:center;">Rento</td>
+      <td style="text-align:center;">Hertz</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil</td>
       <td style="text-align:center;">Overview</td>
-      <td style="text-align:center;">Starup que busca faciltar el aqluiler de autos mediante su nueva propuesta tecnológica.</td>
-      <td style="text-align:center;">Opción popular para el alquiler de autos principalmente enfocado en el tema de viajes y vuelos para viajeros.</td>
-      <td style="text-align:center;">Plataforma de alquiler de autos con presencia en 15 países de América Latina.</td>
-      <td style="text-align:center;">Compañía de alquiler de autos con presencia en 140 países.</td>
+      <td style="text-align:center;">Servicio peruano que permite rentar y poner en renta autos a personas naturales</td>
+      <td style="text-align:center;">Empresa peruana que posee presencia global y opera en más de 3,200 puntos de atención en 120 países</td>
+      <td style="text-align:center;">Aplicación de renta de autos en Perú que funciona como intermediario tanto para arrendatarios como para arrendadores</td>
+      <td style="text-align:center;">Servicio de alquiler de autos más grande a nivel global</td>
     </tr>
     <tr>
       <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
-      <td style="text-align:center;">Nuevos métodos de protección ante fraudes y sistema de monitoreo de los autos.</td>
-      <td style="text-align:center;">Comparación de precios, amplia cobertura, ofertas y descuentos.</td>
-      <td style="text-align:center;">Precios competitivos, cobertura regional, servicio personalizado.</td>
-      <td style="text-align:center;">Precios competitivos, variedad de autos, servicio global.</td>
+      <td style="text-align:center;">Transparencia con el cliente; precios bajos y seguridad</td>
+      <td style="text-align:center;">Se puede recoger el auto en el aeropuerto Jorge Chávez</td>
+      <td style="text-align:center;">Ofrece poner en renta un auto propio</td>
+      <td style="text-align:center;">Ofrece sus servicios también fuera de Lima (Arequipa y Cusco) y se puede entregar el auto en una sucursal distinta de donde se recogió</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
       <td style="text-align:center;">Mercado objetivo</td>
-      <td style="text-align:center;">Personas que deseen alquilar su auto de manera segura y aquellas que requieran rentar un auto por un tiempo.</td>
-      <td style="text-align:center;">Personas que buscan viajar, ya sea por negocios o placer.</td>
-      <td style="text-align:center;">Personas que buscan alquilar autos para viajes, vacaciones o negocios en América Latina.</td>
-      <td style="text-align:center;">Personas que buscan alquilar autos para viajes, vacaciones o negocios en todo el mundo.</td>
+      <td style="text-align:center;">Personas en Perú mayores de 18 años que deseen rentar o poner en renta autos</td>
+      <td style="text-align:center;">Personas mayores de 21 años que cuenten con una licencia de conducir vigente deseen alquilar un auto</td>
+      <td style="text-align:center;">Personas que quieran alquilar un auto y personas que quieran poner en alquiler su auto</td>
+      <td style="text-align:center;">Personas mayores de 18 años que deseen alquilar un auto</td>
     </tr>
     <tr>
       <td style="text-align:center;">Estrategias de marketing</td>
-      <td style="text-align:center;">Publicidad online, redes sociales.</td>
-      <td style="text-align:center;">Publicidad online, redes sociales, alianzas con empresas de viajes.</td>
-      <td style="text-align:center;">Publicidad online, redes sociales, alianzas con empresas de viajes.</td>
-      <td style="text-align:center;">Publicidad online, redes sociales, alianzas con empresas de viajes.</td>
+      <td style="text-align:center;">Comunicar que el servicio permite, además de alquilar un auto, poner en alquiler un auto propio de forma segura</td>
+      <td style="text-align:center;">Anunciar su posesión de la flota de alquiler de vehículos más variada de Perú</td>
+      <td style="text-align:center;">Mencionar siempre que están respaldados por Rimac Seguros y que es un servicio seguro</td>
+      <td style="text-align:center;">Alta gama de vehículos para poder reducir los precios</td>
     </tr>
     <tr>
       <td rowspan="3" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Productos & Servicios</td>
-      <td style="text-align:center;">Renta de autos, monitoreo de seguridad, facilidad de trámites.</td>
-      <td style="text-align:center;">Comparación de precios de vuelos, hoteles y alquileres de autos. Ofertas y descuentos exclusivos.</td>
-      <td style="text-align:center;">Autos de diferentes marcas y modelos, seguros, asistencia en carretera.</td>
-      <td style="text-align:center;">Autos de diferentes marcas y modelos, seguros, asistencia en carretera.</td>
+      <td style="text-align:center;">- Alquilar autos<br>- Poner en alquiler autos</td>
+      <td style="text-align:center;">- Alquiler de Autos<br>- Alquiler de Autos para Empresas<br>- Venta de Autos Usados Expertos en Viajes<br>- Reservas Internacionales<br>- Servicio de Chofer</td>
+      <td style="text-align:center;">- Alquiler de autos<br>- Poner en alquiler autos</td>
+      <td style="text-align:center;">- Alquiler de autos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Precios & Costos</td>
-      <td style="text-align:center;">Precios competitivos al mercado.</td>
-      <td style="text-align:center;">Precios competitivos al mercado.</td>
-      <td style="text-align:center;">Precios competitivos al mercado.</td>
-      <td style="text-align:center;">Precios competitivos al mercado.</td>
+      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- Desde S/100 por día de uso del auto</td>
+      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- De S/96 a S/561 por día de uso del auto</td>
+      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- Desde S/100 por día de uso del auto</td>
+      <td style="text-align:center;">- Uso gratuito de la apliacación<br>- Desde S/63 soles por día de uso del auto(sin incluir protecciones y servicios adicionales)</td>
     </tr>
     <tr>
       <td style="text-align:center;">Canales de distribución<br>(Web y/o Móvil)</td>
       <td style="text-align:center;">Web</td>
-      <td style="text-align:center;">Web y móvil.</td>
-      <td style="text-align:center;">Web y móvil.</td>
-      <td style="text-align:center;">Web y móvil.</td>
+      <td style="text-align:center;">Web y móvil</td>
+      <td style="text-align:center;">Móvil</td>
+      <td style="text-align:center;">Web y móvil</td>
     </tr>
     <tr>
       <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Fortalezas</td>
-      <td style="text-align:center;">Método anti fraude, facildad de trámites, sistema de seguimiento del auto para seguridad.</td>
-      <td style="text-align:center;">Experiencia en el mercado, presencia global.</td>
-      <td style="text-align:center;">Experiencia en el mercado regional.</td>
-      <td style="text-align:center;">Experiencia en el mercado global.</td>
+      <td style="text-align:center;">- Flota variada<br>- Opción de poner en renta autos<br>- Gran cantidad de clientes potenciales</td>
+      <td style="text-align:center;">- Marca reconocida<br>- Programa de lealtad<br>- Variedad de autos<br>- Oficina en un aeropuerto internacional</td>
+      <td style="text-align:center;">- Interfaz amigable<br>- Aliado con Rimac Seguros<br>- Permite poner en alquiler autos propios<br>- Presencia en cualquier lugar del país</td>
+      <td style="text-align:center;">- Marca reconocida<br>-Cuenta con promociones<br>- Presencia de oficinas fuera de Lima<br>- Flota variada de vehículos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Debilidades</td>
-      <td style="text-align:center;">Falta de experiencia en el mercado, falta de promoción de nuestra startup.</td>
-      <td style="text-align:center;">Dependencia de terceros proveedores de servicios.</td>
-      <td style="text-align:center;">Falta de flexibilidad de reservación.</td>
-      <td style="text-align:center;">Falta de flexibilidad de reservación.</td>
+      <td style="text-align:center;">- Marca no conocida<br>- Pocos recursos<br>- Nueva en el mercado de la renta de autos</td>
+      <td style="text-align:center;">- Depende del turismo<br>- Debe pagar costos de varias oficinas<br>- Personas entre 18 y 20 años deben pagar un costo adicional</td>
+      <td style="text-align:center;">- Mala opiniones en las tiendas de aplicaciones<br>- Depende de la situación económica local<br>- Depende de la honestidad del arrendador</td>
+      <td style="text-align:center;">- Dependencia del turismo<br>- Malas opiniones en las tiendas de aplicaciones<br>- Interfaz del sitio web poco amigable<br>- Reputación cuestionada</td>
     </tr>
     <tr>
       <td style="text-align:center;">Oportunidades</td>
-      <td style="text-align:center;">Necesidad de las personas por rentar un auto de manera rápida y segura.</td>
-      <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
-      <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
-      <td style="text-align:center;">Desarrollo de nuevos productos y servicios, expansión a nuevos mercados.</td>
+      <td style="text-align:center;">- Pocos servicios para poner en renta autos propios<br>- Bajo porcentaje de hogares peruanos cuentan con auto propio<br>- Constante necesidad de contar con un auto</td>
+      <td style="text-align:center;">- Implementar alquiler de otros tipos de vehículos<br>- Aumentar su cantidad de oficinas en Perú<br>- Incluir servicios turísticos</td>
+      <td style="text-align:center;">- Aumento del turismo<br>- Aumento de las zonas urbanas<br>- Inclusión de programas de lealtad</td>
+      <td style="text-align:center;">- Creación de oficinas en más provincias de Perú<br>- Implementar alquiler de otros tipos de vehículos<br>- Incluir servicios turísticos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Amenazas</td>
-      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
-      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
-      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
-      <td style="text-align:center;">Competencia de plataformas extranjeras y nacionales.</td>
+      <td style="text-align:center;">-Otras aplicaciones de renta de auto más conocidas<br>- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
     </tr>
   </tbody>
 </table>
 
 ### Estrategias y tácticas frente a competidores
+
+**Costos**  
+Sabemos que el alquiler de autos no necesariamente en un negocio barato, por eso hemos estudiado a la competencia y comparado precios para poder llegar a un precio de alquiler que se sitúe entre los bajos de nuestra competencia, para así poder satisfacer al cliente y generar ingresos.
+
+**Estrategia de diferenciación**  
+Aprovecharemos la falta de servicios para poner en alquiler un auto propio para atacar ese nicho. Creemos que dando la suficiente publicidad a esta característica llamaremos la atención de una buena cantidad de clientes potenciales.
+
+**Remuneración**  
+Somos consciente de que tener demasiada publicidad en una pantalla resulta molestoso, debido a eso, solo se incluirá una cantidad razonable de estos. Además, contaremos con comisiones del 35% por cada pago por alquiler que se haga usando nuestros servicios.
+
 
 ## Entrevistas
 
@@ -436,24 +446,324 @@ Se han identificado dos segmentos objetivos.
 13. ¿Conoce algun medio que permita alquilar autos por internet?
 
 ### Registro de entrevistas
+URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+**Arrendatarios**
+
+**Entrevista 1: Franco Chávez**
+![Imgur](https://i.imgur.com/pggmyQs.png)
+
+Timing: 0:00; 4:09 min
+
+Franco Chávez es un estudiante universitario de 23 años de edad. Reside en Chorrillos, Lima; tiene experiencia en la conducción y ha alquilado autos a través de agencias tradicionales. Al priorizar la seguridad, la comodidad y el precio al alquilar, considera importante conocer detalles como la tarifa por tiempo, la política de seguro y el estado del vehículo. Franco valora un proceso de alquiler transparente y enfatiza que un servicio de alquiler debe ofrecer vehículos en buen estado y seguro incluido. Prefiere pagar con tarjetas de crédito o débito y está interesado en aplicaciones web para alquilar autos debido a su comodidad y flexibilidad. Franco está familiarizado con medios en línea como ChorriAlquiler. Su perfil indica que sería un usuario adecuado para servicios como AutoYa!.
+
+
+**Entrevista 2**
+![Imgur](https://i.imgur.com/iQjbHJQ.png)
+
+Timing: 4:10; 3:09 min
+
+Piero Ruiz es un estudiante universitario de 21 años. Reside en San Martín de Porres, Lima. Piero sí ha manejado autos anteriormente, pero no ha alquilado uno antes, aunque menciona que le gustaría hacerlo. Lo que él priorizaría al alquilar un auto sería que el vehículo tenga buenas características y esté en buen estado, además considera importante que el vehículo pueda recorrer largas distancias y que no gaste mucho combustible. Asimismo, piensa que un servicio de alquiler de autos debe tener un proceso sencillo y seguro, junto con un sistema de comunicación efectivo con el propietario del vehículo. Piero piensa que se debería cobrar por día de uso del auto, ya que de otra forma sería muy tedioso y costoso. También, cree que se debería cobrar alrededor de 100 soles por día de uso del auto y que se debería poder pagar tanto en efectivo como por internet y sí estaría interesado en alquilar un auto por medio de una aplicación web. Finalmente, el entrevistado manifestó que no conoce ningún servicio para alquilar autos por internet.
+
+**Arrendadores**
+
+**Entrevista 3**
+![Imgur](https://i.imgur.com/TiE9WhC.png)
+
+Timing: 7:25; 3:54 min
+
+Valeria Nevado es una estudiante universitaria de 20 años. Reside en Cercado de Lima, Lima. Valeria sí ha puesto su auto en alquiler anteriormente, y lo hizo por WhatsApp, Facebook y de forma presencial. Ella priorizaría sobre todo saber a quién le está alquilando su auto y cree que es importante tener información de la persona a quien se lo da. Asimismo, cree que las personas que quieran registrarse para alquilar un auto deben pasar por un filtro que valide que es una persona que usará el auto de forma correcta; y cree que debe. También cree que se debería cobrar 100 soles mínimo por día de uso del auto. La entrevistada manifestó que se debería cobrar por medio de tarjetas de crédito y débito, ya que en efectivo se han visto varios casos de robo. Finalmente, sí estaría interesada en poner en alquiler su auto por medio de una aplicación web porque le parece más seguro que por otros medios; y sabe que existen sitios web para alquilar autos, pero nunca los ha usado.
+
+**Entrevista 4**
+![Imgur](https://i.imgur.com/BACVdYv.png)
+
+Timing: 11:19; 3:25 min
+
+Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito de San Miguel, Lima. Manuel dice que nunca ha puesto en alquiler su auto, pero sí estaría interesado en hacerlo. También menciona que lo que más priorizaría al alquilar su auto sería la seguridad y el compromiso que tenga el arrendatario, no puede ser alguien con denuncias o que no tenga la solvencia económica necesaria. Asimismo, piensa que sí sería buena idea poder ver la información de la persona a la que le alquilará su auto y que un servicio de alquiler de autos debería contar obligatoriamente con un seguro, además del soat. Adicionalmente, cree que se debería cobrar por hora del uso del auto, y el precio dependería del auto, de su modelo, antigüedad, condición, etc. El entrevistado manifestó que los pagos se deberían realizar por tarjeta y sí estaría dispuesto en poner su auto en alquiler por medio de una aplicación web, debido a que sería más rápido encontrar arrendatarios. Finalmente, Manuel mencionó que no conoce ningún sitio web para alquilar autos por internet.
+
 
 ### Análisis de entrevistas
 
-**Análisis de los usuarios que usan el servicio de alquiler**
+**Arrendatarios**
 
-En primer lugar, es posible confirmar que cada uno de los entrevistados ha manejado por lo menos una vez en su vida, en las cuales han manejarón un vehículo alquilado donde su forma de contacto para el préstamo del servicio fue virtual y/o presencial. Por otro lado, consideran que toda información (transparente) sobre el auto es de gran relevancia, ya que eso puede influir en sus decisiones. Asimismo, el hecho de la atención, la practicidad y la variedad que posea el servicio es de gran importancia, puesto que eso define toda la experiencia del usuario. De la misma manera, creen que la facturación del alquiler debe ser estrechamente proporcional al uso que le den; sin embargo, creen que lo más óptimo es calcular envase a horas. Tienen como método principal de pago la forma presencial y virtual (primordial). Por último, consideran que una aplicación web los ayudaría en gran medida a facilitar la información y comunicación entre ambas partes, evitando así el contacto físico en caso lo considere innecesario. Siguiendo la idea, conocen acerca de varias empresas que brinden el mismo servicio; sin embargo, preferirían algo novedoso.
+![Imgur](https://i.imgur.com/F5tPRhu.png)
+
+![Imgur](https://i.imgur.com/prZvGE7.png)
+
+![Imgur](https://i.imgur.com/E5OmjPn.png)
+
+![Imgur](https://i.imgur.com/lVDQuhk.png)
+
+![Imgur](https://i.imgur.com/vVXz8Mt.png)
+
+![Imgur](https://i.imgur.com/JwAooYB.png)
+
+![Imgur](https://i.imgur.com/C5WzyPg.png)
+
+![Imgur](https://i.imgur.com/IIgtVkK.png)
+
+![Imgur](https://i.imgur.com/szswfyC.png)
+
+![Imgur](https://i.imgur.com/ygyQ2kG.png)
+
+![Imgur](https://i.imgur.com/2AXE7Vm.png)
+
+![Imgur](https://i.imgur.com/H5kRjdO.png)
+
+![Imgur](https://i.imgur.com/zqbIqxW.png)
+
+![Imgur](https://i.imgur.com/dlzHirG.png)
+
+**Arrendadores**
+
+![Imgur](https://i.imgur.com/QMIn58f.png)
+![Imgur](https://i.imgur.com/hqvLfCj.png)
+
+![Imgur](https://i.imgur.com/0dvJ5bm.png)
+
+![Imgur](https://i.imgur.com/bn623DN.png)
+
+![Imgur](https://i.imgur.com/1x2FMqr.png)
+
+![Imgur](https://i.imgur.com/dumCcGY.png)
+
+![Imgur](https://i.imgur.com/AdLFQhN.png)
+
+![Imgur](https://i.imgur.com/g2xskR2.png)
+
+![Imgur](https://i.imgur.com/i3AKQgD.png)
+
+![Imgur](https://i.imgur.com/n0dZCYC.png)
+
+![Imgur](https://i.imgur.com/d8LhZzW.png)
+
+![Imgur](https://i.imgur.com/ftRgAvx.png)
+
+![Imgur](https://i.imgur.com/e633v1O.png)
+
+![Imgur](https://i.imgur.com/W8kC7BA.png)
 
 ## Needfinding
 
 ### User Personas
 
+A continuación se presentarán los User Persona elaborados en base al análisis de las entrevistas. Se ideó un User Persona por segmento objetivo.
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/tuLamiF.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/2gIrr7u.png)
+
+
 ### User Task Matrix
+
+**Arrendatario**
+
+<table align="center" style="text-align: center;">
+  <tr>
+    <td rowspan="2"><strong>User Task</strong></td>
+    <th colspan="6" style="text-align: center;"><strong>Arrendatario</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Frecuencia</strong></td>
+    <td><strong>Importancia</strong></td>
+  </tr>
+  <tr>
+    <td>Buscar una persona o empresa que alquile autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar a esa persona o empresa</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Ver opciones de autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Filtrar autos</td>
+    <td>Seguido</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Comparar precios de autos</td>
+    <td>Siempre</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Negociar el precio</td>
+    <td>A veces</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Seleccionar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Inspeccionar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Firmar el contrato</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comenzar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Recoger el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Usar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Devolver el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Terminar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+**Arrendador**
+
+<table align="center" style="text-align: center;">
+  <tr>
+    <td rowspan="2"><strong>User Task</strong></td>
+    <th colspan="6" style="text-align: center;"><strong>Arrendador</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Frecuencia</strong></td>
+    <td><strong>Importancia</strong></td>
+  </tr>
+  <tr>
+    <td>Buscar una persona que desee alquilar un auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar a esa persona</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Mostrarle opciones de autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Filtrar autos</td>
+    <td>Seguido</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Mostrar los precios de los autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Negociar el precio</td>
+    <td>A veces</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Separar el auto seleccionado</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Inspeccionar y limpiar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Dar el contrato al cliente para que lo firme</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comenzar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Esperar a que el cliente recoja el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Dar el auto al cliente</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Dar seguimiento al cliente</td>
+    <td>A veces</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Recibir de vuelta el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Terminar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+</table>
 
 ### User Journey Mapping
 
+A continuación se muestran los User Journey Maps elaborados para los segmentos objetivos Arrendatario y Arrendador con el objetivo de rentar un auto.
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/w0CLmeq.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/oCOfuN3.png)
+
 ### Empathy Mapping
 
+A continuación, se muestran los Empathy Maps desarrollados para cada segmento objetivo, los cuales son Arrendatario y Arrendador.
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/ygILuUf.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/6fJybYV.png)
+
 ### As-is Scenario Mapping
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/O694ILj.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/6s4JvlH.png)
 
 # Capítulo III: Requirements Specification
 
