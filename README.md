@@ -34,12 +34,16 @@
 
 # Project Report Collaboration Insights
 
+
+Cada integrante del equipo creó su porpia rama donde realizó sus modificaciones para posteriormente hacer merge con la rama main. A continuación, se presentan als evidencias.
 ## URL del repositorio del Project Report
 [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report)
+
 ## Insights
-INSERTAR IMÁGENES CON FECHA
-## Commits
-INSERTAR IMÁGENES CON FECHA
+
+**TB1**
+
+![Imgur](https://i.imgur.com/2P39RPM.png)
 
 # Contenido
 
@@ -47,7 +51,6 @@ INSERTAR IMÁGENES CON FECHA
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [URL del repositorio del Project Report](#url-del-repositorio-del-project-report)
   - [Insights](#insights)
-  - [Commits](#commits)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
