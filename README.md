@@ -1912,6 +1912,61 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 #### Sprint Planning 1
 
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-31-08</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">9:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 Goal</td>
+    <td align="center">Se debe completar el 65% del total del informe del proyecto</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
 #### Sprint Backlog 1
 
 #### Development Evidence for Sprint Review
@@ -1949,4 +2004,5 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 # Anexos
 
 - Enlace del Landing Page: [https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/](https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/)
+- Video de exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI)
 - Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
