@@ -1390,14 +1390,154 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## Software Configuration Management
+En esta sección, el equipo establece las decisiones y convenciones para mantener la consistencia a lo largo del ciclo de vida del software. Esto abarca áreas como la gestión del código fuente, la configuración del entorno de desarrollo y la configuración de implementación.
 
 ### Software Development Environment Configuration
 
+* **Project Management**
+
+  https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report
+
+* **Requirements Management**
+
+  * Trello: Es una herramienta de gestión de proyectos basada en tableros visuales. Permite organizar tareas en tarjetas y listas, asignar responsabilidades, establecer fechas límite y colaborar en tiempo real. Con funciones como arrastrar y soltar, comentarios y etiquetas, Trello facilita la organización y seguimiento del progreso de los proyectos. Además, se integra con otras herramientas y ofrece una vista clara del estado de las tareas.
+Product UX/UI Design
+
+  * UXPressia: Es una herramienta en línea que permite a los usuarios desarrollar diversas actividades ofreciendo distintos diseños con métodos para investigaciones de clientes. Por ello, se utilizó UXpressia para el desarrollo de User Person, Emphaty Map y Journey Map porque nos facilita los diseños y la obtención de tu trabajo en diferentes tipos de archivos como formato PDF o PNG de alta resolución e imprimirlos sin esfuerzo. UXPressia. Uxpressia.com. Recuperado el 01 de sept2023, de: Link
+
+
+  * Figma: Es una herramienta de diseño de interfaces como colores, imágenes, formas, entre otros que nos permite diseñar y crear nuestra aplicación ofreciendo diversos modelos de celulares Iphone, Android con respecto a distintas generaciones. Además, se utilizará para la elaboración de nuestro prototipo brindándonos la opción de elaborar nuestro proyecto con la simulación para el usuario.
+
+    Figma. Recuperado el 05 de Septiembre de 2023, de: Link: https://www.figma.com/file/uLPu61edZDhFptNQOXBQK4/AutoYa!?type=design&node-id=101%3A1294&mode=design&t=NrxBjkkeStDtsPKW-1
+
+* **Product UX/UI Design**
+
+  * HTML: El lenguaje para el desarrollo de plataformas web HTML define la estructura de su contenido. HTML consta de un conjunto de elementos que utiliza para incluir diferentes piezas de contenido para que se vean o se comporten de cierta manera. Las diversas etiquetas incrustadas pueden convertir una palabra o imagen en un hipervínculo a otro sitio web, poner palabras en cursiva, aumentar, reducir fuentes, entre otros. Además, HTML (Hypertext Markup Language) – Lenguajes de Marcas de Hipertextos no es lenguaje de programación.
+
+    HTML. Wikipedia, The Free Encyclopedia. de Recuperado el 05 Septiembre de 2023, de: https://es.wikipedia.org/w/index.php?title=HTML&oldid=15065581
+
+
+  * CSS: Este lenguaje se utiliza para ordenar las pautas de diseño de páginas web y presentar el contenido de la página de una manera atractiva. Así, HTML se utiliza para estructurar el contenido del sitio web, mientras que CSS se utiliza para estructurar la presentación. Cascading Stylesheets (CSS) – Hojas de filo en cascada
+
+    CSS. Wikipedia, The Free Encyclopedia. Recuperado el 05 de Septiembre del 2023 de: https://es.wikipedia.org/w/index.php?title=CSS&oldid=149811531
+
+
+  * Github: GitHub es un servicio web y en la nube que ayuda a los desarrolladores a almacenar y administrar su código para llevar el control de cambios de versiones Git. El uso del Github es para almacenar cada uno de los integrantes sus tareas asignadas y así tener mejor control y organización del trabajo
+
+    Github. Github.com.Recuperado del 05 de Septiembre del 2023 de https://github.com/
+
+  * Software Testing
+
+    Lenguaje Gherkins: Es un lenguaje interpretado como un código. En este lenguaje, podemos agregar historias de usuario a nuestro programa con sus respectivas partes: función, escenario, dado, cuándo, and (opcionalmente), entonces. Esto se puede hacer en cualquier idioma, pero el idioma más común es el inglés. Este lenguaje se utiliza para implementar nuestras historias de usuario.
+
+    Calatrava, S. G. (2021, octubre 13). Qué es Gherkin: cómo usarlo y cuáles son sus elementos. Profile Software Services. https://profile.es/blog/que-es-gherkin/
+
 ### Source Code Management
+
+A continuación, presentaremos la gestión del código fuente que planeamos realizar para este proyecto. Está gestión nos permitirá realizar el seguimiento y control de los múltiples cambios y modificaciones que se realice cualquier integrante del equipo, a lo largo de la vida útil del proyecto. Además, cabe destacar que para este proyecto se creará un repositorio en GitHub, donde se realizará el control de versiones.
+Repositorio para el Landing Page: https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report
+
+Repositorio para las pruebas de Aceptación:
+
+**Implementación de GitFlow**
+
+En primer lugar, para este proyecto se implementará GitFlow como Workflow de control de versiones. Este es un modelo alternativo de creación de ramas en Git en el cual se utilizan ramas principales y ramas de apoyo. Es por ello que para nuestro GitFlow usaremos las siguientes ramas.
+Ramas Principales:
+
+  * Rama Master: Esta rama se encarga de contener el código fuente que está listo para producción, el cual vendría a ser una nueva versión de nuestro proyecto.
+
+  * Rama Develop: Esta rama se encarga de contener el código fuente de los últimos cambios de desarrollo realizados antes de lanzar la próxima versión de nuestro proyecto
+
+**Rama de apoyo:**
+
+Estas ramas siempre tienen un tiempo de vida limitado, debido a que una vez se termine con esta, pasará a fusionarse en cualquiera de las ramas principales, dependiendo del tipo de rama que se use, y posteriormente será eliminada. Teniendo en cuenta esto, las ramas de apoyo que utilizaremos para este proyecto son los siguientes:
+  * Rama Feature: Este tipo de rama surgen de la rama principal Develop y se utiliza para desarrollar nuevas funciones del proyecto. Una vez culminado la función detallada en esta rama, se deberá fusionar con la rama principal Develop para luego ser eliminada.
+
+  * Rama Release: Este tipo de rama surge de la rama principal Develop y se utiliza para preparar una nueva versión de producción. Una vez instanciada esta rama, ya no se podrán agregar nuevas funciones, puesto a que en esta rama solo se realizarán tareas orientadas a la publicación, como solución de errores, generación de documentación, etc. Además, una vez culminado con esta rama, deberá fusionarse tanto en la rama Máster, como en la rama Develop.
+
+  * Rama Hotfix: Esta rama surge de la rama principal Máster y se utilizan para corregir rápidamente los problemas y errores que se presentaron en el código fuente publicado en la rama Master. Una vez se haya terminado de trabajar con la rama Hotfix, se deberá fusionar con las ramas Máster y Develop.
 
 ### Source Code Style Guide & Conventions
 
+* HTML:
+
+  Index.html: este source code en HTML establecerá la estructura del Landing Page.
+
+* CSS:
+
+  Main.css: este source code en CSS se integrará al source code de HTML en el diseño del Landing Page
+
+  Base.css: este source code en CSS se integrará al source code de HTML en el diseño del Landing Page
+
+  Fonts.css: este source code en CSS se integrará al source code de HTML en el diseño del Landing Page
+
+  Vendor.css: este source code en CSS se integrará al source code de HTML en el diseño del Landing Page
+
+* JavaScript:
+
+  Jquery-2.1.3.min.js: Este archivo mejora la experiencia del usuario en el Landing Page.
+
+  main.js: main.js es un archivo de código fuente fundamental para el funcionamiento del Landing Page en AutoYa!.
+
+  modernizr.js: modernizr.js garantiza una experiencia coherente y eficiente en diferentes navegadores.
+
+  pace.min.js: Esto ayuda a los usuarios a comprender cuándo se ha completado la carga del sitio web. En AutoYa!, pace.min.js mejora la percepción del rendimiento del sitio y la experiencia de usuario.
+
+  plugins.js: Este archivo contiene plugins y extensiones de JavaScript que se utilizan en diversas partes del Landing Page.
+
+**Convenciones generales**
+
+* Sangría: tendrá 2 espacios a la vez<br>
+  .example {<br>
+  Color: red;<br>
+  }
+* Códificación: para las plantillas HTML se usará UTF-8<br>
+  < meta charset="utf-8" ><br>
+  
+**Convenciones del formato HTML**
+
+* General: para cada lista, elemento o tabla se usará una nueva línea con doble espaciado<br>
+  < ul><br>
+  < li> Elemento 1 < /li><br>
+  < li> Elemento 2 < /li><br>
+  < li> Elemento 3 < /li><br>
+  < li> Elemento 4 < /li><br>
+  < /ul>
+
+* Comillas: citaremos los valore y atributos a través de comillas<br>
+  < img src="images/firefox-icon.png" alt="My test image" /><br>
+
+**Convenciones del formato CSS**
+
+* Nomenclatura: se usarán nombres que reflejan en elementos en genéricos y cuestión
+
+  .menu {}<br>
+  .login {}<br>
+  .image{}
+
+* Estilo de nombre: los nombres serán cortos para mayor brevedad
+
+  -- Box<br>
+  .box {}<br>
+  .image {}<br>
+  .title {}
+
+* Propiedades de tipografía: se usará las propiedades de tipografía para el tipo de letra a usar, tamaño, entre otros.
+
+  font-style: italic;<br>
+  font-weight: bold;<br>
+  font-size: .8em;<br>
+  line-height: 1.2;<br>
+  font-family: Arial, sans-serif;
+
 ### Software Deployment Configuration
+Para implementar el despliegue de la página de inicio del proyecto, optaremos por GitHub Pages, una plataforma que GitHub proporciona para alojar sitios web estáticos directamente desde un repositorio. Por esta razón, hemos iniciado creando un repositorio donde cargaremos las diferentes versiones que desarrollaremos en el proyecto.
+
+![Imgur](https://i.imgur.com/qvnxul1.png)
+
+![Imgur](https://i.imgur.com/eahfYpk.png)
+
+![Imgur](https://i.imgur.com/2P0X07h.png)
 
 ## Landing Page, Services & Applications Implementation
 
