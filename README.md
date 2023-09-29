@@ -30,7 +30,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
+| Entrega 1 (TB1)      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
+| Entrega 2 (TP)      | 29/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | -Se actualizó la documentación correspondiente al proyecto. <br> -Se diseñó el Frontend de nuestro proyecto utilizando el Framework Vue 3 y la librería PrimeVue. |
 
 # Project Report Collaboration Insights
 
@@ -44,10 +45,6 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
 **TB1**
 
 ![Imgur](https://i.imgur.com/2P39RPM.png)
-
-**TP**
-
-![Imgur](https://i.imgur.com/qet5BsL.jpg)
 
 # Contenido
 
@@ -159,8 +156,8 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |--------------|--------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.      |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.      |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br> Fui capaz de participar de manera efectiva, eficiente y objetiva junto a mi equipo en el desarrollo de nuestro Frontend aplicando conocimientos de ingeniería de software.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.      |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br>Soy capaz de aplicar mis conocimientos y habilidades en ingeniería de software en el contexto de equipos multidisciplinarios, asegurando la eficacia y eficiencia en la ejecución de proyectos.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.      |
 
 # Capítulo I: Introducción
 
@@ -2064,350 +2061,6 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 ## Landing Page, Services & Applications Implementation
 
-### Sprint 1
-
-#### Sprint Planning 1
-
-
-
-#### Sprint Backlog 2
-
-
-
-#### Development Evidence for Sprint Review
-
-<table>
-  <tr>
-    <td align="center"><strong>Repository</strong></td>
-    <td align="center"><strong>Branch</strong></td>
-    <td align="center"><strong>Commit ID</strong></td>
-    <td align="center"><strong>Commit Message</strong></td>
-    <td align="center"><strong>Commit Message Body</strong></td>
-    <td align="center"><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
-    <td align="center">feature/main</td>
-    <td align="center">c628f0171bdd8b1fbdf758a4f4cc083c832d07e8</td>
-    <td align="center">feat: Sprint Planning y video</td>
-    <td align="center">Actualización Sprint Planning y video TB1</td>
-    <td align="center">08/09/2023</td>
-  </tr>
-</table>
-
-#### Testing Suite Evidence for Sprint Review
-
-<table>
-  <tr>
-    <td align="center"><strong>Repository</strong></td>
-    <td align="center"><strong>Branch</strong></td>
-    <td align="center"><strong>Commit ID</strong></td>
-    <td align="center"><strong>Commit Message</strong></td>
-    <td align="center"><strong>Commit Message Body</strong></td>
-    <td align="center"><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
-    <td align="center">feature/main</td>
-    <td align="center">1d3efb3bc032dc32a9d3c4c1788c0ddfa5ae8a2c</td>
-    <td align="center">feat: Acceptance Tests</td>
-    <td align="center">Agregados los acceptance tests al informe.</td>
-    <td align="center">08/09/2023</td>
-  </tr>
-</table>
-
-#### Execution Evidence for Sprint Review
-
-En esta entrega nos enfocamos del desarrollo del Landing Page desplegado. La landing page se enfoca en lo que ofrecemos como negocio, el alquiler de autos no solo para personas que deseen alquilar un auto sino tambien para personas que deseen compartir su auto. A partir de esto se planteo el desarrollo del landing page , para informar a los usuario como funciona ese este servicio mediante una interfaz llamativa .
-
-![impur](https://i.postimg.cc/50nL6PbB/Captura-de-pantalla-2023-09-26-122912.png)
-![impur](https://i.postimg.cc/5yyvvw2Z/Captura-de-pantalla-2023-09-26-122944.png)
-![impur](https://i.postimg.cc/G2cv30w3/Captura-de-pantalla-2023-09-26-122959.png)
-![impur](https://i.postimg.cc/mr3QGLn6/Captura-de-pantalla-2023-09-26-123022.png)
-![impur](https://i.postimg.cc/cJGQjgFn/Captura-de-pantalla-2023-09-26-123034.png)
-![impur](https://i.postimg.cc/MpQ7dbmw/Captura-de-pantalla-2023-09-26-123047.png)
-
-#### Services Documentation Evidence for Sprint Review
-
-Nuestra aplicacion AUTOYA! es una plataforma  que permite el alquiler de vehículos entre propietarios y arrendatarios. Para el desarrollo de este proyecto hemos utilizado muchas herracmientas como por ejemplo.
-
-*HTML (HyperText Markup Language)* : Usamos  HTML para la estructura del contenido del landing page. 
-
-*CSS (Cascading Style Sheets)* :CSS se uso para dar estilo a la plataforma y mejorar la presentación visual y la experiencia del usuario.
-
-*JavaScript* :JavaScript se ha implementado para agregar dinamismo a la plataforma. 
-
-*GitHub*: Hemos creado un repositorio en GitHub para realizar un seguimiento de los cambios en el código. 
-
-*GitHub Pages*: GitHub Pages se ha utilizado para alojar y publicar nuestra página web de manera gratuita. 
-
-#### Software Deployment Evidence for Sprint Review
-
-Para esta primera entrega se logro implementar el landing Page donde se encuentra la información detallada de nuestra StartUp. Presentamos:
-
-URL (Link desplegado de Landing Page(AUTOYA!)):
-
-https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/#download
-
-#### Team Collaboration Insights during Sprint
-
-![Imgur](https://i.imgur.com/7dMYhiB.jpg)
-
-![Imgur](https://i.imgur.com/Juo6fmV.jpg)
-
-### Sprint 2
-
-#### Sprint Planning 2
-
-Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint #</strong></td>
-    <td align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Date</td>
-    <td align="center">2023-31-08</td>
-  </tr>
-  <tr>
-    <td align="center">Time</td>
-    <td align="center">9:30 PM</td>
-  </tr>
-  <tr>
-    <td align="center">Location</td>
-    <td align="center">Reunión virtual por Discord</td>
-  </tr>
-  <tr>
-    <td align="center">Prepared By</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-  </tr>
-  <tr>
-    <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 1 – 1 Review Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 1 Goal</td>
-    <td align="center">Se debe completar el 65% del total del informe del proyecto</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint n Velocity</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
-  </tr>
-</table>
-
-#### Sprint Backlog 2
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>User Story</strong></td>
-    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Estimation (Hours)</strong></td>
-    <td align="center"><strong>Assigned To</strong></td>
-    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI01</td>
-    <td align="center">Capítulo 1</td>
-    <td align="center">Completar el capítulo 1</td>
-    <td align="center">8</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI02</td>
-    <td align="center">Capítulo 2</td>
-    <td align="center">Completar el capítulo 2</td>
-    <td align="center">7</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI03</td>
-    <td align="center">Entrevista Alonso</td>
-    <td align="center">Realizar entrevista a segmento objetivo</td>
-    <td align="center">2</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI04</td>
-    <td align="center">Entrevista Erick Ruiz</td>
-    <td align="center">Realizar entrevista a segmento objetivo</td>
-    <td align="center">2</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI05</td>
-    <td align="center">Entrevista Nicolas</td>
-    <td align="center">Realizar entrevista a segmento objetivo</td>
-    <td align="center">2</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI06</td>
-    <td align="center">Capítulo 3</td>
-    <td align="center">Completar el capítulo 3</td>
-    <td align="center">8</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI07</td>
-    <td align="center">Capítulo 4</td>
-    <td align="center">Completar el capítulo 4</td>
-    <td align="center">8</td>
-    <td align="center">Moreno Vergara, Johan Raúl</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI08</td>
-    <td align="center">Capítulo 4</td>
-    <td align="center">Completar el capítulo 4</td>
-    <td align="center">8</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Capítulo 5</td>
-    <td align="center">Completar el capítulo 5</td>
-    <td align="center">4</td>
-    <td align="center">Todo el grupo</td>
-    <td align="center">Done</td>
-  </tr>
-</table>
-
-#### Development Evidence for Sprint Review
-
-<table>
-  <tr>
-    <td align="center"><strong>Repository</strong></td>
-    <td align="center"><strong>Branch</strong></td>
-    <td align="center"><strong>Commit ID</strong></td>
-    <td align="center"><strong>Commit Message</strong></td>
-    <td align="center"><strong>Commit Message Body</strong></td>
-    <td align="center"><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
-    <td align="center">feature/main</td>
-    <td align="center">c628f0171bdd8b1fbdf758a4f4cc083c832d07e8</td>
-    <td align="center">feat: Sprint Planning y video</td>
-    <td align="center">Actualización Sprint Planning y video TB1</td>
-    <td align="center">08/09/2023</td>
-  </tr>
-</table>
-
-#### Testing Suite Evidence for Sprint Review
-
-<table>
-  <tr>
-    <td align="center"><strong>Repository</strong></td>
-    <td align="center"><strong>Branch</strong></td>
-    <td align="center"><strong>Commit ID</strong></td>
-    <td align="center"><strong>Commit Message</strong></td>
-    <td align="center"><strong>Commit Message Body</strong></td>
-    <td align="center"><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
-    <td align="center">feature/main</td>
-    <td align="center">1d3efb3bc032dc32a9d3c4c1788c0ddfa5ae8a2c</td>
-    <td align="center">feat: Acceptance Tests</td>
-    <td align="center">Agregados los acceptance tests al informe.</td>
-    <td align="center">08/09/2023</td>
-  </tr>
-</table>
-
-#### Execution Evidence for Sprint Review
-
-En esta entrega nos enfocamos del desarrollo del Landing Page desplegado. La landing page se enfoca en lo que ofrecemos como negocio, el alquiler de autos no solo para personas que deseen alquilar un auto sino tambien para personas que deseen compartir su auto. A partir de esto se planteo el desarrollo del landing page , para informar a los usuario como funciona ese este servicio mediante una interfaz llamativa .
-
-![impur](https://i.postimg.cc/50nL6PbB/Captura-de-pantalla-2023-09-26-122912.png)
-![impur](https://i.postimg.cc/5yyvvw2Z/Captura-de-pantalla-2023-09-26-122944.png)
-![impur](https://i.postimg.cc/G2cv30w3/Captura-de-pantalla-2023-09-26-122959.png)
-![impur](https://i.postimg.cc/mr3QGLn6/Captura-de-pantalla-2023-09-26-123022.png)
-![impur](https://i.postimg.cc/cJGQjgFn/Captura-de-pantalla-2023-09-26-123034.png)
-![impur](https://i.postimg.cc/MpQ7dbmw/Captura-de-pantalla-2023-09-26-123047.png)
-
-#### Services Documentation Evidence for Sprint Review
-
-Nuestra aplicacion AUTOYA! es una plataforma  que permite el alquiler de vehículos entre propietarios y arrendatarios. Para el desarrollo de este proyecto hemos utilizado muchas herracmientas como por ejemplo.
-
-*HTML (HyperText Markup Language)* : Usamos  HTML para la estructura del contenido del landing page. 
-
-*CSS (Cascading Style Sheets)* :CSS se uso para dar estilo a la plataforma y mejorar la presentación visual y la experiencia del usuario.
-
-*JavaScript* :JavaScript se ha implementado para agregar dinamismo a la plataforma. 
-
-*GitHub*: Hemos creado un repositorio en GitHub para realizar un seguimiento de los cambios en el código. 
-
-*GitHub Pages*: GitHub Pages se ha utilizado para alojar y publicar nuestra página web de manera gratuita. 
-
-#### Software Deployment Evidence for Sprint Review
-
-Para esta primera entrega se logro implementar el landing Page donde se encuentra la información detallada de nuestra StartUp. Presentamos:
-
-URL (Link desplegado de Landing Page(AUTOYA!)):
-
-https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/#download
-
-#### Team Collaboration Insights during Sprint
-
-![Imgur](https://i.imgur.com/zYqrS4p.jpg)
-
-![Imgur](https://i.imgur.com/JT1URiv.jpg)
-
 ### Sprint 2
 
 #### Sprint Planning 2
@@ -2471,23 +2124,224 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 #### Sprint Backlog 2
 
-#### Development Evidence for Sprint 2 Review
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Perfil (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de perfil del arrendatario y el propietario</td>
+    <td align="center">6</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Solicitudes (Arrendatario)</td>
+    <td align="center">Crear la página de solicitudes del arrendatario</td>
+    <td align="center">4</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Busqueda de autos (arrendatario)</td>
+    <td align="center">Crear la página de busqueda de autos del arrendatario</td>
+    <td align="center">4</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Mantenimiento(arrendatario)</td>
+    <td align="center">Crear la página de mantenimientos del arrendatario</td>
+    <td align="center">4</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Registro Vehicular (Propietario)</td>
+    <td align="center">Crear la página de registro vehicular del propietario</td>
+    <td align="center">4</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Alquiler (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de alquiler del arrendatario y el propietario</td>
+    <td align="center">7</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Login (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de login del arrendatario y el propietario</td>
+    <td align="center">4</td>
+    <td align="center">Moreno Vergara, Johan Raúl</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Registro (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de registro del arrendatario y el propietario</td>
+    <td align="center">4</td>
+    <td align="center">Moreno Vergara, Johan Raúls</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Inicio Principal (Arrendatarios y Propietarios)</td>
+    <td align="center">Crear las páginas de inicio del arrendatario y el propietario</td>
+    <td align="center">6</td>
+    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Notificaciones (Propietario)</td>
+    <td align="center">Crear las páginas de notificaciones del propietario</td>
+    <td align="center">4</td>
+    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center"></td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
 
-#### Testing Suite Evidence for Sprint 2 Review
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">Creación página registro de auto</td>
+    <td align="center">Creado el componente car-registration-owner</td>
+    <td align="center">27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
+    <td align="center">Creación página de perfil para arrendador y arrendatario</td>
+    <td align="center">Creado el componente profile-owner & profile-tenants</td>
+    <td align="center">27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Inclusión de toolbars</td>
+    <td align="center">Agregados los toolbars para arrendatarios y propietarios.
+</td>
+    <td align="center">27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">feature/Nicolás-Zagal</td>
+    <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
+    <td align="center">Merge pull request</td>
+    <td align="center">Merge pull request
+</td>
+    <td align="center">27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">Alonso-Robles</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Merge remote-tracking branch</td>
+    <td align="center"># src/AutoYa/pages/profile-owner.vue #	src/AutoYa/pages/profile-tenant.vue</td>
+  <td align="center">27/09/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">Johan-Moreno</td>
+    <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
+    <td align="center">Add Login component & Udate Login</td>
+    <td align="center">Add Login component & Udate Login</td>
+  <td align="center">28/09/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">Erick-Urbizagástegui</td>
+    <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
+    <td align="center">Merge pull request #15</td>
+    <td align="center">Merge pull request #15</td>
+  <td align="center">28/09/2023</td>
+  
+</table>
+
+#### Testing Suite Evidence for Sprint 2 Review.
+
+En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
 
 #### Execution Evidence for Sprint 2 Review
 
-### Services Documentation Evidence for Sprint 2 Review
+
+#### Services Documentation Evidence for Sprint 2 Review
 
 Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
 
-**Webstorm (IDE DE DESARROLLO)**: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+*Webstorm (IDE DE DESARROLLO)*: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
 
-**Vue.js (Frameworks)**: Utilizamos vue.js como Frameworks de trabajo.
+*Vue.js (Frameworks)*: Utilizamos vue.js como Frameworks de trabajo.
 
-**JavaScript**: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
+*JavaScript*: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
 
-**GitHub** :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+*GitHub* :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
 
 ### Software Deployment Evidence for Sprint 2 Review
 
@@ -2512,7 +2366,16 @@ Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
 
 # Conclusiones
 
-## Conclusiones y recomendaciones
+- La startup tiene un potencial en el mercado ya que aprovecha la uso de vehículos particulares y la necesidad de soluciones de alquiler de vehículos más accesibles.
+
+- AutoYa! tiene el potencial de contribuir a la reducción de la congestión vial y fomentar prácticas de movilidad más sostenibles al optimizar el uso de vehículos existentes.
+
+- La plataforma ofrece a los propietarios de vehículos la oportunidad de generar ingresos adicionales alquilando sus vehículos cuando no lo requieran, siendo esto un incentivo atractivo para generar dinero.
+
+- Uno de los puntos mas importantes que queremos dar a nuestros usuarios es la seguridad y confianza, 
+tanto para compartir un vehiculo o como para alquilar uno.
+
+- AutoYa! debe enfocarse en diferenciarse de la competencia , ofreciendo servicios únicos que la distingan de otras plataformas de alquiler de vehículos.
 
 ## Video About-the-Team
 
@@ -2525,3 +2388,11 @@ Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
 - Enlace del Landing Page: [https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/](https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/)
 - Video de exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI)
 - Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+- Link de nuestro frontend desplegado: [https://autoya-frontend.firebaseapp.com/login](https://autoya-frontend.firebaseapp.com/login)
+
+- Link del repositorio de de nuestro Frontend: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
+](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
+)
+
+
