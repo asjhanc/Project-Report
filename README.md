@@ -30,7 +30,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
+| Entrega 1 (TB1)      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
+| Entrega 2 (TP)      | 29/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | -Se actualizó la documentación correspondiente al proyecto. <br> -Se diseñó el Frontend de nuestro proyecto utilizando el Framework Vue 3 y la librería PrimeVue. |
 
 # Project Report Collaboration Insights
 
