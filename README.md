@@ -2322,6 +2322,61 @@ En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se p
 
 #### Execution Evidence for Sprint 2 Review
 
+Login
+
+![Imgur](https://i.imgur.com/gGgBhiE.png)
+
+Registro
+
+![Imgur](https://i.imgur.com/HSQiD4u.png)
+
+Página de inicio arrendatario
+
+![Imgur](https://i.imgur.com/8HKtNja.png)
+
+Página de inicio propietario
+
+![Imgur](https://i.imgur.com/DTpg8I1.png)
+
+Notificaciones propietario
+
+![Imgur](https://i.imgur.com/kIIsofo.png)
+
+Perfil arrendatario
+
+![Imgur](https://i.imgur.com/zPPH5J0.png)
+
+Perfil propietario
+
+![Imgur](https://i.imgur.com/cOX5t5u.png)
+
+Solicitudes arrendatario
+
+![Imgur](https://i.imgur.com/efGqnl7.png)
+
+Búsqueda de autos arrendatario
+
+![Imgur](https://i.imgur.com/alAM1W8.png)
+
+Mantenimiento arrendatario
+
+![Imgur](https://i.imgur.com/qqLvmhh.png)
+
+Registro vehicular propietario
+
+![Imgur](https://i.imgur.com/GV8HRnk.png)
+
+Creación de contrato de alquiler propietario
+
+![Imgur](https://i.imgur.com/797NC9l.png)
+
+Alquiler arrendatario
+
+![Imgur](https://i.imgur.com/NGwl67E.png)
+
+Alquiler propietario
+
+![Imgur](https://i.imgur.com/TmsPSUZ.png)
 
 #### Services Documentation Evidence for Sprint 2 Review
 
@@ -2379,12 +2434,13 @@ tanto para compartir un vehiculo o como para alquilar uno.
 
 - Enlace del Landing Page: [https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/](https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/)
 - Video de exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI)
+- Video de exposición del TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EW6Q5v-N6dNAsuA0rHFvvzoB1zu_YtdcUtT39TWCtUesyQ?e=g4qp4E](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EW6Q5v-N6dNAsuA0rHFvvzoB1zu_YtdcUtT39TWCtUesyQ?e=g4qp4E)
 - Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 - Link de nuestro frontend desplegado: https://autoya-frontend-grupo2.netlify.app/login
 <br>(En caso de que la página se caiga, por favor dar click en la opción "Back to our site"
 
-- Link del repositorio de de nuestro Frontend: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
+- Link del repositorio de nuestro Frontend: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
 ](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
 )
 
