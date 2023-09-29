@@ -2060,9 +2060,9 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 ## Landing Page, Services & Applications Implementation
 
-### Sprint 1
+### Sprint 2
 
-#### Sprint Planning 1
+#### Sprint Planning 2
 
 
 
