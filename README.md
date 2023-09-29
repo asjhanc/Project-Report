@@ -2366,7 +2366,16 @@ Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
 
 # Conclusiones
 
-## Conclusiones y recomendaciones
+- La startup tiene un potencial en el mercado ya que aprovecha la uso de vehículos particulares y la necesidad de soluciones de alquiler de vehículos más accesibles.
+
+-AutoYa! tiene el potencial de contribuir a la reducción de la congestión vial y fomentar prácticas de movilidad más sostenibles al optimizar el uso de vehículos existentes.
+
+-La plataforma ofrece a los propietarios de vehículos la oportunidad de generar ingresos adicionales alquilando sus vehículos cuando no lo requieran, siendo esto un incentivo atractivo para generar dinero.
+
+-Uno de los puntos mas importantes que queremos dar a nuestros usuarios es la seguridad y confianza, 
+tanto para compartir un vehiculo o como para alquilar uno.
+
+-AutoYa! debe enfocarse en diferenciarse de la competencia , ofreciendo servicios únicos que la distingan de otras plataformas de alquiler de vehículos.
 
 ## Video About-the-Team
 
