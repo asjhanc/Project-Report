@@ -45,6 +45,10 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
 
 ![Imgur](https://i.imgur.com/2P39RPM.png)
 
+**TP**
+
+![Imgur](https://i.imgur.com/qet5BsL.jpg)
+
 # Contenido
 
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
