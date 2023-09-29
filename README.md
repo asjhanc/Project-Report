@@ -30,17 +30,20 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Celda 4      |
-| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo   | Celda 8      |
+| Entrega 1      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
 
 # Project Report Collaboration Insights
 
+
+Cada integrante del equipo creó su porpia rama donde realizó sus modificaciones para posteriormente hacer merge con la rama main. A continuación, se presentan als evidencias.
 ## URL del repositorio del Project Report
 [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report)
+
 ## Insights
-INSERTAR IMÁGENES CON FECHA
-## Commits
-INSERTAR IMÁGENES CON FECHA
+
+**TB1**
+
+![Imgur](https://i.imgur.com/2P39RPM.png)
 
 # Contenido
 
@@ -48,7 +51,6 @@ INSERTAR IMÁGENES CON FECHA
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [URL del repositorio del Project Report](#url-del-repositorio-del-project-report)
   - [Insights](#insights)
-  - [Commits](#commits)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -79,6 +81,8 @@ INSERTAR IMÁGENES CON FECHA
     - [As-is Scenario Mapping](#as-is-scenario-mapping)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [To-Be Scenario Mapping](#to-be-scenario-mapping)
+      - [**Usuario: Propietario**](#usuario-propietario)
+      - [**Usuario: Arrendatario**](#usuario-arrendatario)
     - [User Stories](#user-stories)
     - [Impact Mapping](#impact-mapping)
     - [Product Backlog](#product-backlog)
@@ -101,6 +105,7 @@ INSERTAR IMÁGENES CON FECHA
     - [Web Applications Mock-ups](#web-applications-mock-ups)
     - [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)
   - [Web Applications Prototyping](#web-applications-prototyping)
+    - [Desktop Prototyping](#desktop-prototyping)
   - [Domain-Driven Software Architecture](#domain-driven-software-architecture)
     - [Software Architecture Context Diagram](#software-architecture-context-diagram)
     - [Software Architecture Container Diagrams](#software-architecture-container-diagrams)
@@ -108,7 +113,7 @@ INSERTAR IMÁGENES CON FECHA
   - [Software Object-Oriented Design](#software-object-oriented-design)
     - [Class Diagrams](#class-diagrams)
     - [Class Dictionary](#class-dictionary)
-  - [Databse Design](#databse-design)
+  - [Database Design](#database-design)
     - [Database Diagram](#database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [Software Configuration Management](#software-configuration-management)
@@ -141,8 +146,8 @@ INSERTAR IMÁGENES CON FECHA
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |--------------|--------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 2      | Celda 3      |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 5      | Celda 6      |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.      |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.      |
 
 # Capítulo I: Introducción
 
@@ -176,7 +181,11 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 **Luis Fernando Isla Quispe (u202124146)**
 
+![Imgur](https://i.imgur.com/4OIvzsz.png)
+
 **Nicolás Zagal Vallejo (u20201c429)**
+
+![Imgur](https://i.imgur.com/0l7v4k3.png)
 
 ## Solution Profile
 
@@ -446,7 +455,7 @@ Somos consciente de que tener demasiada publicidad en una pantalla resulta moles
 13. ¿Conoce algun medio que permita alquilar autos por internet?
 
 ### Registro de entrevistas
-URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 **Arrendatarios**
 
@@ -461,94 +470,92 @@ Alessandro Condori es un estudiante universitario de 20 años de edad. Reside en
 **Entrevista 2**
 ![Imgur](https://i.imgur.com/jQEwgcv.png)
 
-Timing: 0:00; 5:54 min
+Timing: 5:34; 5:54 min
 
 Cristian Iparraguirre es un estudiante universitario de 19 años. Reside en Lince, Lima. Cristian sí ha manejado autos anteriormente de los cuales tuvo que alquiler vía virtual, donde tuvo que buscar dentro de distintas páginas para acceder aquel servicio. Prioriza esencialmente todo información detallada respecto al vehículo. Asimismo, considera que un servicio que sea de gran utilidad debe de cumplir ciertas caracterísitcas tales como: facilidad de usar, precios relativamente económicos, información precisa y filtros de búsquedas eficientes. Por otro lado, no tiene problemas si el método de pago es de manera virtual o presencial. Alega que ya realizó el alquiler de un auto por medio de una aplicación por lo que seguiría haciendolo. Al final, manifestó que la pagína donde solicitó el auto fue "Kayak".
 
+**Entrevista 3**
+![Imgur](https://i.imgur.com/FBAA869.png)
+
+Timing: 11:28; 5:07 min
+
+Víctor Ramírez es un estudiante universitario de 18 años. Reside en Surco, Lima. tiene experiencia conduciendo, sin embargo, no ha tenido la oportunidad previamente de alquilar un auto aunque menciona haber tenido la intención. Víctor menciona que al alquilar un auto no prioriza con exactitud sus especificaciones ya que estas varían en funci´´on de lo que esté buscando para la ocación. En cambio, prefiere asegurarse de que la empresa de la cual alquilaría se confiable, tenga buena documentación y buenas referencias. Por otro lado, nos menciona que considera importante que el carro esté en perfectas condiciones, verificado por un especialista que avale su buen funcionamiento y tener conocimiento exacto de las tarifas que se aplicarían. Considera que el servicio debería contar con un servicio de grúa o seguro en caso de algún desperfecto o accidente, así como estar totalmente limpio. Así mismo considera que se debería cobrar por día con una cuota inicial previo al servicio y el resultante al finalizarlo y respetar el presupuesto hecho sin cargos extra fuera de cotización. Considera que se debe cobrar en función del tipo de auto, nos brinda como ejemplo un sedán de motor 1600 cuyo valor no debería superar los 200 soles diarios. Cree que se debería pagar por medios digitales para proteger al arrendador y manifiesta que la idea de arrendar un carro por una aplicacion web le parece "espectacular". Finalmente, menciona que no conoce de ningún medio que lo haga en la actualidad.
+
 **Arrendadores**
 
-**Entrevista 3**
+**Entrevista 4**
 ![Imgur](https://i.imgur.com/TiE9WhC.png)
 
-Timing: 7:25; 3:54 min
+Timing: 20:57; 3:54 min
 
 Valeria Nevado es una estudiante universitaria de 20 años. Reside en Cercado de Lima, Lima. Valeria sí ha puesto su auto en alquiler anteriormente, y lo hizo por WhatsApp, Facebook y de forma presencial. Ella priorizaría sobre todo saber a quién le está alquilando su auto y cree que es importante tener información de la persona a quien se lo da. Asimismo, cree que las personas que quieran registrarse para alquilar un auto deben pasar por un filtro que valide que es una persona que usará el auto de forma correcta; y cree que debe. También cree que se debería cobrar 100 soles mínimo por día de uso del auto. La entrevistada manifestó que se debería cobrar por medio de tarjetas de crédito y débito, ya que en efectivo se han visto varios casos de robo. Finalmente, sí estaría interesada en poner en alquiler su auto por medio de una aplicación web porque le parece más seguro que por otros medios; y sabe que existen sitios web para alquilar autos, pero nunca los ha usado.
 
-**Entrevista 4**
+**Entrevista 5**
 ![Imgur](https://i.imgur.com/BACVdYv.png)
 
-Timing: 11:19; 3:25 min
+Timing: 24:51; 3:25 min
 
 Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito de San Miguel, Lima. Manuel dice que nunca ha puesto en alquiler su auto, pero sí estaría interesado en hacerlo. También menciona que lo que más priorizaría al alquilar su auto sería la seguridad y el compromiso que tenga el arrendatario, no puede ser alguien con denuncias o que no tenga la solvencia económica necesaria. Asimismo, piensa que sí sería buena idea poder ver la información de la persona a la que le alquilará su auto y que un servicio de alquiler de autos debería contar obligatoriamente con un seguro, además del soat. Adicionalmente, cree que se debería cobrar por hora del uso del auto, y el precio dependería del auto, de su modelo, antigüedad, condición, etc. El entrevistado manifestó que los pagos se deberían realizar por tarjeta y sí estaría dispuesto en poner su auto en alquiler por medio de una aplicación web, debido a que sería más rápido encontrar arrendatarios. Finalmente, Manuel mencionó que no conoce ningún sitio web para alquilar autos por internet.
 
-**Entrevista 5**
+**Entrevista 6**
 
 [![Captura-de-pantalla-2023-09-08-051842.png](https://i.postimg.cc/ZY9706fz/Captura-de-pantalla-2023-09-08-051842.png)](https://postimg.cc/NLc7z2qd)
 
-Miguel Ángel Ibañez, un estudiante universitario de 25 años en Lima, está considerando alquilar su auto. Él prioriza la seguridad y la confianza al alquilar su auto a un desconcido, evitando personas con denuncias o problemas financieros. Miguel valora tener información relevante sobre la persona a la que confiará su vehículo, lo que indica su deseo de establecer un cierto nivel de confianza en este proceso. Además, destaca la importancia del seguro y el SOAT. Sugiere tarifas por hora y prefiere pagos con tarjeta. Está dispuesto a usar una aplicación web para alquilar. Aunque no conoce plataformas específicas, su interés sugiere que podría beneficiarse de explorar opciones tecnológicas.
+Timing: 16:36; 4:16 min
 
-Timing: 00:00; 4:16 min
+Miguel Ángel Ibañez, un estudiante universitario de 25 años en Lima, está considerando alquilar su auto. Él prioriza la seguridad y la confianza al alquilar su auto a un desconcido, evitando personas con denuncias o problemas financieros. Miguel valora tener información relevante sobre la persona a la que confiará su vehículo, lo que indica su deseo de establecer un cierto nivel de confianza en este proceso. Además, destaca la importancia del seguro y el SOAT. Sugiere tarifas por hora y prefiere pagos con tarjeta. Está dispuesto a usar una aplicación web para alquilar. Aunque no conoce plataformas específicas, su interés sugiere que podría beneficiarse de explorar opciones tecnológicas.
 
 ### Análisis de entrevistas
 
 **Arrendatarios**
 
-![Imgur](https://i.imgur.com/F5tPRhu.png)
+![Imgur](https://i.imgur.com/VNfnRNd.png)
 
-![Imgur](https://i.imgur.com/prZvGE7.png)
+![Imgur](https://i.imgur.com/V7P9MnF.png)
 
-![Imgur](https://i.imgur.com/E5OmjPn.png)
+![Imgur](https://i.imgur.com/49tHN92.png)
 
-![Imgur](https://i.imgur.com/lVDQuhk.png)
+![Imgur](https://i.imgur.com/O8r1FU5.png)
 
-![Imgur](https://i.imgur.com/vVXz8Mt.png)
+![Imgur](https://i.imgur.com/3GqCISz.png)
 
-![Imgur](https://i.imgur.com/JwAooYB.png)
+![Imgur](https://i.imgur.com/lkbHpjV.png)
 
-![Imgur](https://i.imgur.com/C5WzyPg.png)
+![Imgur](https://i.imgur.com/xCPpACX.png)
 
-![Imgur](https://i.imgur.com/IIgtVkK.png)
+![Imgur](https://i.imgur.com/KoKnhe5.png)
 
-![Imgur](https://i.imgur.com/szswfyC.png)
+![Imgur](https://i.imgur.com/VFrDq3d.png)
 
-![Imgur](https://i.imgur.com/ygyQ2kG.png)
+![Imgur](https://i.imgur.com/40CyBOx.png)
 
-![Imgur](https://i.imgur.com/2AXE7Vm.png)
+![Imgur](https://i.imgur.com/jy6nlso.png)
 
-![Imgur](https://i.imgur.com/H5kRjdO.png)
-
-![Imgur](https://i.imgur.com/zqbIqxW.png)
-
-![Imgur](https://i.imgur.com/dlzHirG.png)
+![Imgur](https://i.imgur.com/xqOoZoO.png)
 
 **Arrendadores**
 
-![Imgur](https://i.imgur.com/QMIn58f.png)
-![Imgur](https://i.imgur.com/hqvLfCj.png)
+![Imgur](https://i.imgur.com/Ypv6LqW.png)
 
-![Imgur](https://i.imgur.com/0dvJ5bm.png)
+![Imgur](https://i.imgur.com/TNdxgHL.png)
 
-![Imgur](https://i.imgur.com/bn623DN.png)
+![Imgur](https://i.imgur.com/JBJjwCE.png)
 
-![Imgur](https://i.imgur.com/1x2FMqr.png)
+![Imgur](https://i.imgur.com/7giPx1g.png)
 
-![Imgur](https://i.imgur.com/dumCcGY.png)
+![Imgur](https://i.imgur.com/WbfDNg7.png)
 
-![Imgur](https://i.imgur.com/AdLFQhN.png)
+![Imgur](https://i.imgur.com/ouXM2GW.png)
 
-![Imgur](https://i.imgur.com/g2xskR2.png)
+![Imgur](https://i.imgur.com/eSHY2cw.png)
 
-![Imgur](https://i.imgur.com/i3AKQgD.png)
+![Imgur](https://i.imgur.com/eSHY2cw.png)
 
-![Imgur](https://i.imgur.com/n0dZCYC.png)
+![Imgur](https://i.imgur.com/SExuZWq.png)
 
-![Imgur](https://i.imgur.com/d8LhZzW.png)
+![Imgur](https://i.imgur.com/PTEW9bf.png)
 
-![Imgur](https://i.imgur.com/ftRgAvx.png)
-
-![Imgur](https://i.imgur.com/e633v1O.png)
-
-![Imgur](https://i.imgur.com/W8kC7BA.png)
+![Imgur](https://i.imgur.com/7pJWRYf.png)
 
 ## Needfinding
 
@@ -1387,6 +1394,509 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
   <img src="https://i.imgur.com/AkW3hUg.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
 </p>
 
+## Web Applications UX/UI Design
+
+### Web Applications Wireframes
+
+**NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:**
+
+**ARRENDATARIO (Persona que va a alquilar un auto):**
+
+
+**PERFIL DE USUARIO:** El usuario puede visualizar sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Alquilados . El usuario podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra alctualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
+
+![Imgur](https://i.imgur.com/WNjzZlu.png)
+![Imgur](https://i.imgur.com/ANZ7UwM.png)
+![Imgur](https://i.imgur.com/6tUq8uT.png)
+![Imgur](https://i.imgur.com/HIDEaTG.png)
+![Imgur](https://i.imgur.com/C4INMwh.png)
+
+La opcion mas importante en esta sección es el botón de **Subir documentos de Antecendente Penales**. Podra subir desde su ordenador los documentos necesarios para validar sus datos. Luego el boton cambiará a **Actualizar documentos de Antecendente Penales**.
+
+![Imgur](https://i.imgur.com/3hISSGk.png)
+![Imgur](https://i.imgur.com/W1ipYVi.png)
+![Imgur](https://i.imgur.com/c4toYOp.png)
+![Imgur](https://i.imgur.com/lMnbkE6.png)
+
+
+**LOGIN:** El usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
+![Imgur](https://i.imgur.com/i0xLx8l.png)
+![Imgur](https://i.imgur.com/T8wpnV1.png)
+![Imgur](https://i.imgur.com/yBtKk5S.png)
+![Imgur](https://i.imgur.com/hL9oFpO.png)
+![Imgur](https://i.imgur.com/RrVGy7o.png)
+![Imgur](https://i.imgur.com/DqYKE7B.png)
+![Imgur](https://i.imgur.com/A90hhE5.png)
+
+**REGISTRO:** Aqui el usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse como arrendatario**.
+
+![Imgur](https://i.imgur.com/F3vpT5t.png)
+
+**INICIO:** El usuario  encontrara toda las opciones de la plataforma . Dentro de esta ventana estará la opcion de **Buscar coche** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Buscar Auto** , **Mantenimiento** , **Alquilar**.
+
+![Imgur](https://i.imgur.com/o2dP53A.png)
+
+**BUSCAR AUTOS:** El usuario podra filtrar segun sus deseos que tipo de auto desea alquilar.Los datos a ingresar son ubicacion, precio , tiempo de alquiler,marca, modelo, clase y transmisión. El usuario debera presionar el botón **Buscar** para iniciar con la búsqueda, luego aparecerá el resultado de la búsqueda  como datos del vehiculo  , datos del propietario del vehículo y el estatus de la publicacion ya sea Disponible o No Disponible. Dentro de la busqueda estará el botón de **Ver contrato de alquiler**.
+
+![Imgur](https://i.imgur.com/71XseEj.png)
+
+EL usuario debe verificar el contrato de Alquiler  que el propietario del vehículo ha publicado.Luego de verificarlo , si desea proceder con el alquiler deberá generar una firma digital presionando el botón **Generar firma digital** y luego presionar el botón **Solicitar Alquiler** para que se envie una solicitud al propietario del vehículo .
+
+![Imgur](https://i.imgur.com/u5vcX0A.png)
+![Imgur](https://i.imgur.com/KjZ4Mni.png)
+![Imgur](https://i.imgur.com/nWvvaJV.png)
+
+
+**MANTENIMIENTO:** El el usuario podra enviar un mensaje directamente al correo electrónico del propietario del vehículo para informarle sobre cualquier problema o sugerencia. Para esto primero tendra que buscar al titular y presiona el botón de **Buscar** , tambien se puede agregar fotos presionando el botón **Agregar fotos** luego se debera ingresar los datos necesarios y presionar el botón **Enviar**.
+
+![Imgur](https://i.imgur.com/wOrTzjL.png)
+![Imgur](https://i.imgur.com/ESobBTN.png)
+![Imgur](https://i.imgur.com/3V78mYw.png)
+![Imgur](https://i.imgur.com/hrIv1Cx.png)
+![Imgur](https://i.imgur.com/ypDQZGe.png)
+
+**SOLICITUDES:** El usuario podra ver si la solicitud de alquiler esta en espero o si han sido aceptadas o rechazadas por el propietario del vehículo.Si la solicitud ha sido aceptada puedes presionar el botón de **Pagar**.
+
+![Imgur](https://i.imgur.com/cAjh9o8.png)
+![Imgur](https://i.imgur.com/oWzEFOe.png)
+
+**ALQUILER:** El usuario podra ver  toda la información de los procesos de alquiler que se hayan realizado. Dentro se podra ver cada vehículo que se haya solicitado y si fue aceptada podrá presionar el botón de **Pagar**.También se puede agregar otro vehículo presionando el botón **Agregar otro vehículo**.
+
+![Imgur](https://i.imgur.com/osBFcYY.png)
+![Imgur](https://i.imgur.com/QoTZUnL.png)
+![Imgur](https://i.imgur.com/KwGYHVW.png)
+
+Al presionar el botón **Pagar** se abrira otra ventana para realizar el pago , se encontrara 2 opciones de pago : EFECTIVO y ONLINE. Dentro de esta ventana estaran los datos de precio de alquiler , tiempo de alquiler , fecha de inicio de contrato del alquiler , fecha de fin del contrato de alquiler y lugar de recojo del vehículo.
+
+![Imgur](https://i.imgur.com/kDtoxPj.png)
+
+Al presionar el botón **Pago Efectivo** se abrira otra ventana en la cual se debera especificar la hora de recojo del vehículo y luego presionar el botón **Confirmar hora de alquiler**.Luego aparecera una ventana para realizar un pago de confirmacion , que es de 5 soles, por uso de la aplicacion. Luego de pagar saldra una ventana de  confirmacion de hora y fecha de alquiler
+
+![Imgur](https://i.imgur.com/1Bd1cbk.png)
+![Imgur](https://i.imgur.com/8UmL4DB.png)
+![Imgur](https://i.imgur.com/9y8E97R.png)
+![Imgur](https://i.imgur.com/jAjgzTy.png)
+![Imgur](https://i.imgur.com/Fb8MCo8.png)
+
+---------------------------------------------------------
+**PROPIETARIO (Persona que comparte su auto para alquiler):**
+
+**PERFIL DE USUARIO:** El usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario  podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra actualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
+
+![Imgur](https://i.imgur.com/RpimPPW.png)
+![Imgur](https://i.imgur.com/3HIHggx.png)
+![Imgur](https://i.imgur.com/N9XJQg7.png)
+![Imgur](https://i.imgur.com/S1ucSgc.png)
+![Imgur](https://i.imgur.com/giHqx7V.png)
+
+
+**LOGIN:** Aqui el usuario debera iniciar sesión presionando el boton **Iniciar Sesion** , si no esta registrado, debera presionar el botón **CREAR UNA CUENTA**.
+
+![Imgur](https://i.imgur.com/VzbB9rT.png)
+![Imgur](https://i.imgur.com/hr2975P.png)
+![Imgur](https://i.imgur.com/brBWUsF.png)
+![Imgur](https://i.imgur.com/hPuk7OB.png)
+![Imgur](https://i.imgur.com/NOFRsCc.png)
+![Imgur](https://i.imgur.com/i2R6Mts.png)
+![Imgur](https://i.imgur.com/XTVNrvb.png)
+![Imgur](https://i.imgur.com/YBpS8XA.png)
+
+**REGISTRO:** El usuario  que no se haya registrado debe ingresar sus datos para poder registrarse y presionar el botón  **Registrarse**.
+
+![Imgur](https://i.imgur.com/kXeCYtb.png)
+
+**INICIO:** El usuario  encontrara toda las opciones posibles de la plataforma , tambien podra visualizar notificaciones recientes. Dentro de esta ventana estará la opcion de **Compartir tu auto** que llevara a otra ventana destinada a la busqueda  de autos para alquilar. Las opciones disponibles son **Registro vehicular* , **Notificaciones** , **Alquiler**.
+
+![Imgur](https://i.imgur.com/0gu7BrI.png)
+
+**REGISTRO DE VEHÍCULO :** El usuario podra registrar el vehículo que desea compartir.Los datos a ingresar son marca, modelo , velocidad máxima , consumo ,largo,ancho,alto, peso,clase, transmsión, tiempo de alquiler , costo de alquiler al mes y lugar de recojo del vehículo. El usuario debera presionar el botón **Crear contrato de alquiler** para poder activar el botón de **Registrar**.
+
+![Imgur](https://i.imgur.com/hw4oXFc.png)
+![Imgur](https://i.imgur.com/YjVgGru.png)
+
+Al presionar el botón **Crear contrato de alquiler** aparecerá otra ventana en la cual el usuario podrá presionar el botón **Generar contrato predeterminado** y **Subir contrato manual en PDF**.
+Al presionar  **Generar contrato predeterminado** se generara automáticamente un contrato preestablecido con condiciones generales .Luego de generarlo se presionara el botón **Subir contrato**.
+
+![Imgur](https://i.imgur.com/WCJ8hXV.png)
+![Imgur](https://i.imgur.com/aoDLVU2.png)
+![Imgur](https://i.imgur.com/QtRWVsT.png)
+
+
+Al presionar **Subir contrato manual en PDF** aparecera una ventana para subir los documentos en PDF , luego de seleccionarlo se subira automáticamente un contrato.Luego de generado deberá presionar el botón **Subir contrato**.
+
+![Imgur](https://i.imgur.com/QbJfRFd.png)
+![Imgur](https://i.imgur.com/Mr898EU.png)
+![Imgur](https://i.imgur.com/YEgAQAl.png)
+
+
+Luego de seleccionar cualquiera de las 2 opciones aparecera una ventana , dentro de ella aparecerá un botón de **Regresar al registo** , que sirve como redireccionamiento para la ventana principal del REGISTO DEL VEHÍCULO.
+
+![Imgur](https://i.imgur.com/yiV0YW2.png)
+
+
+
+**NOTIFICACIONES:** El usuario podra ver las notificaciones de solicitudes que los arrendatarias hayan generado.En la notificación predeterminada aparecerá los datos de la solicitud.
+
+![Imgur](https://i.imgur.com/K3gc7GX.png)
+
+**ALQUILER:** En esta ventana estarán todos los autos que se hayan compartido para alquiler,también se podrá ver el estatus del alquiler. Dentro de esta ventana  estará disponible  el botón de **Afiliar cuenta Banco con MODO** , con esta opción el usuario podrá tener una cuenta afiliada y la forma de verificación de pago será más sencilla.
+
+![Imgur](https://i.imgur.com/Up3sBlt.png)
+![Imgur](https://i.imgur.com/f9MOnmt.png)
+
+Al presionar el cuadro del auto compartido aparecerá todas las solicituds que se hayan revisado para es auto. El usuario podrá revisar cada solicitud. Al presionar cualquier solicitud  aparecerá los datos de la persona que quiere alquilar el auto .Dentro de esta ventana el usuario que es el propietario del vehículo podrá ver los antecedente penales del arrendatario presionando el botón **Verificar Antecedente penales**, al ser verificado aparecerá al costado del botón si el documento fue Aceptado o Rechazado.
+
+![Imgur](https://i.imgur.com/00dfSrT.png)
+![Imgur](https://i.imgur.com/zBfTyil.png)
+![Imgur](https://i.imgur.com/Fw0AhL6.png)
+
+En esta ventana también estará disponible los boton de **Aceptar Alquiler** y **Rechazar Alquiler**, en donde el usuario podra seleccionar de acuerdo a la verificación hecha si desea o no alquilar el vehículo a esa persona.Si el alquiler es aceptado ,al presionas el botón **Aceptar Alquiler** aparecerá el mensaje de Estado de Pago pendiente, esto quiere decir que el arrendatario aun no ha realizado el pagado, pero si aparece como Estado de Pago Pagado quiere decir que el arrendatario ya ha realizado el pago el alquiler.
+
+![Imgur](https://i.imgur.com/IPuk5Sr.png)
+![Imgur](https://i.imgur.com/Ic5dFSX.png)
+![Imgur](https://i.imgur.com/WiOTv9c.png)
+
+
+### Web Applications Wireflow Diagrams
+
+Link de Wireflow Diagrams en Figma para una mejor observación:
+
+[[Clic al link](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)](https://www.figma.com/file/AqKugnY7B6z2MgAlJgcjAx/wireflow--AUTOYA?type=design&node-id=0%3A1&mode=design&t=vZTSPlnzO1X1Asfj-1)
+
+Link de Prototipo Interactivo en Figma:
+
+[[Clic al link](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)](https://www.figma.com/proto/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=8-95&t=1x64DPV09UWjTOkD-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=303%3A123&mode=design)
+
+### Web Applications Mock-ups
+
+**Mock-up de interfaz de usuario arrendatario**
+
+**LOGIN**
+![Imgur](https://i.imgur.com/m2DwuOZ.png)
+![Imgur](https://i.imgur.com/tgoQabh.png)
+![Imgur](https://i.imgur.com/nDxkNsX.png)
+![Imgur](https://i.imgur.com/s1BLwbQ.png)
+![Imgur](https://i.imgur.com/yuILUj0.png)
+![Imgur](https://i.imgur.com/5ZrpWYy.png)
+
+**REGISTRO**
+
+![Imgur](https://i.imgur.com/rAaDWM1.png)
+![Imgur](https://i.imgur.com/BwCEm19.png)
+
+**INICIO**
+
+![Imgur](https://i.imgur.com/YFj7O2V.png)
+
+**BUSCAR AUTOS**
+
+![Imgur](https://i.imgur.com/3bREzrV.png)
+![Imgur](https://i.imgur.com/d5n7CNy.png)
+![Imgur](https://i.imgur.com/ezmsGlW.png)
+![Imgur](https://i.imgur.com/jN56fSs.png)
+![Imgur](https://i.imgur.com/ujSjX38.png)
+![Imgur](https://i.imgur.com/ehg5kn2.png)
+
+**ALQUILER**
+
+![Imgur](https://i.imgur.com/gikOxbR.png)
+
+![Imgur](https://i.imgur.com/58r0u8Q.png)
+
+
+![Imgur](https://i.imgur.com/HIGs2Lt.png)
+![Imgur](https://i.imgur.com/xkJeUG8.png)
+![Imgur](https://i.imgur.com/LAAMoqg.png)
+![Imgur](https://i.imgur.com/NQPiMGE.png)
+![Imgur](https://i.imgur.com/ooCAGvb.png)
+
+
+**SOLICITUDES**
+
+![Imgur](https://i.imgur.com/sMe1YOr.png)
+![Imgur](https://i.imgur.com/Y8aIAOs.png)
+
+**MANTENIMIENTO**
+
+![Imgur](https://i.imgur.com/QILoqi9.png)
+![Imgur](https://i.imgur.com/qL5aATi.png)
+![Imgur](https://i.imgur.com/m2m6mEF.png)
+![Imgur](https://i.imgur.com/hbEmgIs.png)
+![Imgur](https://i.imgur.com/a4buW5M.png)
+![Imgur](https://i.imgur.com/Vb2X6Xu.png)
+
+**PERFIL DE USUARIO**
+
+![Imgur](https://i.imgur.com/iiWR9vJ.png)
+![Imgur](https://i.imgur.com/42czZtf.png)
+![Imgur](https://i.imgur.com/azFGBAQ.png)
+![Imgur](https://i.imgur.com/4Rea1tv.png)
+![Imgur](https://i.imgur.com/wC2HUtI.png)
+![Imgur](https://i.imgur.com/7AcisTI.png)
+![Imgur](https://i.imgur.com/4iM8WVF.png)
+![Imgur](https://i.imgur.com/WnTsIfJ.png)
+
+--------------------------------------------------------------------------------------------------------------------
+
+**Mock-up de interfaz de usuario propietario**
+
+**LOGIN**
+
+![Imgur](https://i.imgur.com/GyXQHC6.png)
+
+
+![Imgur](https://i.imgur.com/gaj0Axa.png)
+![Imgur](https://i.imgur.com/aYEYzWE.png)
+![Imgur](https://i.imgur.com/uR3lCmv.png)
+![Imgur](https://i.imgur.com/9bqK3KS.png)
+![Imgur](https://i.imgur.com/HbEAXUb.png)
+![Imgur](https://i.imgur.com/ity3Rs2.png)
+![Imgur](https://i.imgur.com/IwvE7b4.png)
+
+**REGISTRO**
+
+![Imgur](https://i.imgur.com/aq0K80K.png)
+
+**INICIO**
+
+![Imgur](https://i.imgur.com/Crqfvng.png)
+
+**REGISTRO**
+
+![Imgur](https://i.imgur.com/0ycgxCb.png)
+![Imgur](https://i.imgur.com/nXmBgVy.png)
+![Imgur](https://i.imgur.com/I0LghCD.png)
+![Imgur](https://i.imgur.com/Ma4QKKJ.png)
+![Imgur](https://i.imgur.com/pNVG6tR.png)
+![Imgur](https://i.imgur.com/DQkDhOy.png)
+![Imgur](https://i.imgur.com/JOaJBAF.png)
+![Imgur](https://i.imgur.com/18Utfrh.png)
+![Imgur](https://i.imgur.com/1PxFCuO.png)
+![Imgur](https://i.imgur.com/ymmkJZL.png)
+
+**ALQUILER**
+
+![Imgur](https://i.imgur.com/iXclOv6.png)
+![Imgur](https://i.imgur.com/UOKXJ9k.png)
+
+![Imgur](https://i.imgur.com/2hqVzyy.png)
+![Imgur](https://i.imgur.com/BIBtQOB.png)
+![Imgur](https://i.imgur.com/dTRQXl8.png)
+![Imgur](https://i.imgur.com/Tm9spYC.png)
+![Imgur](https://i.imgur.com/4MgE3V9.png)
+![Imgur](https://i.imgur.com/UIOPeM3.png)
+![Imgur](https://i.imgur.com/j94gQcA.png)
+
+**NOTIFICACIONES**
+
+![Imgur](https://i.imgur.com/IAcFewp.png)
+
+**PERFIL DE USUARIO**
+
+![Imgur](https://i.imgur.com/HrzemuE.png)
+![Imgur](https://i.imgur.com/ulkGhVy.png)
+![Imgur](https://i.imgur.com/M817b44.png)
+![Imgur](https://i.imgur.com/lp0xiRr.png)
+![Imgur](https://i.imgur.com/ls039Tx.png)
+
+
+### Web Applications User Flow Diagrams
+
+Link para mejor visualización
+[Clic al link](https://miro.com/welcomeonboard/YVVOeGJXcThodEhNaFppYjFGTGJpNXVOV3hHckM0R21IUnZoSmtSNWF6U1d4Rzg0UUVqN1UzSU1PSEJJMFlFWXwzNDU4NzY0NTM4Mzk4OTYxMTY0fDI=?share_link_id=319948662953)
+
+**USUARIO (Arrendatario)**
+
+*INICIO DE SESIÓN*
+
+![Imgur](https://i.imgur.com/84kKk7W.jpg)
+
+**User goal:** Como arrendatario quiero poder iniciar sesión rapidamente.
+
+**Happy paths:** El arrendatario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El arrendatario quiere iniciar sesión y no  completa todos los campos requeridos.
+
+*REGISTRO*
+
+![Imgur](https://i.imgur.com/HAtotkP.jpg)
+
+**User goal:** Como arrendatario quiero poder registrarme y luego acceder a la plataforma.
+
+**Happy paths:** El arrendatario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El arrendatario quiere registrarse y no  completa todos los campos requeridos.
+
+*INICIO PRINCIPAL*
+
+![Imgur](https://i.imgur.com/RSOV75M.jpg)
+
+**User goal:** : Como arrendatario, quiero acceder de forma sencilla a las opciones  disponibles.
+
+**Happy paths:** El arrendatario al iniciar la plataforma, observa en la parte superior las diversas opciones disponibles.
+
+**Unhappy paths:** El arrendatario presiona alguna herramienta externa de la plataforma.
+
+*BUSCAR AUTOS*
+
+![Imgur](https://i.imgur.com/ZQtvc05.jpg)
+
+**User goal:** : Como arrendatario, quiero poder buscar cualquier auto de mi interés.
+
+**Happy paths:** El arrendatario al iniciar puede filtrar su búsqueda para mejores opciones.
+
+**Unhappy paths:** El arrendatario revisa el contrato publicado por el propietario.
+
+*MANTENIMIENTO*
+
+![Imgur](https://i.imgur.com/ZoWjzo1.jpg)
+
+**User goal:** : Como arrendatario, quiero poder enviar mensajes al propietario del vehículo sobre cualquier problema o sugerencia.
+
+**Happy paths:** El arrendatario también puede subir fotos .
+
+**Unhappy paths:** El mensaje del arrendatario  llega al correo del propietario y a la sección de notificaciones del propietario.
+
+*ALQUILER*
+
+![Imgur](https://i.imgur.com/0tvcUqM.jpg)
+
+**User goal:**  Como arrendatario, quiero poder ver las solicitudes de alquiler y realizar el pago de alquiler.
+
+**Happy paths:** El arrendatario  puede pagar el alquiler luego de ser aceptado por efectivo o de manera online.
+
+**Unhappy paths:** El arrendatario debe registrar sus datos bancarios  para efectuar el pago correpondiente.
+
+*SOLICITUDES*
+
+![Imgur](https://i.imgur.com/ou0OrzE.jpg)
+
+**User goal:** : Como arrendatario, quiero ver el estado de las solicitudes que he enviado.
+
+**Happy paths:** El arrendatario  puede ver el estatus de su solicitud , realizar el pago presionando el botón de PAGAR.
+
+**Unhappy paths:** El arrendatario puede volver a la página anterior presionando la flecha superior  izquierda en dirección de la izquierda.
+
+*PERFIL DE arrendatario*
+
+![Imgur](https://i.imgur.com/VQZf6c8.jpg)
+
+**User goal:** : Como arrendatario, quiero ver mis datos , actualizarlos y subir mis documentos de antecedente penales.
+
+**Happy paths:** El arrendatario puede actualizar sus datos u cambiar su foto de perfil.
+
+**Unhappy paths:** El arrendatario debe subir sus documentos de antecedente penales.
+
+------------------------------------------
+
+**USUARIO (Propietario)**
+
+*INICIO DE SESIÓN*
+![Imgur](https://i.imgur.com/HpEP7wE.jpg)
+
+**User goal:** Como propietario quiero poder iniciar sesión rapida y seguramente.
+
+**Happy paths:** El propietario inicia sesión ingresando su correo y contraseña.
+
+**Unhappy paths:** El propietario quiere iniciar sesión sin completar los campos correspondientes.
+
+*REGISTRO*
+
+![Imgur](https://i.imgur.com/ZbsOD9F.jpg)
+
+**User goal:** Como propietario quiero poder registrarme .
+
+**Happy paths:** El propietario se registra ingresando su correo , nombre, apellido , número de teléfono , país y contraseña.
+
+**Unhappy paths:** El propietario quiere registrarse sin completar los campos correspondientes.
+
+*INICIO PRINCIPAL*
+
+![Imgur](https://i.imgur.com/hoJlZe7.jpg)
+
+**User goal:** : Como propietario, quiero acceder de forma sencilla a las opciones para utilizar todas las facilidades que ofrece la plataforma.
+
+**Happy paths:** El propietario al iniciar la plataforma, observa en la parte superior las  opciones disponibles.
+
+**Unhappy paths:** El propietario presiona alguna herramienta externa de la plataforma.
+
+*REGISTRAR VEHÍCULOS*
+
+![Imgur](https://i.imgur.com/9uo9Jjf.jpg)
+
+**User goal:** : Como propietario, quiero poder registrar mi vehículo.
+
+**Happy paths:** El propietario ingresa todos los datos necesarios para el registro.
+
+**Unhappy paths:** El propietario crea el contrato siguiendo los pasos necesarios.
+
+*NOTIFICACIONES*
+
+![Imgur](https://i.imgur.com/4oQHlqK.jpg)
+
+**User goal:** : Como propietario, quiero ver todas las notificaciones de manera sencilla.
+
+**Happy paths:** El propietario al presionar Ver solicitud es redireccionado a la ventana de Alquiler para ver todas las solicitudes disponibles.
+
+**Unhappy paths:** El propietario observa que las notificaciones son de contenido corto.
+
+*ALQUILER*
+
+![Imgur](https://i.imgur.com/aDLUxXU.jpg)
+
+**User goal:** : Como propietario quiero ver los autos que he puesto en alquiler , las personas que solicitaron el alquiler y además poder verificar sus antecedentes penales.
+
+**Happy paths:** El propietario puede verificar los antecedentes penales del arrendatario.
+
+**Unhappy paths:** El propietario acepta o rechaza la solicitud del arrendatario.
+
+*PERFIL DE propietario*
+
+![Imgur](https://i.imgur.com/j1AjgGV.jpg)
+
+**User goal:** : Como propietario, quiero ver mis datos y actualizarlos.
+
+**Happy paths:** El propietario puede actualizar sus datos y cambiar su foto de perfil.
+
+**Unhappy paths:** El propietario puede cerrar sesión presionando el botón CERRAR SESIÓN.
+
+## Web Applications Prototyping
+
+### Desktop Prototyping
+
+![Imgur](https://i.imgur.com/XZjfuLF.png)
+
+Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=0%3A1&mode=design&t=Df2V7wxJv7P3rjx9-1)
+
+
+## Domain-Driven Software Architecture
+
+### Software Architecture Context Diagram
+
+![Imgur](https://i.imgur.com/0PttzRE.png)
+
+### Software Architecture Container Diagrams
+
+![Imgur](https://i.imgur.com/CwMYSiU.png)
+
+### Software Architecture Components Diagrams
+
+![Imgur](https://i.imgur.com/rHUOdiX.png)
+
+## Software Object-Oriented Design
+
+### Class Diagrams
+
+### Class Dictionary
+
+![Imgur](https://i.imgur.com/PuRP30s.png)
+
+## Database Design
+
+### Database Diagram
+
+![Imgur](https://i.imgur.com/w5jN3CB.png)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## Software Configuration Management
@@ -1545,6 +2055,61 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 #### Sprint Planning 1
 
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-31-08</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">9:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 Goal</td>
+    <td align="center">Se debe completar el 65% del total del informe del proyecto</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
 #### Sprint Backlog 1
 
 #### Development Evidence for Sprint Review
@@ -1580,3 +2145,7 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 - El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
 
 # Anexos
+
+- Enlace del Landing Page: [https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/](https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/)
+- Video de exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI)
+- Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
