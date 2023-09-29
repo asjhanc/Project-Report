@@ -2212,6 +2212,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 #### Sprint Backlog 2
 
+<<<<<<< Updated upstream
 <table>
   <tr>
     <td align="center"><strong>Sprint</td>
@@ -2596,6 +2597,8 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Done</td>
   </tr>
 </table>
+=======
+>>>>>>> Stashed changes
 
 #### Development Evidence for Sprint 2 Review
 
