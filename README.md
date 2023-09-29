@@ -131,6 +131,15 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
       - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
       - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
       - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
+    - [Sprint 2](#sprint-2)
+      - [Sprint Planning 2](#sprint-planning-2)
+      - [Sprint Backlog 2](#sprint-backlog-2)
+      - [Development Evidence for Sprint 2 Review](#development-evidence-for-sprint-2-review)
+      - [Testing Suite Evidence for Sprint 2 Review](#testing-suite-evidence-for-sprint-2-review)
+      - [Execution Evidence for Sprint 2 Review](#execution-evidence-for-sprint-2-review)
+      - [Services Documentation Evidence for Sprint 2 Review](#services-documentation-evidence-for-sprint-2-review)
+      - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
+      - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
     - [Registro de Entrevistas](#registro-de-entrevistas-1)
@@ -2299,6 +2308,98 @@ URL (Link desplegado de Landing Page(AUTOYA!)):
 https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/#download
 
 #### Team Collaboration Insights during Sprint
+
+![Imgur](https://i.imgur.com/zYqrS4p.jpg)
+
+![Imgur](https://i.imgur.com/JT1URiv.jpg)
+
+### Sprint 2
+
+#### Sprint Planning 2
+
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>2</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-09-28</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+![impur](https://i.postimg.cc/13t9f3RT/Captura-de-pantalla-2023-09-26-145302.png)
+
+#### Sprint Backlog 2
+
+#### Development Evidence for Sprint 2 Review
+
+#### Testing Suite Evidence for Sprint 2 Review
+
+#### Execution Evidence for Sprint 2 Review
+
+### Services Documentation Evidence for Sprint 2 Review
+
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
+
+**Webstorm (IDE DE DESARROLLO)**: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+
+**Vue.js (Frameworks)**: Utilizamos vue.js como Frameworks de trabajo.
+
+**JavaScript**: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
+
+**GitHub** :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
+### Software Deployment Evidence for Sprint 2 Review
+
+Para esta primera entrega se logro implementar el Fron-end de la aplicación.
+Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
+
+#### Team Collaboration Insights during Sprint 2
 
 ![Imgur](https://i.imgur.com/7dMYhiB.jpg)
 
