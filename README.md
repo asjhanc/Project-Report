@@ -2055,6 +2055,97 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 #### Sprint Planning 1
 
+
+
+#### Sprint Backlog 2
+
+
+
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">feature/main</td>
+    <td align="center">c628f0171bdd8b1fbdf758a4f4cc083c832d07e8</td>
+    <td align="center">feat: Sprint Planning y video</td>
+    <td align="center">Actualización Sprint Planning y video TB1</td>
+    <td align="center">08/09/2023</td>
+  </tr>
+</table>
+
+#### Testing Suite Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">feature/main</td>
+    <td align="center">1d3efb3bc032dc32a9d3c4c1788c0ddfa5ae8a2c</td>
+    <td align="center">feat: Acceptance Tests</td>
+    <td align="center">Agregados los acceptance tests al informe.</td>
+    <td align="center">08/09/2023</td>
+  </tr>
+</table>
+
+#### Execution Evidence for Sprint Review
+
+En esta entrega nos enfocamos del desarrollo del Landing Page desplegado. La landing page se enfoca en lo que ofrecemos como negocio, el alquiler de autos no solo para personas que deseen alquilar un auto sino tambien para personas que deseen compartir su auto. A partir de esto se planteo el desarrollo del landing page , para informar a los usuario como funciona ese este servicio mediante una interfaz llamativa .
+
+![impur](https://i.postimg.cc/50nL6PbB/Captura-de-pantalla-2023-09-26-122912.png)
+![impur](https://i.postimg.cc/5yyvvw2Z/Captura-de-pantalla-2023-09-26-122944.png)
+![impur](https://i.postimg.cc/G2cv30w3/Captura-de-pantalla-2023-09-26-122959.png)
+![impur](https://i.postimg.cc/mr3QGLn6/Captura-de-pantalla-2023-09-26-123022.png)
+![impur](https://i.postimg.cc/cJGQjgFn/Captura-de-pantalla-2023-09-26-123034.png)
+![impur](https://i.postimg.cc/MpQ7dbmw/Captura-de-pantalla-2023-09-26-123047.png)
+
+#### Services Documentation Evidence for Sprint Review
+
+Nuestra aplicacion AUTOYA! es una plataforma  que permite el alquiler de vehículos entre propietarios y arrendatarios. Para el desarrollo de este proyecto hemos utilizado muchas herracmientas como por ejemplo.
+
+*HTML (HyperText Markup Language)* : Usamos  HTML para la estructura del contenido del landing page. 
+
+*CSS (Cascading Style Sheets)* :CSS se uso para dar estilo a la plataforma y mejorar la presentación visual y la experiencia del usuario.
+
+*JavaScript* :JavaScript se ha implementado para agregar dinamismo a la plataforma. 
+
+*GitHub*: Hemos creado un repositorio en GitHub para realizar un seguimiento de los cambios en el código. 
+
+*GitHub Pages*: GitHub Pages se ha utilizado para alojar y publicar nuestra página web de manera gratuita. 
+
+#### Software Deployment Evidence for Sprint Review
+
+Para esta primera entrega se logro implementar el landing Page donde se encuentra la información detallada de nuestra StartUp. Presentamos:
+
+URL (Link desplegado de Landing Page(AUTOYA!)):
+
+https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/#download
+
+#### Team Collaboration Insights during Sprint
+
+![Imgur](https://i.imgur.com/7dMYhiB.jpg)
+
+![Imgur](https://i.imgur.com/Juo6fmV.jpg)
+
+### Sprint 2
+
+#### Sprint Planning 2
+
 Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
 
 <table>
@@ -2110,7 +2201,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
 </table>
 
-#### Sprint Backlog 1
+#### Sprint Backlog 2
 
 <table>
   <tr>
@@ -2264,45 +2355,6 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">08/09/2023</td>
   </tr>
 </table>
-
-#### Execution Evidence for Sprint Review
-
-En esta entrega nos enfocamos del desarrollo del Landing Page desplegado. La landing page se enfoca en lo que ofrecemos como negocio, el alquiler de autos no solo para personas que deseen alquilar un auto sino tambien para personas que deseen compartir su auto. A partir de esto se planteo el desarrollo del landing page , para informar a los usuario como funciona ese este servicio mediante una interfaz llamativa .
-
-![impur](https://i.postimg.cc/50nL6PbB/Captura-de-pantalla-2023-09-26-122912.png)
-![impur](https://i.postimg.cc/5yyvvw2Z/Captura-de-pantalla-2023-09-26-122944.png)
-![impur](https://i.postimg.cc/G2cv30w3/Captura-de-pantalla-2023-09-26-122959.png)
-![impur](https://i.postimg.cc/mr3QGLn6/Captura-de-pantalla-2023-09-26-123022.png)
-![impur](https://i.postimg.cc/cJGQjgFn/Captura-de-pantalla-2023-09-26-123034.png)
-![impur](https://i.postimg.cc/MpQ7dbmw/Captura-de-pantalla-2023-09-26-123047.png)
-
-#### Services Documentation Evidence for Sprint Review
-
-Nuestra aplicacion AUTOYA! es una plataforma  que permite el alquiler de vehículos entre propietarios y arrendatarios. Para el desarrollo de este proyecto hemos utilizado muchas herracmientas como por ejemplo.
-
-*HTML (HyperText Markup Language)* : Usamos  HTML para la estructura del contenido del landing page. 
-
-*CSS (Cascading Style Sheets)* :CSS se uso para dar estilo a la plataforma y mejorar la presentación visual y la experiencia del usuario.
-
-*JavaScript* :JavaScript se ha implementado para agregar dinamismo a la plataforma. 
-
-*GitHub*: Hemos creado un repositorio en GitHub para realizar un seguimiento de los cambios en el código. 
-
-*GitHub Pages*: GitHub Pages se ha utilizado para alojar y publicar nuestra página web de manera gratuita. 
-
-#### Software Deployment Evidence for Sprint Review
-
-Para esta primera entrega se logro implementar el landing Page donde se encuentra la información detallada de nuestra StartUp. Presentamos:
-
-URL (Link desplegado de Landing Page(AUTOYA!)):
-
-https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/#download
-
-#### Team Collaboration Insights during Sprint
-
-![Imgur](https://i.imgur.com/7dMYhiB.jpg)
-
-![Imgur](https://i.imgur.com/Juo6fmV.jpg)
 
 ## Validation Interviews
 
