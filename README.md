@@ -2381,8 +2381,8 @@ tanto para compartir un vehiculo o como para alquilar uno.
 - Video de exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI)
 - Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-- Link de nuestro frontend desplegado: https://autoya-frontend.web.app/
-- Link de nuestro frontend desplegado (respaldo): https://autoya-frontend.firebaseapp.com/
+- Link de nuestro frontend desplegado: https://autoya-frontend-grupo2.netlify.app/login
+<br>(En caso de que la página se caiga, por favor dar click en la opción "Back to our site"
 
 - Link del repositorio de de nuestro Frontend: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
 ](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
