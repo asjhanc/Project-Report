@@ -2487,14 +2487,14 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 ### Software Deployment Evidence for Sprint 2 Review
 
-Para esta primera entrega se logro implementar el Fron-end de la aplicación.
+Para esta primera entrega se logro implementar el Fron-end de la aplicación.<br>
 Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
 
 #### Team Collaboration Insights during Sprint 2
 
-![Imgur](https://i.imgur.com/7dMYhiB.jpg)
+![Imgur](https://i.imgur.com/qet5BsL.jpg)
 
-![Imgur](https://i.imgur.com/Juo6fmV.jpg)
+![Imgur](https://i.imgur.com/NxBNnVu.jpg)
 
 ## Validation Interviews
 
