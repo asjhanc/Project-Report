@@ -123,23 +123,14 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
     - [Source Code Style Guide \& Conventions](#source-code-style-guide--conventions)
     - [Software Deployment Configuration](#software-deployment-configuration)
   - [Landing Page, Services \& Applications Implementation](#landing-page-services--applications-implementation)
-    - [Sprint 1](#sprint-1)
-      - [Sprint Planning 1](#sprint-planning-1)
-      - [Sprint Backlog 1](#sprint-backlog-1)
-      - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
-      - [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)
-      - [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)
-      - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
-      - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
-      - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
     - [Sprint 2](#sprint-2)
       - [Sprint Planning 2](#sprint-planning-2)
       - [Sprint Backlog 2](#sprint-backlog-2)
-      - [Development Evidence for Sprint 2 Review](#development-evidence-for-sprint-2-review)
-      - [Testing Suite Evidence for Sprint 2 Review](#testing-suite-evidence-for-sprint-2-review)
+      - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
+      - [Testing Suite Evidence for Sprint 2 Review.](#testing-suite-evidence-for-sprint-2-review)
       - [Execution Evidence for Sprint 2 Review](#execution-evidence-for-sprint-2-review)
       - [Services Documentation Evidence for Sprint 2 Review](#services-documentation-evidence-for-sprint-2-review)
-      - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
+    - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
       - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
@@ -147,7 +138,6 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
     - [Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
   - [Video About-the-Product](#video-about-the-product)
 - [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -156,8 +146,8 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |--------------|--------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br> Fui capaz de participar de manera efectiva, eficiente y objetiva junto a mi equipo en el desarrollo de nuestro Frontend aplicando conocimientos de ingeniería de software.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.      |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br>Soy capaz de aplicar mis conocimientos y habilidades en ingeniería de software en el contexto de equipos multidisciplinarios, asegurando la eficacia y eficiencia en la ejecución de proyectos.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.      |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>**TP1**<br>Me reuní con mi equipo en distintas ocasiones para realizar el desarrollo del frontend de nuestro proyecto.<br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br> Fui capaz de participar de manera efectiva, eficiente y objetiva junto a mi equipo en el desarrollo de nuestro Frontend aplicando conocimientos de ingeniería de software.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.<br>**TP1**<br>Nos reunimos como equipo en distintas ocasiones para ir completando las metas propuestas para este sprint, lo cual ayudó a mejorar nuestra relación de compañerismo.<br>      |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>**TP1**<br>Aprendí a usar Vue para desarrollar las páginas web que formarán parte de la solución de mi equipo.<br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br>Soy capaz de aplicar mis conocimientos y habilidades en ingeniería de software en el contexto de equipos multidisciplinarios, asegurando la eficacia y eficiencia en la ejecución de proyectos.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe      | <br>**TB1**<br>Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.<br>**TP1**<br>Aprendimos a usar distintos componentes de Vue para desarrollar la parte del frontend de nuestra solución web.<br>      |
 
 # Capítulo I: Introducción
 
