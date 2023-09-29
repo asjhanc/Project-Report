@@ -2073,13 +2073,61 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
     <td align="center">feature/main</td>
-    <td align="center">c628f0171bdd8b1fbdf758a4f4cc083c832d07e8</td>
-    <td align="center">feat: Sprint Planning y video</td>
-    <td align="center">Actualización Sprint Planning y video TB1</td>
-    <td align="center">08/09/2023</td>
+    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">Creación página registro de auto</td>
+    <td align="center">Creado el componente car-registration-owner</td>
+    <td align="center">27/09/2023</td>
   </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
+    <td align="center">Creación página de perfil para arrendador y arrendatario</td>
+    <td align="center">Creado el componente profile-owner & profile-tenants</td>
+    <td align="center">27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">feature/main</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Inclusión de toolbars</td>
+    <td align="center">Agregados los toolbars para arrendatarios y propietarios.
+</td>
+    <td align="center">27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">feature/Nicolás-Zagal</td>
+    <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
+    <td align="center">Merge pull request</td>
+    <td align="center">Merge pull request
+</td>
+    <td align="center">27/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">Alonso-Robles</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Merge remote-tracking branch</td>
+    <td align="center"># src/AutoYa/pages/profile-owner.vue #	src/AutoYa/pages/profile-tenant.vue</td>
+  <td align="center">27/09/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">Johan-Moreno</td>
+    <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
+    <td align="center">Add Login component & Udate Login</td>
+    <td align="center">Add Login component & Udate Login</td>
+  <td align="center">28/09/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
+    <td align="center">Erick-Urbizagástegui</td>
+    <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
+    <td align="center">Merge pull request #15</td>
+    <td align="center">Merge pull request #15</td>
+  <td align="center">28/09/2023</td>
+  
 </table>
 
 #### Testing Suite Evidence for Sprint Review
