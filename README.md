@@ -2325,8 +2325,10 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 #### Testing Suite Evidence for Sprint 2 Review.
 
+En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
 
 #### Execution Evidence for Sprint 2 Review
+
 
 ### Services Documentation Evidence for Sprint 2 Review
 
