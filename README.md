@@ -2401,6 +2401,199 @@ Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
 
 ![Imgur](https://i.imgur.com/NxBNnVu.jpg)
 
+### Sprint 3
+
+#### Sprint Planning 3
+
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-10-30</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 Goal</td>
+    <td align="center">Se debe realizar correcciones al Front-End e implmentar la primera versión del Backend</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+
+#### Sprint Backlog 3
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Perfil (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de perfil del arrendatario y el propietario</td>
+    <td align="center">6</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Solicitudes (Arrendatario)</td>
+    <td align="center">Crear la página de solicitudes del arrendatario</td>
+    <td align="center">4</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Busqueda de autos (arrendatario)</td>
+    <td align="center">Crear la página de busqueda de autos del arrendatario</td>
+    <td align="center">4</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Mantenimiento(arrendatario)</td>
+    <td align="center">Crear la página de mantenimientos del arrendatario</td>
+    <td align="center">4</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Registro Vehicular (Propietario)</td>
+    <td align="center">Crear la página de registro vehicular del propietario</td>
+    <td align="center">4</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Alquiler (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de alquiler del arrendatario y el propietario</td>
+    <td align="center">7</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Login (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de login del arrendatario y el propietario</td>
+    <td align="center">4</td>
+    <td align="center">Moreno Vergara, Johan Raúl</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Registro (Arrendatario y Propietario)</td>
+    <td align="center">Crear las páginas de registro del arrendatario y el propietario</td>
+    <td align="center">4</td>
+    <td align="center">Moreno Vergara, Johan Raúls</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Inicio Principal (Arrendatarios y Propietarios)</td>
+    <td align="center">Crear las páginas de inicio del arrendatario y el propietario</td>
+    <td align="center">6</td>
+    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Notificaciones (Propietario)</td>
+    <td align="center">Crear las páginas de notificaciones del propietario</td>
+    <td align="center">4</td>
+    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Actualización del Informe</td>
+    <td align="center"></td>
+    <td align="center">5</td>
+    <td align="center">Todo el grupo</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas
