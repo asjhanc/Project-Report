@@ -132,7 +132,7 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
       - [Testing Suite Evidence for Sprint 2 Review.](#testing-suite-evidence-for-sprint-2-review)
       - [Execution Evidence for Sprint 2 Review](#execution-evidence-for-sprint-2-review)
       - [Services Documentation Evidence for Sprint 2 Review](#services-documentation-evidence-for-sprint-2-review)
-    - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
+      - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
       - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
     - [Sprint 3](#sprint-3)
       - [Sprint Planning 3](#sprint-planning-3)
@@ -2406,7 +2406,7 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 *GitHub* :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
 
-### Software Deployment Evidence for Sprint 2 Review
+#### Software Deployment Evidence for Sprint 2 Review
 
 Para esta primera entrega se logro implementar el Fron-end de la aplicación.<br>
 Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
@@ -3223,30 +3223,10 @@ TP
 
 TB2
 
-- Link del video About the product: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo)
+- Video About the product: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo)
 
-- Link del video About the team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EdBOFBon7f1NquR7wN58r3MBLTIxG3VQHE6KXpS9ldtT9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=CsuWvy](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EdBOFBon7f1NquR7wN58r3MBLTIxG3VQHE6KXpS9ldtT9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=CsuWvy)
+- Video About the team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EdBOFBon7f1NquR7wN58r3MBLTIxG3VQHE6KXpS9ldtT9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=CsuWvy](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EdBOFBon7f1NquR7wN58r3MBLTIxG3VQHE6KXpS9ldtT9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=CsuWvy)
 
-- Link del video de exposición de las TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD)
+- Video de entrevistas de validación: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ER1DJ6eAwAlJph3LWdBy4VgBz0aued4tPuN92fILoKqpSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=5Zh2yZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ER1DJ6eAwAlJph3LWdBy4VgBz0aued4tPuN92fILoKqpSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=5Zh2yZ)
 
-
-
-
-
-
-
-- Entrevista 1: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXHleZeTbhFAq3FIA0RNmgoBU5MESV8EUzwub8Z9qa6a1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=ie1NkR)
-
-- Entrevista 2: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EUmOcBasFS9BpZgkUlaAN-kBRsXg_G9zzql4hIUGm8W9fA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4YTwHv)
-
-- Entrevista 3: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZ8loXeIQ1ZDpGfshm9dRfYBzSg0m4tldt6_dwnP4FgHxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4TfgWw)
-
-- Entrevista 4: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EWng-cQrkZFInPQGj_iWcdUB926INNwOn9VkBNAH9GwxTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=qWIn0h)
-
-- Entrevista 5: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EVajkaVLnKJMrVC3M7ssYekBB2Ln9NTKGI3QHHGL4bUjRw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=92ARO4)
-
-- Entrevista 6: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXv5agKZik5NgTHh71Evt9sBB-XtNqO722LU-6XKFhh-HQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=1rKfUW)
-
-- Entrevista 7: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EQyTjuto0e1EhkEMptH0hK4BU3Qbm89DPFb3IEoWdQZi3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=28xLzU)
-
-
+- Video de exposición de la TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD)
