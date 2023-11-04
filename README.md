@@ -22,6 +22,7 @@
   <li>Johan Raúl Moreno Vergara (u20201c105)</li>
   <li>Luis Fernando Isla Quispe (u202124146)</li>
   <li>Nicolás Zagal Vallejo (u20201c429)</li>
+  <li>Jhan Clinton Antonio Salazar (u20201b312)</li>
 </ul>
 
 **<h3>Agosto, 2023</h3>**
@@ -2607,7 +2608,7 @@ Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
   </tr>
   <tr>
     <td align="center">Auditor</td>
-    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Clinton </td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
   </tr>
   <tr>
     <td align="center">Site o APP a evaluar</td>
