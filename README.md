@@ -2463,7 +2463,6 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 </table><br>
 
 
-
 [![Sprint-3-Aplicaciones-Web.png](https://i.postimg.cc/Jn5nn5VF/Sprint-3-Aplicaciones-Web.png)](https://postimg.cc/Q9VsY5Mg)
 
 Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
@@ -2565,22 +2564,345 @@ Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
 
 #### Development Evidence for Sprint Review
 
-#### Testing Suite Evidence for Sprint 3 Review.
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
+    <td align="center">Creación de repositories</td>
+    <td align="center">Creación de repositories</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Creación de services</td>
+    <td align="center">Creación de services
+</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/Nicolás-Zagal</td>
+    <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
+    <td align="center">Creación de controllers</td>
+    <td align="center">Creación de controllers
+</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Alonso-Robles</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Creación de resources</td>
+    <td align="center">Creación de resources</td>
+  <td align="center">02/11/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Johan-Moreno</td>
+    <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
+    <td align="center">Creación de responses</td>
+    <td align="center">Creación de responses</td>
+  <td align="center">03/11/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Erick-Urbizagástegui</td>
+    <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
+    <td align="center">Configuración de la base de datos</td>
+    <td align="center">Configuración de la base de datos</td>
+  <td align="center">04/11/2023</td>
+  
+</table>
 
-#### Execution Evidence for Sprint 3 Review
+#### Execution Evidence for Sprint 3 Review 
 
-#### Services Documentation Evidence for Sprint 3 Review
+Login
+
+![Imgur](https://i.imgur.com/gGgBhiE.png)
+
+Registro
+
+![Imgur](https://i.imgur.com/HSQiD4u.png)
+
+Página de inicio arrendatario
+
+![Imgur](https://i.imgur.com/8HKtNja.png)
+
+Página de inicio propietario
+
+![Imgur](https://i.imgur.com/DTpg8I1.png)
+
+Notificaciones propietario
+
+![Imgur](https://i.imgur.com/kIIsofo.png)
+
+Perfil arrendatario
+
+![Imgur](https://i.imgur.com/zPPH5J0.png)
+
+Perfil propietario
+
+![Imgur](https://i.imgur.com/cOX5t5u.png)
+
+Solicitudes arrendatario
+
+![Imgur](https://i.imgur.com/efGqnl7.png)
+
+Búsqueda de autos arrendatario
+
+![Imgur](https://i.imgur.com/alAM1W8.png)
+
+Mantenimiento arrendatario
+
+![Imgur](https://i.imgur.com/qqLvmhh.png)
+
+Registro vehicular propietario
+
+![Imgur](https://i.imgur.com/GV8HRnk.png)
+
+Creación de contrato de alquiler propietario
+
+![Imgur](https://i.imgur.com/797NC9l.png)
+
+Alquiler arrendatario
+
+![Imgur](https://i.imgur.com/NGwl67E.png)
+
+Alquiler propietario
+
+![Imgur](https://i.imgur.com/TmsPSUZ.png)
+
+
+#### Services Documentation Evidence for Sprint 3 Review 
+
+Capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
+
+[![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
 
 ### Software Deployment Evidence for Sprint 3 Review
 
+[![1.jpg](https://i.postimg.cc/hGpF3BvZ/1.jpg)](https://postimg.cc/qthZzW82)
+
+[![2.jpg](https://i.postimg.cc/d11bbxTs/2.jpg)](https://postimg.cc/3ysfp9BV)
+
+[![3.jpg](https://i.postimg.cc/4yHrdH5j/3.jpg)](https://postimg.cc/H8HSvxFt)
+
+[![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
+
 #### Team Collaboration Insights during Sprint 3
+
+![Imgur](https://i.imgur.com/qet5BsL.jpg)
+
+![Imgur](https://i.imgur.com/NxBNnVu.jpg)
 
 
 ## Validation Interviews
 
 ### Diseño de Entrevistas
 
+#### Datos personales del usuario:
+
+<ul>
+    <li>Nombres</li>
+    <li>Apellidos</li>
+    <li>Edad</li>
+    <li>Ocupación</li>
+    <li>Distrito</li>
+</ul>
+
+#### Preguntas realizadas luego de culminar con la tarea asignada:
+
+<ul>
+    <li>¿Tienes alguna recomendación o mejora para esta tarea en concreto</li>
+    <li>¿Se te dificultó en alguna parte al realizar esta tarea?</li>
+</ul>
+
 ### Registro de Entrevistas
+
+<hr><li>Entrevista 1:</li><br>
+
+[![Entrevista-Erick.png](https://i.postimg.cc/xqDzS9w2/Entrevista-Erick.png)](https://postimg.cc/rRjm12yn)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXHleZeTbhFAq3FIA0RNmgoBU5MESV8EUzwub8Z9qa6a1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=ie1NkR)
+
+<ul><li>Rango de tiempo: 7 minutos</li>
+<li>Nombre: Daniella Herrada</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante en la UDEP</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li></ul>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario ha señalado dos áreas de mejora en la página web. Primero, menciona que hay tres campos que se repiten al llenar los datos en el registro, lo cual considera una redundancia que debería corregirse. Segundo, expresa que no hay una distinción clara entre el modo en que se ha ingresado, ya sea como arrendador o arrendatario, lo que podría generar confusión. Sugiere que este aspecto se aclare para una experiencia de usuario más clara y eficiente.</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 2:</li><br>
+
+[![Entrevista-johan.png](https://i.postimg.cc/VkYjsBG0/johan.png)](https://postimg.cc/0bB6cmq9)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EUmOcBasFS9BpZgkUlaAN-kBRsXg_G9zzql4hIUGm8W9fA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4YTwHv)
+
+<li>Rango de tiempo: 5 minutos</li>
+<li>Nombre: Willy Valentin</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante en la UPC</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario elogió la conveniente ubicación de la opción "Ver perfil" por su facilidad de acceso. Sin embargo, sugirió agrupar los botones en una sola sección en la vista de Perfil de Usuario para una mayor organización. Además, recomendó la inclusión del botón de "cerrar sesión" en el logo del perfil para agilizar el proceso. Por último, destacó el atractivo diseño de la página como un aspecto positivo.</td>
+  </tr>
+</table>
+
+
+<hr><li>Entrevista 3:</li><br>
+
+[![Entrevista-Alonso.png](https://i.postimg.cc/GpM0gQNF/alonso.png)](https://postimg.cc/d7TSL8J3)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZ8loXeIQ1ZDpGfshm9dRfYBzSg0m4tldt6_dwnP4FgHxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4TfgWw)
+
+<li>Rango de tiempo: 3 minutos</li>
+<li>Nombre: Alessandro Ramirez</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario ha proporcionado dos comentarios sobre la funcionalidad de la página web. Primero, sugiere agregar la fecha de inicio de la solicitud de alquiler de auto y la fecha de espera como información relevante. Segundo, elogia el funcionamiento correcto de la página, lo que indica una experiencia positiva en términos de usabilidad y rendimiento.</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 4:</li><br>
+
+[![Entrevista-Zagal.png](https://i.postimg.cc/VNz1V5N8/Zagal.png)](https://postimg.cc/187Lgm6C)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EWng-cQrkZFInPQGj_iWcdUB926INNwOn9VkBNAH9GwxTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=qWIn0h)
+
+<li>Rango de tiempo: 3 minutos</li>
+<li>Nombre: Martin Ramirez</li>
+<li>Edad: 18 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario sugiere mejorar el funcionamiento de los botones, ya que algunos de ellos no están operativos. Este comentario resalta la necesidad de una revisión y corrección de la funcionalidad de los botones en la página web.
+</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 5:</li><br>
+
+[![Entrevista 1 - Luis.png](https://i.postimg.cc/SNrJN0zk/luis.png)](https://postimg.cc/SJnyDvrv)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EVajkaVLnKJMrVC3M7ssYekBB2Ln9NTKGI3QHHGL4bUjRw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=92ARO4)
+
+<li>Rango de tiempo: 2 minutos</li>
+<li>Nombre: Diego Galindo</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario elogia la simplicidad y la facilidad para visualizar la opción de los autos alquilados en la página web. Este comentario resalta un aspecto positivo de la interfaz, indicando que la información sobre los autos alquilados está claramente presentada y fácil de acceder.
+</td>
+  </tr>
+</table>
+
+
+<hr><li>Entrevista 6:</li><br>
+
+[![Entrevista - Luis - s2.png](https://i.postimg.cc/yxxrgCYt/luis2.png)](https://postimg.cc/9w3BKS9Y)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXv5agKZik5NgTHh71Evt9sBB-XtNqO722LU-6XKFhh-HQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=1rKfUW)
+
+<li>Rango de tiempo: 2 minutos</li>
+<li>Nombre: Alessandro Muro</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario elogia la simplicidad y la facilidad para visualizar la opción de los autos alquilados en la página web. Este comentario resalta un aspecto positivo de la interfaz, indicando que la información sobre los autos alquilados está claramente presentada y fácil de acceder.
+</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 7:</li><br>
+
+[![Entrevista - Jhan.png](https://i.postimg.cc/0yPXDSQ7/Jhan.png)](https://postimg.cc/BX7CGX2v)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EQyTjuto0e1EhkEMptH0hK4BU3Qbm89DPFb3IEoWdQZi3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=28xLzU)
+
+<li>Rango de tiempo: 5 minutos</li>
+<li>Nombre: Leonel Alfaro Muro</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario encuentra la página bastante intuitiva, pero sugiere que al momento de poner un mensaje de mantenimiento, deberían proporcionarse algunas pistas para guiar al usuario y facilitar la tarea. Este comentario destaca la importancia de brindar orientación adicional para asegurarse de que los usuarios puedan realizar la tarea de manera eficiente, incluso durante el mantenimiento.
+</td>
+  </tr>
+</table><hr>
+
 
 ### Evaluaciones según heurísticas
 
@@ -2640,7 +2962,7 @@ Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
         <li>Alquilar un auto (arrendatario)</li>
       </ul> 
 </td>
-</table><br>
+</table>
 
 
 <table>
@@ -2674,7 +2996,9 @@ importante que sean corregidos y se les debe asignar una prioridad alta</td>
     <td align="center">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
 la herramienta. Es imperativo que sea corregido antes del lanzamiento.
  </td>  
-</table><br>
+</table>
+
+### Tabla Resumen:<br>
 
 <table>
   <tr>
@@ -2685,42 +3009,138 @@ severidad</th>
     <th>Heurística/Principio violada(o)</th>
   </tr>
   <tr>
-    <td>Fila 1</td>
-    <td>Fila 1</td>
-    <td>Fila 1</td>
-    <td>Fila 1</td>
+    <td>1</td>
+    <td>Botones en la vista de Perfil deberían estar en una sección</td>
+    <td>2</td>
+    <td>Usabilidad: Consistencia</td>
   </tr>
   <tr>
-    <td>Fila 2</td>
-    <td>Fila 2</td>
-    <td>Fila 2</td>
-    <td>Fila 2</td>
+    <td>2</td>
+    <td>Falta de botón "Cerrar Sesión" en el logo del perfil</td>
+    <td>3</td>
+    <td>Usabilidad: Libertad y control del usuario</td>
   </tr>
   <tr>
-    <td>Fila 3</td>
-    <td>Fila 3</td>
-    <td>Fila 3</td>
-    <td>Fila 3</td>
+    <td>3</td>
+    <td>Repetición de campos en el registro de datos</td>
+    <td>2</td>
+    <td>Repetición de campos en el registro de datos</td>
   </tr>
   <tr>
-    <td>Fila 4</td>
-    <td>Fila 4</td>
-    <td>Fila 4</td>
-    <td>Fila 4</td>
+    <td>4</td>
+    <td>No diferenciación clara entre modos de ingreso</td>
+    <td>2</td>
+    <td>No diferenciación clara entre modos de ingreso</td>
   </tr>
   <tr>
-    <td>Fila 5</td>
-    <td>Fila 5</td>
-    <td>Fila 5</td>
-    <td>Fila 5</td>
+    <td>5</td>
+    <td>Falta de indicaciones al poner mensaje de mantenimiento</td>
+    <td>2</td>
+    <td>Usabilidad: Feedback</td>
   </tr>
   <tr>
-    <td>Fila 6</td>
-    <td>Fila 6</td>
-    <td>Fila 6</td>
-    <td>Fila 6</td>
+    <td>6</td>
+    <td>Problemas con algunos botones en la sección "Registrar Vehículo"</td>
+    <td>2</td>
+    <td>Usabilidad: Consistencia</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Falta de información de fechas en la sección "Ver Solicitudes de Autos"</td>
+    <td>2</td>
+    <td>Usabilidad: Feedback
+  </td>
   </tr>
 </table>
+
+### Descripción de problemas:<br>
+
+<ol>
+  <li>
+    <strong>PROBLEMA #1: Botones en la vista de Perfil deberían estar en una sección</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> Los botones en la vista de Perfil de Usuario están distribuidos en dos columnas separadas, lo que puede generar confusión para los usuarios, ya que no están agrupados de manera coherente.
+    <br>
+    <strong>Recomendación:</strong> Agrupar los botones en una sola sección para mejorar la consistencia y facilitar la navegación del usuario.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #2: Falta de botón "Cerrar Sesión" en el logo del perfil</strong>
+    <br>
+    <em>Severidad: 3</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Libertad y control del usuario</em>
+    <br>
+    <strong>Problema:</strong> No hay un botón de "Cerrar Sesión" disponible en el logo del perfil de usuario, lo que obliga a los usuarios a ingresar a la vista de perfil para cerrar sesión, lo que podría ser más conveniente si estuviera accesible de forma rápida.
+    <br>
+    <strong>Recomendación:</strong> Agregar un botón de "Cerrar Sesión" en el logo del perfil para permitir a los usuarios cerrar sesión de manera más eficiente.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #3: Repetición de campos en el registro de datos</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> Existen campos que se repiten en el registro de datos, lo cual puede generar confusión y duplicación de información innecesaria.
+    <br>
+    <strong>Recomendación:</strong> Eliminar la repetición de campos en el registro para mejorar la consistencia y simplificar el proceso.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #4: No diferenciación clara entre modos de ingreso</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> No se diferencia claramente si se ha ingresado como arrendador o arrendatario, lo que podría generar confusión.
+    <br>
+    <strong>Recomendación:</strong> Agregar una indicación visual clara para diferenciar entre modos de ingreso y mejorar la consistencia.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #5: Falta de indicaciones al poner mensaje de mantenimiento</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Feedback</em>
+    <br>
+    <strong>Problema:</strong> Al poner un mensaje de mantenimiento, no se proporcionan indicaciones o pistas para guiar al usuario, lo que podría dificultar la tarea.
+    <br>
+    <strong>Recomendación:</strong> Agregar indicaciones o pistas al momento de poner un mensaje de mantenimiento para facilitar la tarea del usuario.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #6: Problemas con algunos botones en la sección "Registrar Vehículo"</strong>
+    <br>
+    <em>Severidad: 3</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> Algunos botones en la sección "Registrar Vehículo" presentan problemas y no funcionan correctamente, lo que puede generar frustración en los usuarios.
+    <br>
+    <strong>Recomendación:</strong> Corregir los problemas con los botones en la sección "Registrar Vehículo" para mejorar la consistencia y la funcionalidad.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #7: Falta de información de fechas en la sección "Ver Solicitudes de Autos"</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Feedback</em>
+    <br>
+    <strong>Problema:</strong> En la sección "Ver Solicitudes de Autos" no se proporciona información sobre la fecha en que comenzó la solicitud de alquiler de autos ni la fecha de espera, lo que podría ser importante para los usuarios.
+    <br>
+    <strong>Recomendación:</strong> Agregar información de fechas en la sección "Ver Solicitudes de Autos" para proporcionar un mejor feedback a los usuarios.
+  </li>
+</ol>
+
 
 
 
@@ -2738,6 +3158,14 @@ severidad</th>
 tanto para compartir un vehiculo o como para alquilar uno.
 
 - AutoYa! debe enfocarse en diferenciarse de la competencia , ofreciendo servicios únicos que la distingan de otras plataformas de alquiler de vehículos.
+
+- a consistencia en la disposición de elementos, como los botones en la vista de perfil, es crucial para mejorar la usabilidad y evitar confusiones entre los usuarios. Se recomienda agrupar los botones de manera coherente.
+
+- La accesibilidad y la libertad del usuario son fundamentales. Agregar un botón de "Cerrar Sesión" en el logo del perfil facilitaría la experiencia del usuario al permitirle cerrar sesión de manera más rápida.
+
+- Proporcionar indicaciones y pistas claras al realizar tareas, como poner un mensaje de mantenimiento, mejora la usabilidad al guiar a los usuarios de manera efectiva.
+
+- Corregir problemas con botones que no funcionan adecuadamente, como en la sección "Registrar Vehículo", es esencial para garantizar una experiencia sin frustraciones.
 
 ## Video About-the-Team
 
@@ -2759,4 +3187,19 @@ tanto para compartir un vehiculo o como para alquilar uno.
 ](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd
 )
 
+- Link del repositorio de nuestro Backend: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend)
 
+
+- Entrevista 1: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXHleZeTbhFAq3FIA0RNmgoBU5MESV8EUzwub8Z9qa6a1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=ie1NkR)
+
+- Entrevista 2: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EUmOcBasFS9BpZgkUlaAN-kBRsXg_G9zzql4hIUGm8W9fA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4YTwHv)
+
+- Entrevista 3: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZ8loXeIQ1ZDpGfshm9dRfYBzSg0m4tldt6_dwnP4FgHxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4TfgWw)
+
+- Entrevista 4: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EWng-cQrkZFInPQGj_iWcdUB926INNwOn9VkBNAH9GwxTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=qWIn0h)
+
+- Entrevista 5: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EVajkaVLnKJMrVC3M7ssYekBB2Ln9NTKGI3QHHGL4bUjRw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=92ARO4)
+
+- Entrevista 6: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXv5agKZik5NgTHh71Evt9sBB-XtNqO722LU-6XKFhh-HQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=1rKfUW)
+
+- Entrevista 7: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EQyTjuto0e1EhkEMptH0hK4BU3Qbm89DPFb3IEoWdQZi3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=28xLzU)
