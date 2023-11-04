@@ -2583,6 +2583,73 @@ Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
 
 ### Evaluaciones según heurísticas
 
+<table>
+  <td colspan="2" align="center"><strong>UX Heuristics & Principles Evaluation<br>Usability – Inclusive Design – Information Architecture 
+</strong></td>
+
+  <tr>
+    <td align="center"><strong>Carrera</strong></td>
+    <td align="center"><strong>Ingeniería de Software</strong></td>
+  </tr>
+  
+  <tr>
+    <td align="center">Curso</td>
+    <td align="center">Aplicaciones Web</td>
+  </tr>
+
+  <tr>
+    <td align="center">Sección</td>
+    <td align="center">WS52</td>
+  </tr>
+  <tr>
+    <td align="center">Profesor</td>
+    <td align="center">Juan Carlos Tinoco Licas</td>
+  </tr>
+  <tr>
+    <td align="center">Auditor</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Clinton </td>
+  </tr>
+  <tr>
+    <td align="center">Site o APP a evaluar</td>
+    <td align="center">AutoYa!</td>
+  </tr>
+  <tr>
+    <td align="center">Tareas a realizar</td>
+    <td align="center"> <ul>
+        <li>Registro de cuenta</li>
+        <li>Inicio de sesión</li>
+        <li>Recuperar contraseña</li>
+        <li>Enviar mensaje de mantenimiento (arrendatario)</li>
+        <li>Ver perfil de usuario (Johan)</li>
+        <li>Enviar mensaje de mantenimiento (arrendatario) (Jhan)</li>
+        <li>Ver autos alquilados (arrendatario) (Luis)</li>
+        <li>Ver solicitudes de alquiler (arrendatario) (Alonso)</li>
+        <li>Registrar vehículo (propietario) (Nicolas)</li>
+        <li>Crear contrato de alquiler (propietario) (Erick)</li>
+      </ul>
+</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 Goal</td>
+    <td align="center">Se debe realizar correcciones al Front-End e implmentar la primera versión del Backend</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table><br>
+
 ## Video About-the-Product
 
 # Conclusiones
