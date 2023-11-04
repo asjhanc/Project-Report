@@ -2614,7 +2614,7 @@ Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
     <td align="center">AutoYa!</td>
   </tr>
   <tr>
-    <td align="center">Tareas a realizar</td>
+    <td align="center">Tareas a Evaluar</td>
     <td align="center"> <ul>
         <li>Registro de cuenta</li>
         <li>Inicio de sesión</li>
@@ -2628,27 +2628,100 @@ Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
         <li>Crear contrato de alquiler (propietario) (Erick)</li>
       </ul>
 </td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 Goal</td>
-    <td align="center">Se debe realizar correcciones al Front-End e implmentar la primera versión del Backend</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint n Velocity</td>
-    <td align="center">5 días</td>
-  </tr>
-  <tr>
-    <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
-  </tr>
+<tr>
+    <td align="center">No están incluidas en esta versión de la evaluación las siguientes tareas:</td>
+    <td align="center">
+      <ul>
+        <li>Ver perfil de usuario</li>
+        <li>Ver autos puestos en alquiler (propietario)</li>
+        <li>Ver solicitudes de alquiler (propietario)</li>
+        <li>Buscar un auto (arrendatario)</li>
+        <li>Alquilar un auto (arrendatario)</li>
+      </ul> 
+</td>
 </table><br>
+
+
+<table>
+  <td colspan="2" align="center"><strong>Escala de Severidad
+</strong></td>
+
+  <tr>
+    <td align="center"><strong>Nivel</strong></td>
+    <td align="center"><strong>Descripción</strong></td>
+  </tr>
+  
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+reléase</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+importante que sean corregidos y se les debe asignar una prioridad alta</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+ </td>  
+</table><br>
+
+<table>
+  <tr>
+    <th># </th>
+    <th>Problema</th>
+    <th>Escala de
+severidad</th>
+    <th>Heurística/Principio violada(o)</th>
+  </tr>
+  <tr>
+    <td>Fila 1</td>
+    <td>Fila 1</td>
+    <td>Fila 1</td>
+    <td>Fila 1</td>
+  </tr>
+  <tr>
+    <td>Fila 2</td>
+    <td>Fila 2</td>
+    <td>Fila 2</td>
+    <td>Fila 2</td>
+  </tr>
+  <tr>
+    <td>Fila 3</td>
+    <td>Fila 3</td>
+    <td>Fila 3</td>
+    <td>Fila 3</td>
+  </tr>
+  <tr>
+    <td>Fila 4</td>
+    <td>Fila 4</td>
+    <td>Fila 4</td>
+    <td>Fila 4</td>
+  </tr>
+  <tr>
+    <td>Fila 5</td>
+    <td>Fila 5</td>
+    <td>Fila 5</td>
+    <td>Fila 5</td>
+  </tr>
+  <tr>
+    <td>Fila 6</td>
+    <td>Fila 6</td>
+    <td>Fila 6</td>
+    <td>Fila 6</td>
+  </tr>
+</table>
+
+
 
 ## Video About-the-Product
 
