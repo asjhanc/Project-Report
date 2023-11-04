@@ -32,6 +32,7 @@
 |--------------|--------------|--------------|--------------|
 | Entrega 1 (TB1)      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
 | Entrega 2 (TP)      | 29/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | -Se actualizó la documentación correspondiente al proyecto. <br> -Se diseñó el Frontend de nuestro proyecto utilizando el Framework Vue 3 y la librería PrimeVue. |
+| Entrega 3 (TB3)      | 03/11/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | -Se actualizó la documentación correspondiente al proyecto. <br> -Se corrigió algunos errores del FrontEnd del entregable anterior y se desarrolló la primera versión del Backend. |
 
 # Project Report Collaboration Insights
 
@@ -2458,7 +2459,13 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Sum of Story Points</td>
     <td align="center">No aplica</td>
   </tr>
-</table>
+</table><br>
+
+
+
+[![Sprint-3-Aplicaciones-Web.png](https://i.postimg.cc/Jn5nn5VF/Sprint-3-Aplicaciones-Web.png)](https://postimg.cc/Q9VsY5Mg)
+
+Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
 
 
 #### Sprint Backlog 3
@@ -2466,7 +2473,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 <table>
   <tr>
     <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
+    <td colspan="7" align="center"><strong>3</strong></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>User Story</strong></td>
@@ -2486,113 +2493,87 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI01</td>
-    <td align="center">Perfil (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de perfil del arrendatario y el propietario</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">	Definir las estructuras de datos que representan objetos clave en el modelo de la aplicación.</td>
     <td align="center">6</td>
     <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
+    <td align="center">In process</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI02</td>
-    <td align="center">Solicitudes (Arrendatario)</td>
-    <td align="center">Crear la página de solicitudes del arrendatario</td>
+    <td align="center">Creación de repositories	</td>
+    <td align="center">Desarrollar componentes para interactuar con la base de datos y gestionar operaciones de datos.</td>
     <td align="center">4</td>
     <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
+    <td align="center">In process</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI03</td>
-    <td align="center">Busqueda de autos (arrendatario)</td>
-    <td align="center">Crear la página de busqueda de autos del arrendatario</td>
+    <td align="center">Creación de services</td>
+    <td align="center">Diseñar y construir servicios que contienen la lógica de negocio y operaciones específicas.</td>
     <td align="center">4</td>
     <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">Done</td>
+    <td align="center">In process</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI04</td>
-    <td align="center">Mantenimiento(arrendatario)</td>
-    <td align="center">Crear la página de mantenimientos del arrendatario</td>
+    <td align="center">Creación de controllers</td>
+    <td align="center">Configurar controladores para gestionar solicitudes HTTP y comunicarse con los servicios.</td>
     <td align="center">4</td>
     <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">Done</td>
+    <td align="center">In process</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI05</td>
-    <td align="center">Registro Vehicular (Propietario)</td>
-    <td align="center">Crear la página de registro vehicular del propietario</td>
+    <td align="center">Creación de resources</td>
+    <td align="center">Definir recursos y rutas RESTful para exponer funcionalidades a través de una API.</td>
     <td align="center">4</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">Done</td>
+    <td align="center">In process</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI06</td>
-    <td align="center">Alquiler (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de alquiler del arrendatario y el propietario</td>
+    <td align="center">Creación de responses</td>
+    <td align="center">Crear estructuras de respuesta estandarizadas para formatear y devolver resultados coherentes.</td>
     <td align="center">7</td>
     <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
+    <td align="center">In process</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI07</td>
-    <td align="center">Login (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de login del arrendatario y el propietario</td>
+    <td align="center">Configuración de la base de datos</td>
+    <td align="center">Establecer la configuración y conexión con la base de datos, incluyendo credenciales y opciones.</td>
     <td align="center">4</td>
     <td align="center">Moreno Vergara, Johan Raúl</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI08</td>
-    <td align="center">Registro (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de registro del arrendatario y el propietario</td>
-    <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúls</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Inicio Principal (Arrendatarios y Propietarios)</td>
-    <td align="center">Crear las páginas de inicio del arrendatario y el propietario</td>
-    <td align="center">6</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Notificaciones (Propietario)</td>
-    <td align="center">Crear las páginas de notificaciones del propietario</td>
-    <td align="center">4</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Actualización del Informe</td>
-    <td align="center"></td>
-    <td align="center">5</td>
-    <td align="center">Todo el grupo</td>
-    <td align="center">Done</td>
+    <td align="center">In process</td>
   </tr>
 </table>
+
+
+#### Development Evidence for Sprint Review
+
+#### Testing Suite Evidence for Sprint 3 Review.
+
+#### Execution Evidence for Sprint 3 Review
+
+#### Services Documentation Evidence for Sprint 3 Review
+
+### Software Deployment Evidence for Sprint 3 Review
+
+#### Team Collaboration Insights during Sprint 3
+
 
 ## Validation Interviews
 
