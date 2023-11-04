@@ -3155,6 +3155,11 @@ severidad</th>
 
 ## Video About-the-Product
 
+[![about-the-product.png](https://i.postimg.cc/sXmCNH9m/about-the-product.png)](https://postimg.cc/hzXYJrYQ)
+
+- Link video About the Product: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo)
+
+
 # Conclusiones
 
 - La startup tiene un potencial en el mercado ya que aprovecha la uso de vehículos particulares y la necesidad de soluciones de alquiler de vehículos más accesibles.
@@ -3212,3 +3217,5 @@ tanto para compartir un vehiculo o como para alquilar uno.
 - Entrevista 6: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXv5agKZik5NgTHh71Evt9sBB-XtNqO722LU-6XKFhh-HQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=1rKfUW)
 
 - Entrevista 7: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EQyTjuto0e1EhkEMptH0hK4BU3Qbm89DPFb3IEoWdQZi3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=28xLzU)
+
+- Link video About the Product: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo)
