@@ -2053,6 +2053,281 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 ## Landing Page, Services & Applications Implementation
 
+### Sprint 1
+
+#### Sprint Planning 1
+
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-08-26</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">11:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 Goal</td>
+    <td align="center">Se debe implementar la primera version del landing page así como el desarrollo del informe</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+
+
+#### Sprint Backlog 1
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Toolbar</td>
+    <td align="center">Creación del toolbar del landing page</td>
+    <td align="center">2</td>
+    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Inicio</td>
+    <td align="center">Creacion de la seccion de "Inicio" del landing page</td>
+    <td align="center">2</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Acerca de</td>
+    <td align="center">Creacion de la seccion de "Acerca de" del landing page</td>
+    <td align="center">2</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Testimonios</td>
+    <td align="center">Creacion de la seccion de "Testimonios" del landing page</td>
+    <td align="center">2</td>
+    <td align="center">Moreno Vergara, Johan Raúl</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Contacto</td>
+    <td align="center">Creacion de la seccion de "Contacto" del landing page</td>
+    <td align="center">2</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Footer</td>
+    <td align="center">Creacion del footer del landing page</td>
+    <td align="center">2</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Informe capítulo 1</td>
+    <td align="center">Desarrollo del capítulo 1 del informe</td>
+    <td align="center">2</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Informe capítulo 2</td>
+    <td align="center">Desarrollo del capítulo 2 del informe</td>
+    <td align="center">4</td>
+    <td align="center">Moreno Vergara, Johan Raúls</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Informe capítulo 3</td>
+    <td align="center">Desarrollo del capítulo 3 del informe</td>
+    <td align="center">4</td>
+    <td align="center">Zagal Vallejo, Nicolás</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Informe capítulo 4</td>
+    <td align="center">Desarrollo del capítulo 4 del informe</td>
+    <td align="center">4</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Informe capítulo 5</td>
+    <td align="center">Desarrollo del capítulo 5 del informe</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">feature/main</td>
+    <td align="center">c628f0171bdd8b1fbdf758a4f4cc083c832d07e8</td>
+    <td align="center">Actu Sprint Planning y video TB1</td>
+    <td align="center">Agregado el sprint planning 1 y el video de la exposición de la TB1.</td>
+    <td align="center">08/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">feature/main</td>
+    <td align="center">31b2f2bc62b4829413370ce0c1c39265417fd8f5</td>
+    <td align="center">Update README.md</td>
+    <td align="center">Actualizados los timings de las entrevistas</td>
+    <td align="center">08/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">feature/main</td>
+    <td align="center">d4897ea586688f658d5770f2160b9523a1078708</td>
+    <td align="center">Capitulo 4</td>
+    <td align="center">Agregue mi perfil y complete el capitulo 4</td>
+    <td align="center">08/09/2023</td>
+  </tr>
+    
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">feature/main</td>
+    <td align="center">8e0a499bb85df92b5121257527d3cd2de0562292</td>
+    <td align="center">Capitulo III</td>
+    <td align="center">Implementación de todo el capítulo III en el informe</td>
+    <td align="center">07/09/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report</td>
+    <td align="center">feature/main</td>
+    <td align="center">101cac48c8ef8e0064fe78e395295311b8e6a9a6</td>
+    <td align="center">Capitulo II</td>
+    <td align="center">Agregado todo el capitulo II en el informe</td>
+  <td align="center">07/09/2023</td>
+</table>
+
+#### Testing Suite Evidence for Sprint 1 Review.
+
+En esta parte del trabajo aún no se desarrolla el frontend ni el backend, debido a eso no se pueden realizar Unit Test.
+
+#### Execution Evidence for Sprint 1 Review
+
+![Imgur](https://i.imgur.com/H9MJlOQ.jpg)
+
+#### Services Documentation Evidence for Sprint 1 Review
+
+Para la creación de la plataforma, en esta caso para el desarrollo del landing page se utilizo lo siguiente.
+
+*Webstorm (IDE DE DESARROLLO)*: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro landing page.
+
+*JavaScript*: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
+
+*GitHub*:Hemos alojado nuestro repositorio del landing page en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
+
+### Software Deployment Evidence for Sprint 1 Review
+
+Para esta primera entrega se logro implementar el landing page de la aplicación.<br>
+URL: https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/#about
+
+#### Team Collaboration Insights during Sprint 1
+
+![Imgur](https://imgur.com/4UDlLyl.jpg)
+![Imgur](https://imgur.com/oCRn0Ud.jpg)
+
 ### Sprint 2
 
 #### Sprint Planning 2
@@ -2182,7 +2457,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td align="center">Registro Vehicular (Propietario)</td>
     <td align="center">Crear la página de registro vehicular del propietario</td>
     <td align="center">4</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
     <td align="center">Done</td>
   </tr>
   <tr>
