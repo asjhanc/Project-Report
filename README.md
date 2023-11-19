@@ -3005,6 +3005,318 @@ Capturas de pantalla que ilustran la implementación exitosa de los endpoints en
 
 ![Imgur](https://i.imgur.com/NxBNnVu.jpg)
 
+### Sprint 4
+
+#### Sprint Planning 4
+
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-11-18</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">3:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 Goal</td>
+    <td align="center">Se debe realizar correcciones Backend, conectar el backend con el Fronted, implementar temas de seguridad y testeos.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table><br>
+
+
+[![Sprint-3-Aplicaciones-Web.png](https://i.postimg.cc/Jn5nn5VF/Sprint-3-Aplicaciones-Web.png)](https://postimg.cc/Q9VsY5Mg)
+
+Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
+
+
+#### Sprint Backlog 4
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">	Definir las estructuras de datos que representan objetos clave en el modelo de la aplicación.</td>
+    <td align="center">6</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Creación de repositories	</td>
+    <td align="center">Desarrollar componentes para interactuar con la base de datos y gestionar operaciones de datos.</td>
+    <td align="center">4</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Creación de services</td>
+    <td align="center">Diseñar y construir servicios que contienen la lógica de negocio y operaciones específicas.</td>
+    <td align="center">4</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Creación de controllers</td>
+    <td align="center">Configurar controladores para gestionar solicitudes HTTP y comunicarse con los servicios.</td>
+    <td align="center">4</td>
+    <td align="center">Isla Quispe, Luis Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Creación de resources</td>
+    <td align="center">Definir recursos y rutas RESTful para exponer funcionalidades a través de una API.</td>
+    <td align="center">4</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Creación de responses</td>
+    <td align="center">Crear estructuras de respuesta estandarizadas para formatear y devolver resultados coherentes.</td>
+    <td align="center">7</td>
+    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Configuración de la base de datos</td>
+    <td align="center">Establecer la configuración y conexión con la base de datos, incluyendo credenciales y opciones.</td>
+    <td align="center">4</td>
+    <td align="center">Moreno Vergara, Johan Raúl</td>
+    <td align="center">In process</td>
+  </tr>
+</table>
+
+
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
+    <td align="center">Creación de repositories</td>
+    <td align="center">Creación de repositories</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Creación de services</td>
+    <td align="center">Creación de services
+</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/Nicolás-Zagal</td>
+    <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
+    <td align="center">Creación de controllers</td>
+    <td align="center">Creación de controllers
+</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Alonso-Robles</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Creación de resources</td>
+    <td align="center">Creación de resources</td>
+  <td align="center">02/11/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Johan-Moreno</td>
+    <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
+    <td align="center">Creación de responses</td>
+    <td align="center">Creación de responses</td>
+  <td align="center">03/11/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Erick-Urbizagástegui</td>
+    <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
+    <td align="center">Configuración de la base de datos</td>
+    <td align="center">Configuración de la base de datos</td>
+  <td align="center">04/11/2023</td>
+  
+</table>
+
+#### Testing Suite Evidence for Sprint Reviews
+
+[![swafger.png](https://i.postimg.cc/KYsyZJ8Q/swafger.png)](https://postimg.cc/06m4nGmJ) 
+
+#### Execution Evidence for Sprint 3 Review 
+
+Login
+
+![Imgur](https://i.imgur.com/gGgBhiE.png)
+
+Registro
+
+![Imgur](https://i.imgur.com/HSQiD4u.png)
+
+Página de inicio arrendatario
+
+![Imgur](https://i.imgur.com/8HKtNja.png)
+
+Página de inicio propietario
+
+![Imgur](https://i.imgur.com/DTpg8I1.png)
+
+Notificaciones propietario
+
+![Imgur](https://i.imgur.com/kIIsofo.png)
+
+Perfil arrendatario
+
+![Imgur](https://i.imgur.com/zPPH5J0.png)
+
+Perfil propietario
+
+![Imgur](https://i.imgur.com/cOX5t5u.png)
+
+Solicitudes arrendatario
+
+![Imgur](https://i.imgur.com/efGqnl7.png)
+
+Búsqueda de autos arrendatario
+
+![Imgur](https://i.imgur.com/alAM1W8.png)
+
+Mantenimiento arrendatario
+
+![Imgur](https://i.imgur.com/qqLvmhh.png)
+
+Registro vehicular propietario
+
+![Imgur](https://i.imgur.com/GV8HRnk.png)
+
+Creación de contrato de alquiler propietario
+
+![Imgur](https://i.imgur.com/797NC9l.png)
+
+Alquiler arrendatario
+
+![Imgur](https://i.imgur.com/NGwl67E.png)
+
+Alquiler propietario
+
+![Imgur](https://i.imgur.com/TmsPSUZ.png)
+
+
+#### Services Documentation Evidence for Sprint 3 Review 
+
+Capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
+
+[![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
+
+#### Software Deployment Evidence for Sprint 3 Review
+
+[![1.jpg](https://i.postimg.cc/hGpF3BvZ/1.jpg)](https://postimg.cc/qthZzW82)
+
+[![2.jpg](https://i.postimg.cc/d11bbxTs/2.jpg)](https://postimg.cc/3ysfp9BV)
+
+[![3.jpg](https://i.postimg.cc/4yHrdH5j/3.jpg)](https://postimg.cc/H8HSvxFt)
+
+[![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
+
+#### Team Collaboration Insights during Sprint 3
+
+![Imgur](https://i.imgur.com/qet5BsL.jpg)
+
+![Imgur](https://i.imgur.com/NxBNnVu.jpg)
 
 ## Validation Interviews
 
