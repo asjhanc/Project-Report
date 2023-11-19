@@ -22,6 +22,7 @@
   <li>Johan Raúl Moreno Vergara (u20201c105)</li>
   <li>Luis Fernando Isla Quispe (u202124146)</li>
   <li>Nicolás Zagal Vallejo (u20201c429)</li>
+  <li>Jhan Clinton Antonio Salazar (u20201b312)</li>
 </ul>
 
 **<h3>Agosto, 2023</h3>**
@@ -30,8 +31,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |--------------|--------------|--------------|--------------|
-| Entrega 1 (TB1)      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
-| Entrega 2 (TP)      | 29/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | -Se actualizó la documentación correspondiente al proyecto. <br> -Se diseñó el Frontend de nuestro proyecto utilizando el Framework Vue 3 y la librería PrimeVue. |
+| Entrega 1      | Celda 2      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Celda 4      |
+| Entrega X      | Celda 6      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo   | Celda 8      |
 
 # Project Report Collaboration Insights
 
@@ -127,15 +128,19 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
       - [Sprint Planning 2](#sprint-planning-2)
       - [Sprint Backlog 2](#sprint-backlog-2)
       - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
-      - [Testing Suite Evidence for Sprint 2 Review.](#testing-suite-evidence-for-sprint-2-review)
-      - [Execution Evidence for Sprint 2 Review](#execution-evidence-for-sprint-2-review)
-      - [Services Documentation Evidence for Sprint 2 Review](#services-documentation-evidence-for-sprint-2-review)
-    - [Software Deployment Evidence for Sprint 2 Review](#software-deployment-evidence-for-sprint-2-review)
-      - [Team Collaboration Insights during Sprint 2](#team-collaboration-insights-during-sprint-2)
+      - [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)
+      - [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)
+      - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
+      - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
+      - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
+      - [Datos personales del usuario:](#datos-personales-del-usuario)
+      - [Preguntas realizadas luego de culminar con la tarea asignada:](#preguntas-realizadas-luego-de-culminar-con-la-tarea-asignada)
     - [Registro de Entrevistas](#registro-de-entrevistas-1)
     - [Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
+    - [Tabla Resumen:](#tabla-resumen)
+    - [Descripción de problemas:](#descripción-de-problemas)
   - [Video About-the-Product](#video-about-the-product)
 - [Conclusiones](#conclusiones)
   - [Video About-the-Team](#video-about-the-team)
@@ -144,12 +149,10 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
 
 # Student Outcome
 
-
-| Criterio Específico | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones |
-|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br>**TP1**<br>Mi desenvolvimiento dentro del desarrollo fue preciso y fácil de entender, ya sea en la parte de programación como en la comunicación.<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>**TP1**<br>Me reuní con mi equipo en distintas ocasiones para realizar el desarrollo del frontend de nuestro proyecto.<br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br> Fui capaz de participar de manera efectiva, eficiente y objetiva junto a mi equipo en el desarrollo de nuestro Frontend aplicando conocimientos de ingeniería de software.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe*<br>**TP1**<br>Trabaje de manera eficiente, practica y acertiva con mi grupo en el desarrollo del frotend<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe<br>**TP**<br>Me comunique de manera efectiva con mi equipo de manera constante en función de desarrollar y optimizar el desarrollo del Frontend aplicando los conocimientos aprendidos en clase  | **TB1**<br>Nos reunimos como equipo y decidimos las partes del proyecto de las que se encargaría cada miembro. Asimismo logramos ganar la confianza de todos mostrando empatía y responsabilidad el uno con el otro.<br>**TP1**<br>Nos reunimos como equipo en distintas ocasiones para ir completando las metas propuestas para este sprint, lo cual ayudó a mejorar nuestra relación de compañerismo.<br>      |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.     | Alonso Fernando Robles Astuñaupa<br>**TB1**<br>Completado del capítulo 3 del informe<br>**TP1**<br>Tengo la capacidad de utilizar conocimientos previos relacionado a la carrera, con la finalidad de desarrollar proyectos en su mejor forma.<br><br>Erick Gabriel Urbizagasteui Alvarez<br>**TB1**<br>Coordinación del proyecto, completado del capítulo 1 del informe<br><br>**TP1**<br>Aprendí a usar Vue para desarrollar las páginas web que formarán parte de la solución de mi equipo.<br>Johan Raúl Moreno Vergara<br>**TB1**<br>Completado de la parte del landing page del capítulo 4 del informe<br>**TP1**<br>Soy capaz de aplicar mis conocimientos y habilidades en ingeniería de software en el contexto de equipos multidisciplinarios, asegurando la eficacia y eficiencia en la ejecución de proyectos.<br><br>Luis Fernando Isla Quispe<br>**TB1**<br>Completado del capítulo 2 del informe<br>**TP1**<br>En este proyecto, se pusieron en práctica los conocimientos adquiridos durante el proceso de formación, los cuales fueron impartidos a través de clases teóricas y prácticas. Estos conocimientos abarcan una amplia gama de disciplinas relacionadas con el desarrollo web<br><br>Nicolás Zagal Vallejo<br>**TB1**<br>Completado de la parte del web application del capítulo 4 del informe <br>**TP**<br>Reforce y aplique los temas vistos en clase de manera que pude aportar al equipo de una manera efectiva, de esta manera se consiguio un desarrollo optimo del proyecto | <br>**TB1**<br>Aprendimos y nos enseñanos unos a otros a usar GitHub y GitHub Desktop. Además, entendimos cómo hacer commits en esta herramienta y cómo nos podrán ayudar en el desarrollo de este proyecto.<br>**TP1**<br>Aprendimos a usar distintos componentes de Vue para desarrollar la parte del frontend de nuestra solución web.<br>      |
-
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|--------------|--------------|--------------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 2      | Celda 3      |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 5      | Celda 6      |
 
 # Capítulo I: Introducción
 
@@ -2053,569 +2056,465 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 ## Landing Page, Services & Applications Implementation
 
-### Sprint 2
+### Sprint 1
 
-#### Sprint Planning 2
+#### Sprint Planning 1
 
-Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint #</strong></td>
-    <td align="center"><strong>2</strong></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Date</td>
-    <td align="center">2023-09-28</td>
-  </tr>
-  <tr>
-    <td align="center">Time</td>
-    <td align="center">11:30 PM</td>
-  </tr>
-  <tr>
-    <td align="center">Location</td>
-    <td align="center">Reunión virtual por Discord</td>
-  </tr>
-  <tr>
-    <td align="center">Prepared By</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-  </tr>
-  <tr>
-    <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 2 – 1 Review Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 2 – 1 Retrospective Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 2 Goal</td>
-    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint n Velocity</td>
-    <td align="center">5 días</td>
-  </tr>
-  <tr>
-    <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
-  </tr>
-</table>
-
-![impur](https://i.postimg.cc/13t9f3RT/Captura-de-pantalla-2023-09-26-145302.png)
-
-#### Sprint Backlog 2
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>User Story</strong></td>
-    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Estimation (Hours)</strong></td>
-    <td align="center"><strong>Assigned To</strong></td>
-    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI01</td>
-    <td align="center">Perfil (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de perfil del arrendatario y el propietario</td>
-    <td align="center">6</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI02</td>
-    <td align="center">Solicitudes (Arrendatario)</td>
-    <td align="center">Crear la página de solicitudes del arrendatario</td>
-    <td align="center">4</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI03</td>
-    <td align="center">Busqueda de autos (arrendatario)</td>
-    <td align="center">Crear la página de busqueda de autos del arrendatario</td>
-    <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI04</td>
-    <td align="center">Mantenimiento(arrendatario)</td>
-    <td align="center">Crear la página de mantenimientos del arrendatario</td>
-    <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI05</td>
-    <td align="center">Registro Vehicular (Propietario)</td>
-    <td align="center">Crear la página de registro vehicular del propietario</td>
-    <td align="center">4</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI06</td>
-    <td align="center">Alquiler (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de alquiler del arrendatario y el propietario</td>
-    <td align="center">7</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI07</td>
-    <td align="center">Login (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de login del arrendatario y el propietario</td>
-    <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúl</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI08</td>
-    <td align="center">Registro (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de registro del arrendatario y el propietario</td>
-    <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúls</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Inicio Principal (Arrendatarios y Propietarios)</td>
-    <td align="center">Crear las páginas de inicio del arrendatario y el propietario</td>
-    <td align="center">6</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Notificaciones (Propietario)</td>
-    <td align="center">Crear las páginas de notificaciones del propietario</td>
-    <td align="center">4</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Actualización del Informe</td>
-    <td align="center"></td>
-    <td align="center">5</td>
-    <td align="center">Todo el grupo</td>
-    <td align="center">Done</td>
-  </tr>
-</table>
+#### Sprint Backlog 1
 
 #### Development Evidence for Sprint Review
 
-<table>
-  <tr>
-    <td align="center"><strong>Repository</strong></td>
-    <td align="center"><strong>Branch</strong></td>
-    <td align="center"><strong>Commit ID</strong></td>
-    <td align="center"><strong>Commit Message</strong></td>
-    <td align="center"><strong>Commit Message Body</strong></td>
-    <td align="center"><strong>Commited on (Date)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">feature/main</td>
-    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
-    <td align="center">Creación página registro de auto</td>
-    <td align="center">Creado el componente car-registration-owner</td>
-    <td align="center">27/09/2023</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">feature/main</td>
-    <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
-    <td align="center">Creación página de perfil para arrendador y arrendatario</td>
-    <td align="center">Creado el componente profile-owner & profile-tenants</td>
-    <td align="center">27/09/2023</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">feature/main</td>
-    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
-    <td align="center">Inclusión de toolbars</td>
-    <td align="center">Agregados los toolbars para arrendatarios y propietarios.
-</td>
-    <td align="center">27/09/2023</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">feature/Nicolás-Zagal</td>
-    <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
-    <td align="center">Merge pull request</td>
-    <td align="center">Merge pull request
-</td>
-    <td align="center">27/09/2023</td>
-  </tr>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">Alonso-Robles</td>
-    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
-    <td align="center">Merge remote-tracking branch</td>
-    <td align="center"># src/AutoYa/pages/profile-owner.vue #	src/AutoYa/pages/profile-tenant.vue</td>
-  <td align="center">27/09/2023</td>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">Johan-Moreno</td>
-    <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
-    <td align="center">Add Login component & Udate Login</td>
-    <td align="center">Add Login component & Udate Login</td>
-  <td align="center">28/09/2023</td>
-  <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd</td>
-    <td align="center">Erick-Urbizagástegui</td>
-    <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
-    <td align="center">Merge pull request #15</td>
-    <td align="center">Merge pull request #15</td>
-  <td align="center">28/09/2023</td>
-  
-</table>
+#### Testing Suite Evidence for Sprint Review
 
-#### Testing Suite Evidence for Sprint 2 Review.
+#### Execution Evidence for Sprint Review
 
-En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
+#### Services Documentation Evidence for Sprint Review
 
-#### Execution Evidence for Sprint 2 Review
+#### Software Deployment Evidence for Sprint Review
 
-Login
-
-![Imgur](https://i.imgur.com/gGgBhiE.png)
-
-Registro
-
-![Imgur](https://i.imgur.com/HSQiD4u.png)
-
-Página de inicio arrendatario
-
-![Imgur](https://i.imgur.com/8HKtNja.png)
-
-Página de inicio propietario
-
-![Imgur](https://i.imgur.com/DTpg8I1.png)
-
-Notificaciones propietario
-
-![Imgur](https://i.imgur.com/kIIsofo.png)
-
-Perfil arrendatario
-
-![Imgur](https://i.imgur.com/zPPH5J0.png)
-
-Perfil propietario
-
-![Imgur](https://i.imgur.com/cOX5t5u.png)
-
-Solicitudes arrendatario
-
-![Imgur](https://i.imgur.com/efGqnl7.png)
-
-Búsqueda de autos arrendatario
-
-![Imgur](https://i.imgur.com/alAM1W8.png)
-
-Mantenimiento arrendatario
-
-![Imgur](https://i.imgur.com/qqLvmhh.png)
-
-Registro vehicular propietario
-
-![Imgur](https://i.imgur.com/GV8HRnk.png)
-
-Creación de contrato de alquiler propietario
-
-![Imgur](https://i.imgur.com/797NC9l.png)
-
-Alquiler arrendatario
-
-![Imgur](https://i.imgur.com/NGwl67E.png)
-
-Alquiler propietario
-
-![Imgur](https://i.imgur.com/TmsPSUZ.png)
-
-#### Services Documentation Evidence for Sprint 2 Review
-
-Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
-
-*Webstorm (IDE DE DESARROLLO)*: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
-
-*Vue.js (Frameworks)*: Utilizamos vue.js como Frameworks de trabajo.
-
-*JavaScript*: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma.
-
-*GitHub* :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
-
-### Software Deployment Evidence for Sprint 2 Review
-
-Para esta primera entrega se logro implementar el Fron-end de la aplicación.<br>
-Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
-
-#### Team Collaboration Insights during Sprint 2
-
-![Imgur](https://i.imgur.com/qet5BsL.jpg)
-
-![Imgur](https://i.imgur.com/NxBNnVu.jpg)
-
-### Sprint 3
-
-#### Sprint Planning 3
-
-Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint #</strong></td>
-    <td align="center"><strong>3</strong></td>
-  </tr>
-  <tr>
-  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Date</td>
-    <td align="center">2023-10-30</td>
-  </tr>
-  <tr>
-    <td align="center">Time</td>
-    <td align="center">11:30 PM</td>
-  </tr>
-  <tr>
-    <td align="center">Location</td>
-    <td align="center">Reunión virtual por Discord</td>
-  </tr>
-  <tr>
-    <td align="center">Prepared By</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-  </tr>
-  <tr>
-    <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
-    <td align="center">No aplica</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Sprint 3 Goal</td>
-    <td align="center">Se debe realizar correcciones al Front-End e implmentar la primera versión del Backend</td>
-  </tr>
-  <tr>
-    <td align="center">Sprint n Velocity</td>
-    <td align="center">5 días</td>
-  </tr>
-  <tr>
-    <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
-  </tr>
-</table>
-
-
-#### Sprint Backlog 3
-
-<table>
-  <tr>
-    <td align="center"><strong>Sprint</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><strong>User Story</strong></td>
-    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>ID</strong></td>
-    <td align="center"><strong>Title</strong></td>
-    <td align="center"><strong>Description</strong></td>
-    <td align="center"><strong>Estimation (Hours)</strong></td>
-    <td align="center"><strong>Assigned To</strong></td>
-    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI01</td>
-    <td align="center">Perfil (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de perfil del arrendatario y el propietario</td>
-    <td align="center">6</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI02</td>
-    <td align="center">Solicitudes (Arrendatario)</td>
-    <td align="center">Crear la página de solicitudes del arrendatario</td>
-    <td align="center">4</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI03</td>
-    <td align="center">Busqueda de autos (arrendatario)</td>
-    <td align="center">Crear la página de busqueda de autos del arrendatario</td>
-    <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI04</td>
-    <td align="center">Mantenimiento(arrendatario)</td>
-    <td align="center">Crear la página de mantenimientos del arrendatario</td>
-    <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI05</td>
-    <td align="center">Registro Vehicular (Propietario)</td>
-    <td align="center">Crear la página de registro vehicular del propietario</td>
-    <td align="center">4</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI06</td>
-    <td align="center">Alquiler (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de alquiler del arrendatario y el propietario</td>
-    <td align="center">7</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI07</td>
-    <td align="center">Login (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de login del arrendatario y el propietario</td>
-    <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúl</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI08</td>
-    <td align="center">Registro (Arrendatario y Propietario)</td>
-    <td align="center">Crear las páginas de registro del arrendatario y el propietario</td>
-    <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúls</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Inicio Principal (Arrendatarios y Propietarios)</td>
-    <td align="center">Crear las páginas de inicio del arrendatario y el propietario</td>
-    <td align="center">6</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Notificaciones (Propietario)</td>
-    <td align="center">Crear las páginas de notificaciones del propietario</td>
-    <td align="center">4</td>
-    <td align="center">Zagal Vallejo, Nicolás</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI09</td>
-    <td align="center">Actualización del Informe</td>
-    <td align="center"></td>
-    <td align="center">5</td>
-    <td align="center">Todo el grupo</td>
-    <td align="center">Done</td>
-  </tr>
-</table>
+#### Team Collaboration Insights during Sprint
 
 ## Validation Interviews
 
 ### Diseño de Entrevistas
 
+#### Datos personales del usuario:
+
+<ul>
+    <li>Nombres</li>
+    <li>Apellidos</li>
+    <li>Edad</li>
+    <li>Ocupación</li>
+    <li>Distrito</li>
+</ul>
+
+#### Preguntas realizadas luego de culminar con la tarea asignada:
+
+<ul>
+    <li>¿Tienes alguna recomendación o mejora para esta tarea en concreto</li>
+    <li>¿Se te dificultó en alguna parte al realizar esta tarea?</li>
+</ul>
+
 ### Registro de Entrevistas
+
+<hr><li>Entrevista 1:</li><br>
+
+[![Entrevista-Erick.png](https://i.postimg.cc/xqDzS9w2/Entrevista-Erick.png)](https://postimg.cc/rRjm12yn)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXHleZeTbhFAq3FIA0RNmgoBU5MESV8EUzwub8Z9qa6a1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=ie1NkR)
+
+<ul><li>Rango de tiempo: 7 minutos</li>
+<li>Nombre: Daniella Herrada</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante en la UDEP</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li></ul>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario ha señalado dos áreas de mejora en la página web. Primero, menciona que hay tres campos que se repiten al llenar los datos en el registro, lo cual considera una redundancia que debería corregirse. Segundo, expresa que no hay una distinción clara entre el modo en que se ha ingresado, ya sea como arrendador o arrendatario, lo que podría generar confusión. Sugiere que este aspecto se aclare para una experiencia de usuario más clara y eficiente.</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 2:</li><br>
+
+[![Entrevista-johan.png](https://i.postimg.cc/VkYjsBG0/johan.png)](https://postimg.cc/0bB6cmq9)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EUmOcBasFS9BpZgkUlaAN-kBRsXg_G9zzql4hIUGm8W9fA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4YTwHv)
+
+<li>Rango de tiempo: 5 minutos</li>
+<li>Nombre: Willy Valentin</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante en la UPC</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario elogió la conveniente ubicación de la opción "Ver perfil" por su facilidad de acceso. Sin embargo, sugirió agrupar los botones en una sola sección en la vista de Perfil de Usuario para una mayor organización. Además, recomendó la inclusión del botón de "cerrar sesión" en el logo del perfil para agilizar el proceso. Por último, destacó el atractivo diseño de la página como un aspecto positivo.</td>
+  </tr>
+</table>
+
+
+<hr><li>Entrevista 3:</li><br>
+
+[![Entrevista-Alonso.png](https://i.postimg.cc/GpM0gQNF/alonso.png)](https://postimg.cc/d7TSL8J3)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZ8loXeIQ1ZDpGfshm9dRfYBzSg0m4tldt6_dwnP4FgHxQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=4TfgWw)
+
+<li>Rango de tiempo: 3 minutos</li>
+<li>Nombre: Alessandro Ramirez</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario ha proporcionado dos comentarios sobre la funcionalidad de la página web. Primero, sugiere agregar la fecha de inicio de la solicitud de alquiler de auto y la fecha de espera como información relevante. Segundo, elogia el funcionamiento correcto de la página, lo que indica una experiencia positiva en términos de usabilidad y rendimiento.</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 4:</li><br>
+
+[![Entrevista-Zagal.png](https://i.postimg.cc/VNz1V5N8/Zagal.png)](https://postimg.cc/187Lgm6C)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EWng-cQrkZFInPQGj_iWcdUB926INNwOn9VkBNAH9GwxTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=qWIn0h)
+
+<li>Rango de tiempo: 3 minutos</li>
+<li>Nombre: Martin Ramirez</li>
+<li>Edad: 18 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario sugiere mejorar el funcionamiento de los botones, ya que algunos de ellos no están operativos. Este comentario resalta la necesidad de una revisión y corrección de la funcionalidad de los botones en la página web.
+</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 5:</li><br>
+
+[![Entrevista 1 - Luis.png](https://i.postimg.cc/SNrJN0zk/luis.png)](https://postimg.cc/SJnyDvrv)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EVajkaVLnKJMrVC3M7ssYekBB2Ln9NTKGI3QHHGL4bUjRw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=92ARO4)
+
+<li>Rango de tiempo: 2 minutos</li>
+<li>Nombre: Diego Galindo</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario elogia la simplicidad y la facilidad para visualizar la opción de los autos alquilados en la página web. Este comentario resalta un aspecto positivo de la interfaz, indicando que la información sobre los autos alquilados está claramente presentada y fácil de acceder.
+</td>
+  </tr>
+</table>
+
+
+<hr><li>Entrevista 6:</li><br>
+
+[![Entrevista - Luis - s2.png](https://i.postimg.cc/yxxrgCYt/luis2.png)](https://postimg.cc/9w3BKS9Y)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EXv5agKZik5NgTHh71Evt9sBB-XtNqO722LU-6XKFhh-HQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=1rKfUW)
+
+<li>Rango de tiempo: 2 minutos</li>
+<li>Nombre: Alessandro Muro</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario elogia la simplicidad y la facilidad para visualizar la opción de los autos alquilados en la página web. Este comentario resalta un aspecto positivo de la interfaz, indicando que la información sobre los autos alquilados está claramente presentada y fácil de acceder.
+</td>
+  </tr>
+</table>
+
+<hr><li>Entrevista 7:</li><br>
+
+[![Entrevista - Jhan.png](https://i.postimg.cc/0yPXDSQ7/Jhan.png)](https://postimg.cc/BX7CGX2v)
+
+Link del video: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EQyTjuto0e1EhkEMptH0hK4BU3Qbm89DPFb3IEoWdQZi3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=28xLzU)
+
+<li>Rango de tiempo: 5 minutos</li>
+<li>Nombre: Leonel Alfaro Muro</li>
+<li>Edad: 20 años</li>
+<li>Ocupación: Estudiante</li>
+<li>Dispositivos de preferencia: Celulares y Laptops</li>
+<li>Sistema operativo: Windows</li><br>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">Resumen</td>
+  </tr>
+  <tr>
+    <td>
+El usuario encuentra la página bastante intuitiva, pero sugiere que al momento de poner un mensaje de mantenimiento, deberían proporcionarse algunas pistas para guiar al usuario y facilitar la tarea. Este comentario destaca la importancia de brindar orientación adicional para asegurarse de que los usuarios puedan realizar la tarea de manera eficiente, incluso durante el mantenimiento.
+</td>
+  </tr>
+</table><hr>
+
 
 ### Evaluaciones según heurísticas
 
+<table>
+  <td colspan="2" align="center"><strong>UX Heuristics & Principles Evaluation<br>Usability – Inclusive Design – Information Architecture 
+</strong></td>
+
+  <tr>
+    <td align="center"><strong>Carrera</strong></td>
+    <td align="center"><strong>Ingeniería de Software</strong></td>
+  </tr>
+  
+  <tr>
+    <td align="center">Curso</td>
+    <td align="center">Aplicaciones Web</td>
+  </tr>
+
+  <tr>
+    <td align="center">Sección</td>
+    <td align="center">WS52</td>
+  </tr>
+  <tr>
+    <td align="center">Profesor</td>
+    <td align="center">Juan Carlos Tinoco Licas</td>
+  </tr>
+  <tr>
+    <td align="center">Auditor</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+  </tr>
+  <tr>
+    <td align="center">Site o APP a evaluar</td>
+    <td align="center">AutoYa!</td>
+  </tr>
+  <tr>
+    <td align="center">Tareas a Evaluar</td>
+    <td align="center"> <ul>
+        <li>Registro de cuenta</li>
+        <li>Inicio de sesión</li>
+        <li>Recuperar contraseña</li>
+        <li>Enviar mensaje de mantenimiento (arrendatario)</li>
+        <li>Ver perfil de usuario (Johan)</li>
+        <li>Enviar mensaje de mantenimiento (arrendatario) (Jhan)</li>
+        <li>Ver autos alquilados (arrendatario) (Luis)</li>
+        <li>Ver solicitudes de alquiler (arrendatario) (Alonso)</li>
+        <li>Registrar vehículo (propietario) (Nicolas)</li>
+        <li>Crear contrato de alquiler (propietario) (Erick)</li>
+      </ul>
+</td>
+<tr>
+    <td align="center">No están incluidas en esta versión de la evaluación las siguientes tareas:</td>
+    <td align="center">
+      <ul>
+        <li>Ver perfil de usuario</li>
+        <li>Ver autos puestos en alquiler (propietario)</li>
+        <li>Ver solicitudes de alquiler (propietario)</li>
+        <li>Buscar un auto (arrendatario)</li>
+        <li>Alquilar un auto (arrendatario)</li>
+      </ul> 
+</td>
+</table>
+
+
+<table>
+  <td colspan="2" align="center"><strong>Escala de Severidad
+</strong></td>
+
+  <tr>
+    <td align="center"><strong>Nivel</strong></td>
+    <td align="center"><strong>Descripción</strong></td>
+  </tr>
+  
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+reléase</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+importante que sean corregidos y se les debe asignar una prioridad alta</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+la herramienta. Es imperativo que sea corregido antes del lanzamiento.
+ </td>  
+</table>
+
+### Tabla Resumen:<br>
+
+<table>
+  <tr>
+    <th># </th>
+    <th>Problema</th>
+    <th>Escala de
+severidad</th>
+    <th>Heurística/Principio violada(o)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Botones en la vista de Perfil deberían estar en una sección</td>
+    <td>2</td>
+    <td>Usabilidad: Consistencia</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Falta de botón "Cerrar Sesión" en el logo del perfil</td>
+    <td>3</td>
+    <td>Usabilidad: Libertad y control del usuario</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Repetición de campos en el registro de datos</td>
+    <td>2</td>
+    <td>Repetición de campos en el registro de datos</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>No diferenciación clara entre modos de ingreso</td>
+    <td>2</td>
+    <td>No diferenciación clara entre modos de ingreso</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Falta de indicaciones al poner mensaje de mantenimiento</td>
+    <td>2</td>
+    <td>Usabilidad: Feedback</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Problemas con algunos botones en la sección "Registrar Vehículo"</td>
+    <td>2</td>
+    <td>Usabilidad: Consistencia</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Falta de información de fechas en la sección "Ver Solicitudes de Autos"</td>
+    <td>2</td>
+    <td>Usabilidad: Feedback
+  </td>
+  </tr>
+</table>
+
+### Descripción de problemas:<br>
+
+<ol>
+  <li>
+    <strong>PROBLEMA #1: Botones en la vista de Perfil deberían estar en una sección</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> Los botones en la vista de Perfil de Usuario están distribuidos en dos columnas separadas, lo que puede generar confusión para los usuarios, ya que no están agrupados de manera coherente.
+    <br>
+    <strong>Recomendación:</strong> Agrupar los botones en una sola sección para mejorar la consistencia y facilitar la navegación del usuario.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #2: Falta de botón "Cerrar Sesión" en el logo del perfil</strong>
+    <br>
+    <em>Severidad: 3</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Libertad y control del usuario</em>
+    <br>
+    <strong>Problema:</strong> No hay un botón de "Cerrar Sesión" disponible en el logo del perfil de usuario, lo que obliga a los usuarios a ingresar a la vista de perfil para cerrar sesión, lo que podría ser más conveniente si estuviera accesible de forma rápida.
+    <br>
+    <strong>Recomendación:</strong> Agregar un botón de "Cerrar Sesión" en el logo del perfil para permitir a los usuarios cerrar sesión de manera más eficiente.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #3: Repetición de campos en el registro de datos</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> Existen campos que se repiten en el registro de datos, lo cual puede generar confusión y duplicación de información innecesaria.
+    <br>
+    <strong>Recomendación:</strong> Eliminar la repetición de campos en el registro para mejorar la consistencia y simplificar el proceso.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #4: No diferenciación clara entre modos de ingreso</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> No se diferencia claramente si se ha ingresado como arrendador o arrendatario, lo que podría generar confusión.
+    <br>
+    <strong>Recomendación:</strong> Agregar una indicación visual clara para diferenciar entre modos de ingreso y mejorar la consistencia.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #5: Falta de indicaciones al poner mensaje de mantenimiento</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Feedback</em>
+    <br>
+    <strong>Problema:</strong> Al poner un mensaje de mantenimiento, no se proporcionan indicaciones o pistas para guiar al usuario, lo que podría dificultar la tarea.
+    <br>
+    <strong>Recomendación:</strong> Agregar indicaciones o pistas al momento de poner un mensaje de mantenimiento para facilitar la tarea del usuario.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #6: Problemas con algunos botones en la sección "Registrar Vehículo"</strong>
+    <br>
+    <em>Severidad: 3</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Consistencia</em>
+    <br>
+    <strong>Problema:</strong> Algunos botones en la sección "Registrar Vehículo" presentan problemas y no funcionan correctamente, lo que puede generar frustración en los usuarios.
+    <br>
+    <strong>Recomendación:</strong> Corregir los problemas con los botones en la sección "Registrar Vehículo" para mejorar la consistencia y la funcionalidad.
+  </li><br>
+
+  <li>
+    <strong>PROBLEMA #7: Falta de información de fechas en la sección "Ver Solicitudes de Autos"</strong>
+    <br>
+    <em>Severidad: 2</em>
+    <br>
+    <em>Heurística Violada: Usabilidad - Feedback</em>
+    <br>
+    <strong>Problema:</strong> En la sección "Ver Solicitudes de Autos" no se proporciona información sobre la fecha en que comenzó la solicitud de alquiler de autos ni la fecha de espera, lo que podría ser importante para los usuarios.
+    <br>
+    <strong>Recomendación:</strong> Agregar información de fechas en la sección "Ver Solicitudes de Autos" para proporcionar un mejor feedback a los usuarios.
+  </li>
+</ol>
+
+
+
+
 ## Video About-the-Product
+
+[![about-the-product.png](https://i.postimg.cc/sXmCNH9m/about-the-product.png)](https://postimg.cc/hzXYJrYQ)
+
+- Link video About the Product: [About the Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo)
+
 
 # Conclusiones
 
-- La startup tiene un potencial en el mercado ya que aprovecha la uso de vehículos particulares y la necesidad de soluciones de alquiler de vehículos más accesibles.
-
-- AutoYa! tiene el potencial de contribuir a la reducción de la congestión vial y fomentar prácticas de movilidad más sostenibles al optimizar el uso de vehículos existentes.
-
-- La plataforma ofrece a los propietarios de vehículos la oportunidad de generar ingresos adicionales alquilando sus vehículos cuando no lo requieran, siendo esto un incentivo atractivo para generar dinero.
-
-- Uno de los puntos mas importantes que queremos dar a nuestros usuarios es la seguridad y confianza, 
-tanto para compartir un vehiculo o como para alquilar uno.
-
-- AutoYa! debe enfocarse en diferenciarse de la competencia , ofreciendo servicios únicos que la distingan de otras plataformas de alquiler de vehículos.
+## Conclusiones y recomendaciones
 
 ## Video About-the-Team
 
@@ -2638,3 +2537,36 @@ tanto para compartir un vehiculo o como para alquilar uno.
 )
 
 
+
+Repositorios
+
+- Repositorio de nuestro Backend: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend)
+
+- Repositorio de nuestro Frontend: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-FrontEnd)
+
+- Repositorio del informe: [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report)
+
+TB1
+
+- Enlace del Landing Page: [https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/](https://autoya-aplicaciones-web-ws52-grupo-2.github.io/Project-Report/)
+
+- Video de exposición de la TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112662_upc_edu_pe/ERwajd1k9jxLvUTTXo5ulpEBkJdSxExiOCPYAOjeAknfJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=FkBuxI)
+
+- Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+TP
+
+- Link de nuestro frontend desplegado: [https://autoya-frontend-grupo2.netlify.app/login](https://autoya-frontend-grupo2.netlify.app/login)
+<br>(En caso de que la página se caiga, por favor dar click en la opción "Back to our site")
+
+- Video de exposición del TP1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EW6Q5v-N6dNAsuA0rHFvvzoB1zu_YtdcUtT39TWCtUesyQ?e=g4qp4E](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EW6Q5v-N6dNAsuA0rHFvvzoB1zu_YtdcUtT39TWCtUesyQ?e=g4qp4E)
+
+TB2
+
+- Video About the product: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo)
+
+- Video About the team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EdBOFBon7f1NquR7wN58r3MBLTIxG3VQHE6KXpS9ldtT9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=CsuWvy](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EdBOFBon7f1NquR7wN58r3MBLTIxG3VQHE6KXpS9ldtT9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=CsuWvy)
+
+- Video de entrevistas de validación: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ER1DJ6eAwAlJph3LWdBy4VgBz0aued4tPuN92fILoKqpSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=5Zh2yZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ER1DJ6eAwAlJph3LWdBy4VgBz0aued4tPuN92fILoKqpSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=5Zh2yZ)
+
+- Video de exposición de la TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD)
