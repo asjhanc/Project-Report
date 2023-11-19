@@ -3065,9 +3065,9 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 </table><br>
 
 
-[![Sprint-3-Aplicaciones-Web.png](https://i.postimg.cc/Jn5nn5VF/Sprint-3-Aplicaciones-Web.png)](https://postimg.cc/Q9VsY5Mg)
+[![Sprint-4.png](https://i.postimg.cc/SNWXkbqD/Sprint-4.png)](https://postimg.cc/mtgZyqPH)
 
-Link del Trello: [Sprint 3](https://trello.com/b/Bh2iPGiV/sprint-3)
+Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
 
 
 #### Sprint Backlog 4
