@@ -34,6 +34,7 @@
 | Entrega 1 (TB1)      | 8/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | Se creó la estructura del informe y se completó los capítulos 1, 2, 3 y 4      |
 | Entrega 2 (TP)      | 29/09/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo    | -Se actualizó la documentación correspondiente al proyecto. <br> -Se diseñó el Frontend de nuestro proyecto utilizando el Framework Vue 3 y la librería PrimeVue. |
 | Entrega 3 (TB2)      | 03/11/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo<br>- Jhan Clinton Antonio Salazar   | -Se actualizó la documentación correspondiente al proyecto. <br> -Se corrigió algunos errores del FrontEnd del entregable anterior y se desarrolló la primera versión del Backend. |
+| Entrega 4 (TF1)      | 23/11/2023      | - Alonso Fernando Robles Astuñaupa<br>- Erick Gabriel Urbizagasteui Alvarez<br>- Johan Raúl Moreno Vergara<br>- Luis Fernando Isla Quispe<br>- Nicolás Zagal Vallejo<br>- Jhan Clinton Antonio Salazar   | -Se actualizó la documentación correspondiente al proyecto. <br> -Se hizo la integración entre FrontEnd y Backend<br> -Se reliazó el security <br> -Se realizó los testeos <br> -Se culminó con los controllers principales |
 
 # Project Report Collaboration Insights
 
@@ -137,12 +138,21 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
     - [Sprint 3](#sprint-3)
       - [Sprint Planning 3](#sprint-planning-3)
       - [Sprint Backlog 3](#sprint-backlog-3)
-      - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-1)
-      - [Testing Suite Evidence for Sprint Reviews](#testing-suite-evidence-for-sprint-reviews)
+      - [Development Evidence for Sprint 4 Review](#development-evidence-for-sprint-review-1)
+      - [Testing Suite Evidence for Sprint 4 Reviews](#testing-suite-evidence-for-sprint-reviews)
       - [Execution Evidence for Sprint 3 Review](#execution-evidence-for-sprint-3-review)
       - [Services Documentation Evidence for Sprint 3 Review](#services-documentation-evidence-for-sprint-3-review)
       - [Software Deployment Evidence for Sprint 3 Review](#software-deployment-evidence-for-sprint-3-review)
       - [Team Collaboration Insights during Sprint 3](#team-collaboration-insights-during-sprint-3)
+    - [Sprint 4](#sprint-4)
+      - [Sprint Planning 4](#sprint-planning-4)
+      - [Sprint Backlog 4](#sprint-backlog-4)
+      - [Development Evidence for Sprint 4 Review](#development-evidence-for-sprint-4-review-1)
+      - [Testing Suite Evidence for Sprint 4 Reviews](#testing-suite-evidence-for-sprint-4-reviews)
+      - [Execution Evidence for Sprint 4 Review](#execution-evidence-for-sprint-4-review)
+      - [Services Documentation Evidence for Sprint 4 Review](#services-documentation-evidence-for-sprint-4-review)
+      - [Software Deployment Evidence for Sprint 4 Review](#software-deployment-evidence-for-sprint-4-review)
+      - [Team Collaboration Insights during Sprint 4](#team-collaboration-insights-during-sprint-4)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
       - [Datos personales del usuario:](#datos-personales-del-usuario)
@@ -3144,7 +3154,7 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
 </table>
 
 
-#### Development Evidence for Sprint Review
+#### Development Evidence for Sprint 4 Review
 
 <table>
   <tr>
@@ -3213,7 +3223,7 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
   
 </table>
 
-#### Testing Suite Evidence for Sprint Reviews
+#### Testing Suite Evidence for Sprint 4 Reviews
 
 <p>Evidencias de nuestro conjunto de Unit Tests</p>
 
