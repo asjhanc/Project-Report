@@ -3095,71 +3095,51 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI01</td>
-    <td align="center">Creación de entities</td>
-    <td align="center">	Definir las estructuras de datos que representan objetos clave en el modelo de la aplicación.</td>
+    <td align="center">Conectar el Frontend con el Backend</td>
+    <td align="center">	Conectar el Frontend con el Backend</td>
     <td align="center">6</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
     <td align="center">In process</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI02</td>
-    <td align="center">Creación de repositories	</td>
-    <td align="center">Desarrollar componentes para interactuar con la base de datos y gestionar operaciones de datos.</td>
-    <td align="center">4</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">In process</td>
+    <td align="center">Relizar los testeos</td>
+    <td align="center">Relizar el conjunto de testing a nuestro proyecto para asegurar la calidad del software</td>
+    <td align="center">3</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI03</td>
-    <td align="center">Creación de services</td>
-    <td align="center">Diseñar y construir servicios que contienen la lógica de negocio y operaciones específicas.</td>
-    <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">In process</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">3</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI04</td>
-    <td align="center">Creación de controllers</td>
-    <td align="center">Configurar controladores para gestionar solicitudes HTTP y comunicarse con los servicios.</td>
+    <td align="center">Controllers principales terminados</td>
+    <td align="center">Controllers principales terminados</td>
     <td align="center">4</td>
-    <td align="center">Isla Quispe, Luis Fernando</td>
-    <td align="center">In process</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
     <td align="center">No aplica</td>
     <td align="center">WI05</td>
-    <td align="center">Creación de resources</td>
-    <td align="center">Definir recursos y rutas RESTful para exponer funcionalidades a través de una API.</td>
+    <td align="center">Security</td>
+    <td align="center">Security</td>
     <td align="center">4</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI06</td>
-    <td align="center">Creación de responses</td>
-    <td align="center">Crear estructuras de respuesta estandarizadas para formatear y devolver resultados coherentes.</td>
-    <td align="center">7</td>
-    <td align="center">Robles Astuñaupa, Alonso Fernando</td>
-    <td align="center">In process</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">No aplica</td>
-    <td align="center">WI07</td>
-    <td align="center">Configuración de la base de datos</td>
-    <td align="center">Establecer la configuración y conexión con la base de datos, incluyendo credenciales y opciones.</td>
-    <td align="center">4</td>
-    <td align="center">Moreno Vergara, Johan Raúl</td>
-    <td align="center">In process</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
   </tr>
 </table>
 
