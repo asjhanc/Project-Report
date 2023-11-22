@@ -3351,13 +3351,13 @@ Alquiler propietario
 ![Imgur](https://i.imgur.com/TmsPSUZ.png)
 
 
-#### Services Documentation Evidence for Sprint 3 Review 
+#### Services Documentation Evidence for Sprint 4 Review 
 
 Capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
 
 [![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
 
-#### Software Deployment Evidence for Sprint 3 Review
+#### Software Deployment Evidence for Sprint 4 Review
 
 [![1.jpg](https://i.postimg.cc/hGpF3BvZ/1.jpg)](https://postimg.cc/qthZzW82)
 
@@ -3367,11 +3367,11 @@ Capturas de pantalla que ilustran la implementación exitosa de los endpoints en
 
 [![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
 
-#### Team Collaboration Insights during Sprint 3
+#### Team Collaboration Insights during Sprint 4
 
-![Imgur](https://i.imgur.com/qet5BsL.jpg)
+[![Insights.png](https://i.postimg.cc/Fz834hy3/Insights.png)](https://postimg.cc/SYLJLFtx)
 
-![Imgur](https://i.imgur.com/NxBNnVu.jpg)
+[![code-frecuency.png](https://i.postimg.cc/13ZJTZyb/code-frecuency.png)](https://postimg.cc/LnNtYwYV)
 
 ## Validation Interviews
 
