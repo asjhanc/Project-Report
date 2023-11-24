@@ -3060,7 +3060,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
   </tr>
   <tr>
-    <td align="center">Sprint 3 Goal</td>
+    <td align="center">Sprint 4 Goal</td>
     <td align="center">Se debe realizar correcciones Backend, conectar el backend con el Fronted, implementar temas de seguridad y testeos.</td>
   </tr>
   <tr>
