@@ -25,7 +25,7 @@
   <li>Jhan Clinton Antonio Salazar (u20201b312)</li>
 </ul>
 
-**<h3>Agosto, 2023</h3>**
+**<h3>Noviembre, 2023</h3>**
 
 # Registro de Versiones del Informe
 
@@ -44,8 +44,6 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
 [https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/Project-Report)
 
 ## Insights
-
-**TB1**
 
 ![Imgur](https://i.imgur.com/2P39RPM.png)
 
@@ -126,6 +124,15 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
     - [Source Code Style Guide \& Conventions](#source-code-style-guide--conventions)
     - [Software Deployment Configuration](#software-deployment-configuration)
   - [Landing Page, Services \& Applications Implementation](#landing-page-services--applications-implementation)
+    - [Sprint 1](#sprint-1)
+      - [Sprint Planning 1](#sprint-planning-1)
+      - [Sprint Backlog 1](#sprint-backlog-1)
+      - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)
+      - [Testing Suite Evidence for Sprint 1 Review.](#testing-suite-evidence-for-sprint-1-review)
+      - [Execution Evidence for Sprint 1 Review](#execution-evidence-for-sprint-1-review)
+      - [Services Documentation Evidence for Sprint 1 Review](#services-documentation-evidence-for-sprint-1-review)
+      - [Software Deployment Evidence for Sprint 1 Review](#software-deployment-evidence-for-sprint-1-review)
+      - [Team Collaboration Insights during Sprint 1](#team-collaboration-insights-during-sprint-1)
     - [Sprint 2](#sprint-2)
       - [Sprint Planning 2](#sprint-planning-2)
       - [Sprint Backlog 2](#sprint-backlog-2)
@@ -147,7 +154,7 @@ Cada integrante del equipo creó su porpia rama donde realizó sus modificacione
     - [Sprint 4](#sprint-4)
       - [Sprint Planning 4](#sprint-planning-4)
       - [Sprint Backlog 4](#sprint-backlog-4)
-      - [Development Evidence for Sprint 4 Review](#development-evidence-for-sprint-4-review-1)
+      - [Development Evidence for Sprint 4 Review](#development-evidence-for-sprint-4-review)
       - [Testing Suite Evidence for Sprint 4 Reviews](#testing-suite-evidence-for-sprint-4-reviews)
       - [Execution Evidence for Sprint 4 Review](#execution-evidence-for-sprint-4-review)
       - [Services Documentation Evidence for Sprint 4 Review](#services-documentation-evidence-for-sprint-4-review)
@@ -3305,66 +3312,68 @@ Link de nuestra rama de testing: [AutoYa Backend Testing Branch](https://github.
 
 Login
 
-![Imgur](https://i.imgur.com/gGgBhiE.png)
+![Imgur](https://i.imgur.com/fJolrt6.png)
 
 Registro
 
-![Imgur](https://i.imgur.com/HSQiD4u.png)
+![Imgur](https://i.imgur.com/qfnTOCU.png)
 
 Página de inicio arrendatario
 
-![Imgur](https://i.imgur.com/8HKtNja.png)
+![Imgur](https://i.imgur.com/tvVyBCS.png)
 
 Página de inicio propietario
 
-![Imgur](https://i.imgur.com/DTpg8I1.png)
+![Imgur](https://i.imgur.com/tBc2Yvr.png)
 
 Notificaciones propietario
 
-![Imgur](https://i.imgur.com/kIIsofo.png)
+![Imgur](https://i.imgur.com/K9iM34v.png)
 
 Perfil arrendatario
 
-![Imgur](https://i.imgur.com/zPPH5J0.png)
+![Imgur](https://i.imgur.com/bQoRxY5.png)
 
 Perfil propietario
 
-![Imgur](https://i.imgur.com/cOX5t5u.png)
-
-Solicitudes arrendatario
-
-![Imgur](https://i.imgur.com/efGqnl7.png)
+![Imgur](https://i.imgur.com/iWC67yB.png)
 
 Búsqueda de autos arrendatario
 
-![Imgur](https://i.imgur.com/alAM1W8.png)
+![Imgur](https://i.imgur.com/SAKfqed.png)
 
 Mantenimiento arrendatario
 
-![Imgur](https://i.imgur.com/qqLvmhh.png)
+![Imgur](https://i.imgur.com/jtvxqbg.png)
 
 Registro vehicular propietario
 
-![Imgur](https://i.imgur.com/GV8HRnk.png)
+![Imgur](https://i.imgur.com/rj2tPkf.png)
 
 Creación de contrato de alquiler propietario
 
-![Imgur](https://i.imgur.com/797NC9l.png)
+![Imgur](https://i.imgur.com/rj2tPkf.png)
 
 Alquiler arrendatario
 
-![Imgur](https://i.imgur.com/NGwl67E.png)
+![Imgur](https://i.imgur.com/1vkH71O.png)
 
 Alquiler propietario
 
-![Imgur](https://i.imgur.com/TmsPSUZ.png)
+![Imgur](https://i.imgur.com/IXD6mR7.png)
 
 
 #### Services Documentation Evidence for Sprint 4 Review 
 
 Capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
 
-[![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
+![Imgur](https://i.imgur.com/ndAHMlP.png)
+
+![Imgur](https://i.imgur.com/dgfUU0i.png)
+
+![Imgur](https://i.imgur.com/avyEiq5.png)
+
+![Imgur](https://i.imgur.com/RS3S5MJ.png)
 
 #### Software Deployment Evidence for Sprint 4 Review
 
@@ -3374,7 +3383,11 @@ Capturas de pantalla que ilustran la implementación exitosa de los endpoints en
 
 [![3.jpg](https://i.postimg.cc/4yHrdH5j/3.jpg)](https://postimg.cc/H8HSvxFt)
 
-[![55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg](https://i.postimg.cc/gJ9qvwqv/55ec7ee9-283b-457e-b010-012eb4f52d1b.jpg)](https://postimg.cc/hJrdntYj)
+![Imgur](https://i.imgur.com/CcXXtlE.png)
+
+![Imgur](https://i.imgur.com/NEuCD4z.png)
+
+![Imgur](https://i.imgur.com/SLaut7w.png)
 
 #### Team Collaboration Insights during Sprint 4
 
@@ -3841,7 +3854,7 @@ tanto para compartir un vehiculo o como para alquilar uno.
 
 - Corregir problemas con botones que no funcionan adecuadamente, como en la sección "Registrar Vehículo", es esencial para garantizar una experiencia sin frustraciones.
 
-## Video About-the-Team
+- Se debe configurar correctamente el CORS de la web api para permitir que se pueda acceder y utilizar esta adecuadamente desde los dominios que creamos más convenientes.
 
 # Bibliografía
 
@@ -3865,7 +3878,7 @@ TB1
 
 - Video de las entrevistas a segmentos objetivos: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EV5n6cRj4yZNj8BQoHwOSzcBKqH08VMxBaexbYekelyMeg?e=7vnMZV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-TP
+TP1
 
 - Link de nuestro frontend desplegado: [https://autoya-frontend-grupo2.netlify.app/login](https://autoya-frontend-grupo2.netlify.app/login)
 <br>(En caso de que la página se caiga, por favor dar click en la opción "Back to our site")
@@ -3881,3 +3894,13 @@ TB2
 - Video de entrevistas de validación: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ER1DJ6eAwAlJph3LWdBy4VgBz0aued4tPuN92fILoKqpSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=5Zh2yZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ER1DJ6eAwAlJph3LWdBy4VgBz0aued4tPuN92fILoKqpSA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=5Zh2yZ)
 
 - Video de exposición de la TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETigvvi1zSFCskqkBas1D7kBjaOfunpIRvOkpyDKfjRxLw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=cSlbvD)
+
+TF1
+
+- Link de la aplicación web de AutoYa!: [https://autoya-appsweb.netlify.app/](https://autoya-appsweb.netlify.app/)
+
+- Video de exposición del TF1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ET6WpnedNWlPuZ2ifrsGUucBaCKnlUYz71CqREOQpfRkaA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hoo6Fg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ET6WpnedNWlPuZ2ifrsGUucBaCKnlUYz71CqREOQpfRkaA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=hoo6Fg)
+
+- Video About the product: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c105_upc_edu_pe/EZvcr9tUXrRKgtviJ6Og3eIBjKnqynKXFAAI4Bg9a8CjzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=fUCBfo)
+
+- Video About the team sprint 4: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETmfc6aOpWtKmvzo_6EW8PEBHUGRAZX5yVY_lkB2Vx64-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=iPXshg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETmfc6aOpWtKmvzo_6EW8PEBHUGRAZX5yVY_lkB2Vx64-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1FbWFpbCIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=iPXshg)
